@@ -31,11 +31,12 @@ We'll update here if that changes!
 
 We do make use of the fact that class is synchronous, and overall participation
 and engagement is typically be a part of CSE11 grades. So you should not, for
-example, enroll in another class that has a time conflict with CSE11.
+example, enroll in another class that has a time conflict with CSE11, including
+exams and discussion sections.
 
 Typically we have policies that make it so attendance isn't strictly required
-for every class session, so if you have conflicts with a few lectures here and
-there, don't stress about that.  
+for every class session, so if you have conflicts with a few lectures and
+discussions here and there, don't stress about that.  
 
 **What's the course material like?**
 
