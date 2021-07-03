@@ -30,7 +30,7 @@ We'll update here if that changes!
 **Is attendance required?**
 
 We do make use of the fact that class is synchronous, and overall participation
-and engagement is typically be a part of CSE11 grades. So you should not, for
+and engagement is typically a part of CSE11 grades. So you should not, for
 example, enroll in another class that has a time conflict with CSE11, including
 exams and discussion sections.
 
