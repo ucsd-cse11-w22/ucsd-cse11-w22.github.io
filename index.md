@@ -35,8 +35,8 @@ example, enroll in another class that has a time conflict with CSE11, including
 exams and discussion sections.
 
 Typically we have policies that make it so attendance isn't strictly required
-for every class session, so if you have conflicts with a few lectures and
-discussions here and there, don't stress about that.  
+for every class session, so if you might miss a few lectures and discussions
+here and there, don't stress about that.  
 
 **What's the course material like?**
 
