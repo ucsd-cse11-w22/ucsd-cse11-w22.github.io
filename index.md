@@ -37,11 +37,17 @@ be an official hybrid option.
 Regardless of if we have a remote option, we do make use of the fact that class
 is *synchronous*, and overall participation and engagement is typically a part
 of CSE11 grades. So you should not, for example, enroll in another class that
-has a time conflict with CSE11, including exams and discussion sections.
+has a time conflict with CSE11, including discussion sections.
 
 Typically we have policies that make it so attendance isn't strictly required
 for every class session, so if you might miss a few lectures and discussions
 here and there, don't stress about that.  
+
+As an exception to the class being synchronous, the **final exam** will have an
+asynchronous format. Students will not be required to take the final exam
+during the scheduled block, and there will be some flexibility on when it is
+completed the day of the exam (but not necessarily flexibility to take it on
+other days).
 
 **What's the course material like?**
 
