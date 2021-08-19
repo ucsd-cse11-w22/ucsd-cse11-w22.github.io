@@ -20,6 +20,10 @@ who can give the best advice and information about the enrollment process. They
 are friendly and helpful and know much more about timing and any updates you
 will see through the registration system.
 
+There is some useful advice at [Enrolling in CSE
+Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses) that
+likely summarizes a lot of what they would tell you to get you started.
+
 **Will the course be in person or remote?**
 
 Right now we're expecting to run CSE11 in person in lecture halls and computer
