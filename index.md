@@ -34,14 +34,33 @@ be an official hybrid option.
 
 **Is attendance required?**
 
-Regardless of if we have a remote option, we do make use of the fact that class
-is *synchronous*, and overall participation and engagement is typically a part
-of CSE11 grades. So you should not, for example, enroll in another class that
-has a time conflict with CSE11, including discussion sections.
+This policy is subject to change given the uncertainty of university, local,
+national, and global policy.
 
-Typically we have policies that make it so attendance isn't strictly required
-for every class session, so if you might miss a few lectures and discussions
-here and there, don't stress about that.  
+There are several options for attending lectures and getting participation
+credit in this course. All of them require **synchronous** participation and
+discussion with your classmates. Both in-person and remote options are
+available.
+
+The content of the course is primarily delivered through an online textbook and
+through pre-recorded videos from the instructors. The synchronous sessions are
+for problem-solving with your classmates and Q&A with the instructional team.
+In each session, you will work in pairs or small groups on problems that we
+provide and we will go over them as a group.
+
+**Remote sessions** include section C lecture (4-4:50pm MWF), led by instructor
+Greg Miranda, and all of the normally scheduled discussion sections for the
+course, which are on the same days as in-person lectures, and at a variety of
+times.
+
+**In-person sessions** will be led during sections A and B (10-10:50am and 2-2:50pm
+MWF) during the normally-scheduled lecture times in the normally-scheduled
+rooms, led by instructor Joe Politz. These sessions will be recorded [link] but
+will not be available remotely while they are ongoing.
+
+For credit you **must** attend a section on each day (Monday, Wednesday, and
+Friday), but you can attend any section or different sections across the days,
+with some small number of allowed absences.
 
 As an exception to the class being synchronous, the **final exam** will have an
 asynchronous format. Students will not be required to take the final exam
@@ -64,5 +83,7 @@ Also feel free to message jpolitz@eng.ucsd.edu if you're not sure.
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
 or all of Fall 2021?**
 
-Please contact jpolitz@eng.ucsd.edu.
+If the attendance policy above doesn't address your situation, please contact
+`jpolitz@eng.ucsd.edu`.
+
 
