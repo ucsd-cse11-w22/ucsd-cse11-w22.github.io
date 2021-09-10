@@ -48,13 +48,14 @@ for problem-solving with your classmates and Q&A with the instructional team.
 In each session, you will work in pairs or small groups on problems that we
 provide and we will go over them as a group.
 
+**In-person sessions** will be led during the normally-scheduled lecture times in the normally-scheduled
+rooms, led by the instructors. These sessions will be recorded but
+will not be available remotely while they are ongoing.
+
 **Remote sessions** include all of the normally scheduled discussion sections for the
 course, which are on the same days as in-person lectures, and at a variety of
 times.
 
-**In-person sessions** will be led during the normally-scheduled lecture times in the normally-scheduled
-rooms, led by the instructors. These sessions will be recorded [link] but
-will not be available remotely while they are ongoing.
 
 For credit you **must** attend a section on each day (Monday, Wednesday, and
 Friday), but you can attend any section or different sections across the days,
