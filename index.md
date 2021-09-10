@@ -24,15 +24,7 @@ There is some useful advice at [Enrolling in CSE
 Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses) that
 likely summarizes a lot of what they would tell you to get you started.
 
-**Will the course be in person or remote?**
-
-Right now we're expecting to run CSE11 in person in lecture halls and computer
-labs, per [campus
-announcements](https://adminrecords.ucsd.edu/Notices/2021/2021-4-5-3.html?_ga=2.68189841.1679226630.1617638163-1407889900.1563300100).
-We'll update here if that changes; right now we're not positive if there will
-be an official hybrid option.
-
-**Is attendance required?**
+**Will the course be in-person or remote? Is attendance required?**
 
 This policy is subject to change given the uncertainty of university, local,
 national, and global policy.
