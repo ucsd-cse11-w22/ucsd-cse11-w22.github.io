@@ -48,14 +48,12 @@ for problem-solving with your classmates and Q&A with the instructional team.
 In each session, you will work in pairs or small groups on problems that we
 provide and we will go over them as a group.
 
-**Remote sessions** include section C lecture (4-4:50pm MWF), led by instructor
-Greg Miranda, and all of the normally scheduled discussion sections for the
+**Remote sessions** include all of the normally scheduled discussion sections for the
 course, which are on the same days as in-person lectures, and at a variety of
 times.
 
-**In-person sessions** will be led during sections A and B (10-10:50am and 2-2:50pm
-MWF) during the normally-scheduled lecture times in the normally-scheduled
-rooms, led by instructor Joe Politz. These sessions will be recorded [link] but
+**In-person sessions** will be led during the normally-scheduled lecture times in the normally-scheduled
+rooms, led by the instructors. These sessions will be recorded [link] but
 will not be available remotely while they are ongoing.
 
 For credit you **must** attend a section on each day (Monday, Wednesday, and
