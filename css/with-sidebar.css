@@ -1,0 +1,77 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.sidebar {
+    width: 6em;
+    background-color: white;
+    border-right: 1px solid black;
+}
+
+.sidebar li a {
+    color: black;
+    text-decoration: none;
+    width: 5em;
+    height: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.sidebar li a:hover {
+    background: rgb(116, 245, 179);
+}
+
+.sidebar li a img {
+    width: 2em;
+}
+
+.sidebar li .numbers {
+    font-family: sans-serif;
+    font-size: 16pt;
+}
+
+/*
+.sidebar li a:hover::after {
+    position: absolute;
+    left: 100%;
+    content: attr(hover);
+    color: black;
+    border-radius: 3px;
+    border: 1px solid black;
+    box-shadow: 3px 3px black;
+    padding: 3px;
+    background: white;
+    width: 5em;
+    text-align: center;
+}
+*/
+
+.sidebar ul {
+    width: 100%;
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content {
+    flex-grow: 1;
+    background-color: white;
+}

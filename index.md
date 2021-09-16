@@ -32,7 +32,8 @@ national, and global policy.
 There are several options for attending lectures and getting participation
 credit in this course. All of them require **synchronous** participation and
 discussion with your classmates. Both in-person and remote options are
-available.
+available. By **synchronous** we mean that you need to be available during the
+scheduled time.
 
 The content of the course is primarily delivered through an online textbook and
 through pre-recorded videos from the instructors. The synchronous sessions are
@@ -65,11 +66,14 @@ You can see a [previous version of the
 course](https://ucsd-cse11-s20.github.io/), which will give you a sense. This
 offering will not be identical, but will be similar.
 
+There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
+
 **I'm not sure if I should take CSE11 or CSE8A.**
 
 We endorse the [CSE course placement
 advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice).
 Also feel free to message jpolitz@eng.ucsd.edu if you're not sure.
+
 
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
 or all of Fall 2021?**
