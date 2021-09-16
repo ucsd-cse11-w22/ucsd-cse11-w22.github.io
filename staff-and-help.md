@@ -8,6 +8,19 @@ title: "UCSD CSE11 – Accelerated Introduction to Programming"
 There are 25 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
+Quick links:
+
+- Piazza Message Board: LINK
+- Remote Help Zoom Room: LINK
+- Map link for CSE building lab entrance: LINK
+- Lab queue (autograder): LINK
+- Joe's Office Hours (times/link): LINK
+- Greg's Office Hours (times/link): LINK
+
+Overall staff calendar:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_i322htihl8vjkgmo3c0b2hljco%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time: LINK
@@ -44,16 +57,9 @@ work after you make a submission.
 There are two ways to get general help, remotely or in the labs. Checking off
 assignment work can _only_ be done remotely over Zoom.
 
-CALENDAR OF REMOTE AND IN PERSON TIMES
-
 ### Remote Help
 
-To get help *remotely*, you can join this Zoom room:
-
-Join URL: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
-
-You will see the waiting room at first when you first visit this Zoom room.
-There will be staff in the room at the times above.
+To get help *remotely*, you can join this Zoom room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 
 When you arrive in the waiting room, there will be a staff member in the main
 room who will be admitting students and sending them to breakout rooms for

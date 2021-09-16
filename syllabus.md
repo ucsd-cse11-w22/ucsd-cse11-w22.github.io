@@ -4,6 +4,8 @@ title: "Syllabus – UCSD CSE11 Fall 21"
 doodle: "/doodle.png"
 ---
 
+**This is a draft until this notice is removed**
+
 # Accelerated Intro to Programming (UCSD CSE 11) Fall 2021
 
 Greg Miranda (Instructor)
@@ -39,128 +41,40 @@ podcasting system. Since these may be mostly student discussion, these are
 mostly an archive of any live demos that come up rather than a presentation of
 core content.
 
-<a id="staff"></a>
-## Staff & Resources
-
-### Staff
-<a id="staff"></a>
-<p>
-<a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
-</p>
-
-The first is **group help hours** at the times listed below. Group help hours
-are a great place for any kind of question about the course, from help with
-your assignment to clarifications about material in lecture to questions beyond
-what we cover in the course. Group help hours is **not** a good place to get
-help with your specific debugging challenges with your code, since we'll
-usually be reluctant to share one students' code with a whole group, as that
-could rob the rest of the group of some productive struggle and learning.
-
-<iframe
-src="https://calendar.google.com/calendar/embed?src=ucsd.edu_7t0ttaf778binv3hrkg0h3hom0%40group.calendar.google.com&ctz=America%2FLos_Angeles"
-style="border: 0" width="800" height="600" frameborder="0"
-scrolling="no"></iframe>
-
-
-
-The second is **1-on-1 help hours** where TAs and tutors are available to
-answer your questions about any course content, though often this is a good
-place to go for programming help. At the times below, the course staff will be
-available to answer your questions, and it's a great place to get debugging
-help, since you'll be able to 1-on-1 screenshare with a tutor.
-
-You can see instructions for how we're setting this up for remote access here:
-
-[Remote Lab Hours How-To](https://docs.google.com/document/d/1DEDMHBSDrUieqXjZ5K0Hj_h0LhtK3Iis2HSTjeMckpA/edit)
-
-These rules help us make sure we get timely and actionable help to as many
-students as possible. They also encourage students to do some meaningful work
-on their own before reaching out for help – the goal of the course is for you
-to be able to do programming work on your own!
-<iframe src="https://calendar.google.com/calendar/embed?src=ucsd.edu_1sqq70f2o1tt4q5g6efmlaqurg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-The third is through **Piazza**.
-
-Piazza is an online discussion board where we can make announcements and
-students can ask questions. Both we (the course staff) and your classmates can
-answer your questions. There are a few kinds of questions you should ask on
-Piazza:
-
-- Private questions about your code related to a programming assignments
-- Private questions about your grade / progress in the course
-- Public questions about the content of lecture, discussion, lab, and any readings
-- Public questions containing no code that relate to programming assignments
-
-For each assignment, you will find a Frequently Asked Questions post, where we
-will answer all common questions we receive in office hours and via (private)
-Piazza posts. If you ask a question that’s already answered in that post, we’ll
-likely just send you a link to that post. That post will be updated as new
-important questions and answers come in.
-
-When answering questions, be polite, be clear, and assume the best intentions
-of the person asking. If it turns out you make a mistake or were wrong, admit
-it with a smile (emoji are great for this 😊), and make sure the correct
-information is clear. Above all, keep in mind that the course is a community
-whose goal is to foster a positive learning environment for everyone.
-
-For public discussion, note that answers from your classmates are not official!
-They could be downright wrong or misleading, completely by accident. “My
-classmate said so on Piazza” is not a legitimate justification in most
-arguments, though they may indeed lead you in helpful directions.
-
-<a id="grading"></a>
 ## Grading
 
-There are three components to your grade in the course:
+There are a few components to your grade in the course:
 
-- 20% Engagement (surveys, lecture quizzes, etc)
-- 50% Programming Assignments (weekly)
-- 30% Exams (Code + video), 2 midterms + final
-  - Best exam performance counts for ~~15%~~ 17%
-  - Middle exam counts for ~~10%~~ 12%
-  - Lowest exam counts for ~~5%~~ 1%
-  - To pass the course, you must either pass:
-    - Both midterms, or
-    - The final exam
+- Lecture attendance
+- Completing book exercises and surveys
+- Programming assignments (weekly)
+- Programming exams (every 3 weeks + final exam)
 
-    (This policy changed to be slightly more lenient, allowing the final exam
-    to be sufficient even if both midterms were failed.)
+Your final letter grade will be calculated as follows:
 
-Your final letter grade will correspond to the following table:
+- To get an A or above, you must:
+  - Not miss more than 3 lectures
+  - Complete all book exercises and course engagement activities
+  - Get a score of “complete” on all but 1 programming assignment
+  - Get a score of “complete” on all parts of the final exam OR on all of the other programming exams
 
-<table class="table table-striped">
-<tbody>
-<tr align="center" padding="10">
-<td>A+</td>
-<td>A</td>
-<td>A-</td>
-<td>B+</td>
-<td>B</td>
-<td>B-</td>
-<td>C+</td>
-<td>C</td>
-<td>C-</td>
-<td>D, F</td>
-</tr>
-<tr align="center">
-<td>&nbsp; >97&nbsp; </td>
-<td>&nbsp; 93-96.99 &nbsp; </td>
-<td>&nbsp; 90-92.99&nbsp; </td>
-<td>&nbsp; 87-89.99&nbsp; </td>
-<td>&nbsp; 83-86.99&nbsp; </td>
-<td>&nbsp; 80-82.99&nbsp; </td>
-<td>&nbsp; 77-79.99&nbsp; </td>
-<td>&nbsp; 73-76.99&nbsp; </td>
-<td>&nbsp; 65-72.99&nbsp; </td>
-<td>&nbsp; Below 64.99&nbsp; </td>
-</tr>
-</tbody>
-</table>
+- To get a B or above, you must:
+  - Not miss more than 6 lectures
+  - Complete most book exercises and course engagement activities
+  - Get a score of “complete” on all but 2 programming assignments
+  - Get a score of “complete” on all parts of the final exam OR on two of three of the other programming exams
+
+- To get a C or above, you must:
+  - Not miss more than 6 lectures
+  - Complete most book exercises and course engagement activities
+  - Get a score of “complete” on at least half of the programming assignments
+  - Get a score of “complete” on two of three parts of the final exam OR on two of three of the other programming exams
 
 We may adjust the above scale to be more lenient (depending on a number of
 factors that we will not publicize), but we guarantee that we will not adjust
-the scale to make it harder to get a better grade. We will not adjust the
-scale for individual students.
+the scale to make it harder to get a better grade. We will not adjust the scale
+for individual students. Pluses and minuses will be given at instructors
+discretion around the boundaries of these categorizations.
 
 <a id="g:engage"></a>
 <h3>Engagement</h3>
