@@ -1,6 +1,8 @@
+---
 layout: with-sidebar
 title: "UCSD CSE11 – Accelerated Introduction to Programming"
 doodle: "/doodle.png"
+---
 
 # Accelerated Intro to Programming (UCSD CSE 11) Fall 2021
 

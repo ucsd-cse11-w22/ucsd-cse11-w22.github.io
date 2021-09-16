@@ -5,3 +5,8 @@ destination: _site
 lsi: false
 url: "https://uscd-cse8a-w20.github.io/"
 :pygments: true
+collections:
+  week_rows:
+    output: true
+  lectures:
+    output: true

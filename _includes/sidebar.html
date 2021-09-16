@@ -1,13 +1,10 @@
     <div class='sidebar'>
         <ul>
-            <li><a title="Overview" class='sidebar-link' href='./weeks.html'><img src="./calendar.png"></img> Calendar</a></li>
-            <li><a title="Syllabus" class='sidebar-link' href='./syllabus.html'><img src="./syllabus.png"></img> Syllabus</a></li>
-            <li><a title="Week 0-1" class='sidebar-link' href='./week1.html'><span class="numbers">0-1</span> Weeks 0-1</a></li>
-            <li><a title="Week 2" class='sidebar-link' href='./week2.html'><span class="numbers">2</span>Week 2</a></li>
-            <li><a title="Week 3" class='sidebar-link' href='./week3.html'><span class="numbers">3</span>Week 3</a></li>
-            <li><a title="Week 4" class='sidebar-link' href='./week4.html'><span class="numbers">4</span>Week 4</a></li>
-            <li><a title="Week 5" class='sidebar-link' href='./week5.html'><span class="numbers">5</span>Week 5</a></li>
-            <li><a title="Week 6" class='sidebar-link' href='./week6.html'><span class="numbers">6</span>Week 6</a></li>
-            <li><a title="Credits" class='sidebar-link' href='./credits.html'><img width="100%" src="./copyright.png"></img>Credits</a></li>
+            <li><a title="Overview" class='sidebar-link' href='/weeks.html'><img src="/calendar.png"></img> Calendar</a></li>
+            <li><a title="Syllabus" class='sidebar-link' href='/syllabus.html'><img src="/syllabus.png"></img> Syllabus</a></li>
+            {% for lecture in site.lectures %}
+            <li><a title="{{ lecture.index }}" class='sidebar-link' href="{% link {{ lecture.relative_path }} %}"><span class="numbers">{{ lecture.index }}</span>Lec {{ lecture.index}}</a></li>
+            {% endfor %}
+            <li><a title="Credits" class='sidebar-link' href='/credits.html'><img width="100%" src="/copyright.png"></img>Credits</a></li>
         </ul>
     </div>
