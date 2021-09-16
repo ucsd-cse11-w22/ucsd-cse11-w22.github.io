@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE11 – Accelerated Introduction to Programming"
+title: "Syllabus – UCSD CSE11 Fall 21"
 doodle: "/doodle.png"
 ---
 
@@ -8,14 +8,6 @@ doodle: "/doodle.png"
 
 Greg Miranda (Instructor)
 Joe Gibbs Politz (Instructor)
-
-<p>
-<a href="#basics">Basics</a> -
-<a href="#schedule">Schedule</a> -
-<a href="#staff">Staff &amp; Resources</a> -
-<a href="#grading">Grading</a> -
-<a href="#policies">Policies</a>
-</p>
 
 In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and practice organizing programs for
@@ -28,58 +20,24 @@ learning through your own program designs.
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-<a id="basics"></a>
-
-
-## Basics
-
-- Q&A Forum: Piazza [https://piazza.com/ucsd/spring2020/cse11/](https://piazza.com/ucsd/spring2020/cse11/)
-- Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
-
 On an average week in CSE11, you can expect to spend 4-6 hours on videos,
 reading, lecture, and discussion; 2-3 hours on programming practice; and 4-6
 hours working on your programming projects. If you find yourself spending
 dramatically more time than this, it's a good idea to contact the course staff
 and discuss more efficient strategies in office hours.
 
-<a id="b:lec"></a>
+<h3>Lecture and Discussion Sections</h3>
 
-<h3>Lecture</h3>
+Most course content will be presented asynchronously through videos and
+readings, with associated interactive activities. Lectures will involve problem
+solving with your classmates. Attendance is required at problem-solving lecture
+sections; you can either attend your assigned lecture time in person, or attend
+one of the discussion sections remotely to get credit.
 
-Most lecture content will be presented asynchronously through videos and
-readings. These will come with associated quizzes that are due on the following
-Tuesday or Thursday at the start of our originally-scheduled lecture time. The
-quizzes are required work to demonstrate your consistent engagement with the
-material.
-
-In our originally-scheduled lecture time, we will play the videos with an
-opportunity for live questions, clarifications, and some prompts for you to
-work on beyond the assigned reading and videos. Attendance is encouraged but
-not required. Recordings of relevant classwide discussions will be posted after
-the meetings, though the selected videos/reading for the given day are the
-official “lecture” for that day.
-
-The scheduled lecture time is (in the time zone of San Diego) Tuesday and
-Thursday from 11am-12:20pm. You can visit the lectures via zoom links provided
-with each of the lecture links in the schedule spreadsheet below.
-
-
-<a id="b:disc"></a>
-<h3>Discussion Sections</h3>
-
-Discussion sections will be used to demo tools and answer questions about the
-programming assignment specifications. They will be recorded and released, also
-have similar discussion prompts and breakout groups to work on problems.
-Attendance is encouraged but optional. The discussions are (in the time zone of
-San Diego) from 4-4:50pm. Zoom links for the discussion sections will be posted
-in the resources provided in the schedule spreadsheet below
-
-
-
-
-<a id="schedule"></a>
-
-
+Recordings of the in-person lectures will be posted later through the UCSD
+podcasting system. Since these may be mostly student discussion, these are
+mostly an archive of any live demos that come up rather than a presentation of
+core content.
 
 <a id="staff"></a>
 ## Staff & Resources
@@ -89,11 +47,6 @@ in the resources provided in the schedule spreadsheet below
 <p>
 <a href="https://jpolitz.github.io" target="">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
-
-There are 12 staff members(instructor, TAs, and tutors) to help with your learning, and a few kinds of help sessions
-you can attend. 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHcR4l04Pfe8mEBjKeNC_zlCtu7bVwN0uJuJxqlNHjpGWLZFFepkILjeG6xqDrlFJsvcWnJ8Ru3gYn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
-
 
 The first is **group help hours** at the times listed below. Group help hours
 are a great place for any kind of question about the course, from help with
