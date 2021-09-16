@@ -45,28 +45,28 @@ core content.
 
 There are a few components to your grade in the course:
 
-- Lecture attendance
-- Completing book exercises and surveys
+- Lecture attendance (each lecture)
+- Completing book exercises and surveys (multiple times per week)
 - Programming assignments (weekly)
-- Programming exams (every 3 weeks + final exam)
+- Programming exams (3 during quarter + final exam)
 
 Your final letter grade will be calculated as follows:
 
 - To get an A or above, you must:
   - Participate in at least 20 lectures
-  - Complete all book exercises and course engagement activities
+  - Complete ALL book exercises and course engagement activities
   - Get a score of “complete” on all but 1 programming assignment
   - Get a score of “complete” on all parts of the final exam OR on all of the other programming exams
 
 - To get a B or above, you must:
   - Participate in at least 17 lectures
-  - Complete most book exercises and course engagement activities
+  - Complete MOST book exercises and course engagement activities
   - Get a score of “complete” on all but 2 programming assignments
   - Get a score of “complete” on all parts of the final exam OR on two of three of the other programming exams
 
 - To get a C or above, you must:
   - Participate in at least 15 lectures
-  - Complete most book exercises and course engagement activities
+  - Complete MOST book exercises and course engagement activities
   - Get a score of “complete” on at least half of the programming assignments
   - Get a score of “complete” on two of three parts of the final exam OR on two of three of the other programming exams
 
@@ -92,6 +92,17 @@ credit.
 
 Most weeks there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
+
+On each assignment, you can earn one of the following scores:
+
+- **2** – the assignment is totally complete with no siginificant
+flaws
+- **1** – we have identified at least one significant issue with your
+assignment that needs to be fixed
+- **0** – the assignment is not submitted or not complete enough to
+give feedback
+
+
 
 On each submission, you will get a grade which partially comes from an
 automatic grade based on the correctness of your code (a small part of your
@@ -126,20 +137,14 @@ grade via feedback tasks and resubmitting any automatically-graded component.
 In place of on-paper exams, we will follow a different procedure for “exams”
 this quarter.
 
-Twice during the quarter and once at the time of the final exam, we will give
-you a short programming assignment that you must complete in a short time frame
-(2-3 days) without any help from other people, including the course staff. You
-can use any resources, notes, readings, and past code from the course to help
-in addition to Web-based resources.  Along with submitting the program, you
-will record a short video of yourself presenting the program you wrote,
-demonstrating its behavior and your understanding. We'll give some
-opportunities for practice with this process, and much more detailed
-instructions with the exam release.
-
-The first time will be in **week 6**, with Thu/Fri/Sat as the days to complete
-it (right after PA5, May 6-8). The second time will be in **week 9** with
-Thu/Fri/Sat as the days to complete it (May 28-30). The last time will be for a
-few days leading up to our final exam date (June 7-9).
+Three times during the quarter and once at the time of the final exam, we will
+give you a programming assignment that you must complete in a short time frame
+(2-3 days) without any help from other people, including the course staff.  You
+can use any resources, notes, readings, and past code from the course to help in
+addition to Web-based resources.  Along with submitting the program, you will
+record a short video of yourself presenting the program you wrote, demonstrating
+its behavior and your understanding. We'll give some opportunities for practice
+with this process, and much more detailed instructions with the exam release.
 
 We **do not** expect that the programming work and recording will take three
 days of constant work. The tasks will be significantly shorter than the PAs, so
@@ -156,18 +161,7 @@ style of presentation is a good thing for you to learn in general and a rich
 way for us to assess your skills.
 2. The main thing that in-person, on-paper exams let us do is easily verify
 that it is in fact **you**, the student, completing a major assessment. We can
-similarly do so with a video – many students are concerned that cheating will
-be frequent in all-remote courses, and this is our way of ensuring that we are
-giving grades to the people who earned them.
-
-We will delete all the videos we receive from you after assigning final grades
-for the course, and they will be stored in a university-controlled Google Drive
-directory during the quarter only accessible to the course staff.
-
-Please send a private message on Piazza or an email to the instructor if you
-have concerns about this exam policy or cannot complete exams in this style for
-some reason.
-
+similarly do so with a video.
 
 <a id="policies"></a>
 ## Policies
