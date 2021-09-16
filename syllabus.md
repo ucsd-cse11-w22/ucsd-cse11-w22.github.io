@@ -53,19 +53,19 @@ There are a few components to your grade in the course:
 Your final letter grade will be calculated as follows:
 
 - To get an A or above, you must:
-  - Not miss more than 3 lectures
+  - Participate in at least 20 lectures
   - Complete all book exercises and course engagement activities
   - Get a score of “complete” on all but 1 programming assignment
   - Get a score of “complete” on all parts of the final exam OR on all of the other programming exams
 
 - To get a B or above, you must:
-  - Not miss more than 6 lectures
+  - Participate in at least 17 lectures
   - Complete most book exercises and course engagement activities
   - Get a score of “complete” on all but 2 programming assignments
   - Get a score of “complete” on all parts of the final exam OR on two of three of the other programming exams
 
 - To get a C or above, you must:
-  - Not miss more than 6 lectures
+  - Participate in at least 15 lectures
   - Complete most book exercises and course engagement activities
   - Get a score of “complete” on at least half of the programming assignments
   - Get a score of “complete” on two of three parts of the final exam OR on two of three of the other programming exams
