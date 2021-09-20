@@ -10,7 +10,7 @@ learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
-- Piazza Message Board: [piazza.com/ucsd/fall2021/cse11_fa21/home](piazza.com/ucsd/fall2021/cse11_fa21/home)
+- Piazza Message Board: [https://piazza.com/ucsd/fall2021/cse11_fa21/home](https://piazza.com/ucsd/fall2021/cse11_fa21/home)
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
