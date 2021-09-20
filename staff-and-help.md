@@ -85,7 +85,7 @@ FILL AUTOGRADER INSTRUCTIONS
 
 ### Instructor Office Hours
 
-``Office hours'' should maybe be called ``student hours'' – they are times where
+“Office hours” should maybe be called “student hours” – they are times where
 we are available in our office (physically or virtually) **for you**. You can
 come to instructor office hours with any kind of questions about the course, or
 even about the next course, or about catching up if you feel you've fallen
