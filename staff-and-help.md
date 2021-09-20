@@ -2,8 +2,10 @@
 layout: with-sidebar
 title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
+**This is a draft until this notice is removed**
 
-# Asking Questions, Getting Help, and Meeting the Staff
+# UCSD CSE 11 Fall 2021
+## Asking Questions and Getting Help
 
 There are 25 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
@@ -22,10 +24,6 @@ Quick links:
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
   - **Combined remote/in-person**: Monday, Wednesday 10-11:30am
-
-Overall staff calendar:
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_i322htihl8vjkgmo3c0b2hljco%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Message Board Questions
 
@@ -177,5 +175,9 @@ or all of Fall 2021?**
 
 If the attendance policy above doesn't address your situation, please contact
 `jpolitz@eng.ucsd.edu`.
+
+**Where are the icons from?**
+
+Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
 
 

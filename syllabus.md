@@ -6,7 +6,8 @@ doodle: "/doodle.png"
 
 **This is a draft until this notice is removed**
 
-# Accelerated Intro to Programming (UCSD CSE 11) Fall 2021
+# UCSD CSE 11 Fall 2021
+## Accelerated Intro to Programming
 
 Greg Miranda (Instructor)
 Joe Gibbs Politz (Instructor)
