@@ -79,6 +79,16 @@ core content.
 
 ### Book Exercises/Quizzes and Course Engagement
 
+Along with each lecture will come some required pre-lecture work. Most often
+this will be reading and activities from our [Stepik
+textbook](https://stepik.org/course/100177/syllabus), and will also sometimes
+include surveys or check-in quizzes so we can get your feedback about the course
+and check on your understanding.
+
+The online texbook records your progress, and we give a schedule of expected
+times to finish the readings. There is no penalty for completing these late, but
+they are assigned so that you will be prepared to participate in problem solving
+session and so that you know the expected pace of the course.
 
 
 <a id="p:programming"></a>
@@ -101,10 +111,11 @@ There are numerous opportunities to get feedback on your work and improve:
 - **Before** the deadline for each assignment, you can come to a feedback
 meeting with a staff member to have your work graded and get feedback on what,
 if anything, you need to fix.
-- **At the deadline** for each assignment we will grade your work, if it wasn't
-already checked off as complete in the feedback meeting or you made improvements.
-- **After the deadline** you can have one more meeting with a staff member to
-improve your grade by showing your improvements based on feedback.
+- **Right after the deadline** for each assignment we will grade your work, if
+it wasn't already checked off as complete in the feedback meeting or you made
+improvements.
+- **After you receive your grade** you can have one more meeting with a staff
+member to improve your grade by showing your improvements based on feedback.
 
 The **After the deadline** process applies if your submission is late. You can
 come to a one-time meeting with a staff member to have your work graded.
