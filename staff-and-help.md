@@ -10,7 +10,7 @@ learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
-- [Course FAQs](#faq)
+- [Course FAQs (includes waitlist FAQs)](#faq)
 - Piazza Message Board: [https://piazza.com/ucsd/fall2021/cse11_fa21/home](https://piazza.com/ucsd/fall2021/cse11_fa21/home)
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
@@ -105,9 +105,9 @@ go to the designated remote hours for those.
 
 **Do I have to participate if I'm on the waitlist?**
 
-Yes, you're responsible for all the material presented while you're on the
-waitlist, including any submission deadlines, and your work will be graded as
-usual.
+Yes, you're responsible for everything as if you're a normally-enrolled student
+while you're on the waitlist, including any submission deadlines, and your work
+will be graded as usual.
 
 **I have a question about enrollments and the waitlist.**
 
