@@ -28,7 +28,43 @@ hours working on your programming projects. If you find yourself spending
 dramatically more time than this, it's a good idea to contact the course staff
 and discuss more efficient strategies in office hours.
 
-<h3>Lecture and Discussion Sections</h3>
+## Course Components
+
+There are a few components to your grade in the course:
+
+- Problem session attendance
+- Completing book exercises and surveys
+- Programming assignments
+- Programming exams
+
+Your final letter grade will be calculated as follows:
+
+- To get an A or above, you must:
+  - Participate in at least 20 problem sessions
+  - Complete **all** book exercises/quizzes and course engagement activities
+  - Get a score of **2** on all but 1 programming assignment, and no **0**'s on programming assignments
+  - Get a score of **2** on an assessment corresponding to each third of the course
+
+- To get a B or above, you must:
+  - Participate in at least 17 problem sessions
+  - Complete more than half of the book exercises/quizzes and course engagement activities
+  - Get a score of **2** on all but 2 programming assignments, and no **0**'s on programming assignments
+  - Get a score of **2** on an assessment corresponding to two of the three thirds of the course
+
+- To get a C- or above (a P on the P/NP scale), you must:
+  - Participate in at least 14 problem sessions
+  - Complete more than half book exercises/quizzes and course engagement activities
+  - Get a score of **2** on at least half of the programming assignments
+  - Get a score of **2** on an assessment corresponding to two of the three thirds of the course
+
+
+We may adjust the above scale to be more lenient (depending on a number of
+factors that we will not publicize), but we guarantee that we will not adjust
+the scale to make it harder to get a better grade. We will not adjust the scale
+for individual students. Pluses and minuses will be given at the instructors'
+discretion around the boundaries of these categorizations.
+
+<h3>Problem Sessions – Lecture and Discussion Sections</h3>
 
 Most course content will be presented asynchronously through videos and
 readings, with associated interactive activities. Lectures will involve problem
@@ -41,51 +77,9 @@ podcasting system. Since these may be mostly student discussion, these are
 mostly an archive of any live demos that come up rather than a presentation of
 core content.
 
-## Grading
+### Book Exercises/Quizzes and Course Engagement
 
-There are a few components to your grade in the course:
 
-- Lecture attendance (each lecture)
-- Completing book exercises and surveys (multiple times per week)
-- Programming assignments (weekly)
-- Programming exams (3 during quarter + final exam)
-
-Your final letter grade will be calculated as follows:
-
-- To get an A or above, you must:
-  - Participate in at least 20 lectures
-  - Complete ALL book exercises and course engagement activities
-  - Get a score of “complete” on all but 1 programming assignment
-  - Get a score of “complete” on all parts of the final exam OR on all of the other programming exams
-
-- To get a B or above, you must:
-  - Participate in at least 17 lectures
-  - Complete MOST book exercises and course engagement activities
-  - Get a score of “complete” on all but 2 programming assignments
-  - Get a score of “complete” on all parts of the final exam OR on two of three of the other programming exams
-
-- To get a C or above, you must:
-  - Participate in at least 15 lectures
-  - Complete MOST book exercises and course engagement activities
-  - Get a score of “complete” on at least half of the programming assignments
-  - Get a score of “complete” on two of three parts of the final exam OR on two of three of the other programming exams
-
-We may adjust the above scale to be more lenient (depending on a number of
-factors that we will not publicize), but we guarantee that we will not adjust
-the scale to make it harder to get a better grade. We will not adjust the scale
-for individual students. Pluses and minuses will be given at instructors
-discretion around the boundaries of these categorizations.
-
-<a id="g:engage"></a>
-<h3>Engagement</h3>
-
-Each lecture will come with an associated quiz. Completing the quiz before the
-next lecture section with at least half of the answers correct gains engagement
-credit. You can also get engagement credit by submitting various surveys and
-other small engagement tasks we may ask of you throughout the quarter.
-
-You need to get credit for 14 (out of 20 total) quizzes for full engagement
-credit.
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
@@ -95,15 +89,25 @@ programming will make up the majority of your work in the course.
 
 On each assignment, you can earn one of the following scores:
 
-- **2** – the assignment is totally complete with no siginificant
+- **2** (Complete) – the assignment is totally complete with no siginificant
 flaws
-- **1** – we have identified at least one significant issue with your
+- **1** (In Progress) – we have identified at least one significant issue with your
 assignment that needs to be fixed
-- **0** – the assignment is not submitted or not complete enough to
+- **0** (Incomplete) – the assignment is not submitted or not complete enough to
 give feedback
 
+There are numerous opportunities to get feedback on your work and improve:
 
+- **Before** the deadline for each assignment, you can come to a feedback
+meeting with a staff member to have your work graded and get feedback on what,
+if anything, you need to fix.
+- **At the deadline** for each assignment we will grade your work, if it wasn't
+already checked off as complete in the feedback meeting or you made improvements.
+- **After the deadline** you can have one more meeting with a staff member to
+improve your grade by showing your improvements based on feedback.
 
+The **After the deadline** process applies if your submission is late. You can
+come to a one-time meeting with a staff member to have your work graded.
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
@@ -112,13 +116,36 @@ In place of on-paper exams, we will follow a different procedure for “exams”
 this quarter.
 
 Three times during the quarter and once at the time of the final exam, we will
-give you a programming assignment that you must complete in a short time frame
-(2-3 days) without any help from other people, including the course staff.  You
-can use any resources, notes, readings, and past code from the course to help in
-addition to Web-based resources.  Along with submitting the program, you will
-record a short video of yourself presenting the program you wrote, demonstrating
-its behavior and your understanding. We'll give some opportunities for practice
-with this process, and much more detailed instructions with the exam release.
+give you a programming assignment that you must complete in a short (24-48
+hours) time frame without any help from other people, including the course
+staff. The final exam is cumulative, with three sections that each correspond to
+the material from one of the in-quarter exams. Your score on the assessment for
+a “third” of the course is the **maximum** of your score on that in-quarter exam
+and that part on the final. The scores on assessments are **0**, **1**, and
+**2**, with the same meanings as for programming assignments.
+
+For example:
+
+- On the three in-quarter exams you score 1, 0, and 2 (you miss the second). On
+the final exam you score 2, 1, and 0 on the three parts. Your assessment scores
+are 2, 1, 2, sufficient for a B, but not an A.
+- On the three in-quarter exams you score 2, 2, and 2. You skip the final so
+your scores are 0, 0, 0. Your assessment scores are 2, 2, 2, sufficient for an
+A.
+- On the three in-quarter exams you score 1, 1, and 1. On the final you score 2,
+2, 2. Your assessment scores are 2, 2, 2, sufficient for an A.
+
+This grading policy also forms the missed exam policy – if you miss an
+in-quarter exam, you can make up that credit on the final. If you miss the
+final, your in-quarter exam scores will be used. Late work on exams or make-up
+exams will not be offered.
+
+You can use any resources, notes, readings, and past code from the course to
+help in addition to Web-based resources.  Along with submitting the program, you
+will record a short video of yourself presenting the program you wrote,
+demonstrating its behavior and your understanding. We'll give some opportunities
+for practice with this process, and much more detailed instructions with the
+exam release.
 
 We **do not** expect that the programming work and recording will take three
 days of constant work. The tasks will be significantly shorter than the PAs, so
@@ -165,21 +192,12 @@ becomes necessary so it isn't a surprise to anyone.
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 on academic integrity as well.
-
-### Late Work
-
-In general, late work is not accepted. However, most of the categories of
-submission for the course allow some missed submissions without having a
-large impact on your grade, and you only have to submit a subset of them for
-full credit.
-
 ### Regrades
 
 Mistakes sometimes occur in grading. Once grades are posted for an assignment,
 we will allow a short period for you to request a fix (announced along with
 grade release). If you don't make a request in the given period, the grade you
 were initially given is final.
-
 
 ### Diversity and Inclusion
 

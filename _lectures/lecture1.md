@@ -2,7 +2,12 @@
 layout: with-sidebar
 index: 1
 name: Introduction
+released-on: "2020-09-24"
 ---
+
+Example of embedding Google Drive PDF:
+
+<iframe src="https://drive.google.com/file/d/19JrgyrjWEqPoFX7tgIdk02Y6kngAH6D7/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Example of embedding repl.it:
 

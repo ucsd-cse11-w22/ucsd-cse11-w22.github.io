@@ -29,7 +29,7 @@ html, body {
 }
 
 .sidebar li a:hover {
-    background: rgb(116, 245, 179);
+    background: #00c6d7; /* https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html */
 }
 
 .sidebar li a img {
@@ -81,6 +81,10 @@ html, body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-left: 1px solid black;
     box-sizing: content-box;
+}
+
+.content a {
+    color: #fc8900;
 }
 
 .content {
