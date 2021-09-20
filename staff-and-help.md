@@ -14,10 +14,13 @@ Quick links:
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
-- Joe's Office Hours (times/link):
-  - **In person**: Monday 1-2pm
-  - **Remote**: Tuesday 1-2pm [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
-- Greg's Office Hours (times/link): LINK
+- Joe
+  - Email: `jpolitz@eng.ucsd.edu`
+  - **In-person only office hours**: Monday 1-2pm
+  - **Remote only office hours**: Tuesday 1-2pm [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
+- Greg
+  - Email: `g2miranda@eng.ucsd.edu`
+  - **Combined remote/in-person**: Monday, Wednesday 10-11:30am
 
 Overall staff calendar:
 
