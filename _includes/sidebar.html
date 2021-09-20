@@ -4,7 +4,7 @@
             <li><a title="Syllabus" class='sidebar-link' href='/syllabus.html'><img src="/syllabus.png"></img> Syllabus</a></li>
             <li><a title="Questions" class='sidebar-link' href='/staff-and-help.html'><img src="/communication.png"></img> Questions</a></li>
             {% for lecture in site.lectures %}
-            <li><a title="{{ lecture.index }}" class='sidebar-link' href="{% link {{ lecture.relative_path }} %}"><span class="numbers">{{ lecture.index }}</span>Lec {{ lecture.index}}</a></li>
+            <li><a title="{{ lecture.index }}" class='sidebar-link' href="{{ lecture.url }}"><span class="numbers">{{ lecture.index }}</span>Lec {{ lecture.index}}</a></li>
             {% endfor %}
             <li><a title="Credits" class='sidebar-link' href='/credits.html'><img width="100%" src="/copyright.png"></img>Credits</a></li>
         </ul>
