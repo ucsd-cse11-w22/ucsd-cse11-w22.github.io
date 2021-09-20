@@ -148,7 +148,7 @@ for practice with this process, and much more detailed instructions with the
 exam release.
 
 We **do not** expect that the programming work and recording will take a full
-day constant work. The tasks will be significantly shorter than the PAs, so this
+day of constant work. The tasks will be significantly shorter than the PAs, so this
 should only take a few hours. We give the broad range to give you the best
 chance to schedule some quiet, focused time to do the work and record the
 presentation.
