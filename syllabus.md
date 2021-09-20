@@ -169,21 +169,21 @@ similarly do so with a video.
 
 ### Academic Integrity
 
-Individual assignments will describe their academic integrity requirements.
-This have a [missive on academic integrity](https://docs.google.com/document/d/1F6tu-82W5kFkEkZG8n4F7p-MLhyFVWLdPw5Tm1fABfM/edit?folder=1jNMUNlJuyXaOxDE5MdNNfRFARxfP40Rr#)
-has some details some examples of what we expect in terms of collaboration in the
-course.
+Individual assignments will describe their academic integrity requirements. You
+should pay attention to the descriptions of what collaboration is allowed and
+expected on each assignment.
 
-Note that with the course remote, one challenge we face as an instructional
-team is verifying that students are submitting their own work. We typically use
-exams to mitigate this particular challenge to academic integrity, since it
-requires an in-person, ID-checked assessment. Assignments and exams will come
-with specific policies for what types of collaboration is allowed, but we have
-one course-wide policy – we may reach out to students to schedule a check-in on
+One challenge we face as an instructional team is verifying that students are
+submitting their own work given the number of remote and asynchronous options we
+provide. In the past, we relied on in-person, ID-checked exams to mitigate this
+particular challenge to academic integrity. Assignments and exams will come with
+specific policies for what types of collaboration is allowed, but we have one
+course-wide policy – we may reach out to students to schedule a check-in on
 their understanding of work they've submitted if we're suspicious about an
-academic integrity violation. This would involve a videoconference with a TA or
-instructor to check that the student has the understanding demonstrated by
-their work.
+academic integrity violation.  This would involve a videoconference with a TA or
+instructor to check that the student has the understanding demonstrated by their
+work. This is in addition to any video screencasts that are submitted as a part
+of the exam.
 
 We don't expect to use this option much (certainly **you** are a student that
 acts with integrity!), but we state it clearly in the syllabus in case it
@@ -192,6 +192,7 @@ becomes necessary so it isn't a surprise to anyone.
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 on academic integrity as well.
+
 ### Regrades
 
 Mistakes sometimes occur in grading. Once grades are posted for an assignment,
