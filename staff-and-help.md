@@ -103,6 +103,12 @@ go to the designated remote hours for those.
 <a name="faq"></a>
 ## FAQs
 
+**Do I have to participate if I'm on the waitlist?**
+
+Yes, you're responsible for all the material presented while you're on the
+waitlist, including any submission deadlines, and your work will be graded as
+usual.
+
 **I have a question about enrollments and the waitlist.**
 
 Please contact [CSE student
