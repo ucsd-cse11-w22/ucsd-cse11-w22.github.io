@@ -79,11 +79,17 @@ message us on Piazza if someone is supposed to be there and no one is there.
 
 ### In-person Help
 
-To get help *in-person*, you can go to the labs in the CSE basement:
+To get help *in-person*, you can file a ticket on
+[https://autograder.ucsd.edu](https://autograder.ucsd.edu) from the labs in the
+CSE building.
 
-MAP HERE
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-FILL AUTOGRADER INSTRUCTIONS
+The labs are on the lowest level of the building; the hallway outside the labs
+looks like this:
+
+<img src="./basement.jpg" width="100%">
+
 
 ### Instructor Office Hours
 
