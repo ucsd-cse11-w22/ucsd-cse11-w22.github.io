@@ -238,3 +238,7 @@ If you experience any sort of harassment or discrimination, please contact the
 instructor as soon as possible.   If you prefer to speak with someone outside
 of the course, please contact the Office of Prevention of Harassment and
 Discrimination: https://ophd.ucsd.edu/.
+
+### Consent to Participate in Educational Research
+
+<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vSssZh6Sb22jt0dKnwc2NHG7wKPCE1Ehi-o2QdJUd9c1MZjY_1AvcIrH-a2tTIcHEROGfGFJhNfJAjW/pub?embedded=true"></iframe>
