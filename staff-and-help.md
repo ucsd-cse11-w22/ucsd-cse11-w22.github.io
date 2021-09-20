@@ -10,11 +10,13 @@ learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
-- Piazza Message Board: LINK
-- Remote Help Zoom Room: LINK
-- Map link for CSE building lab entrance: LINK
-- Lab queue (autograder): LINK
-- Joe's Office Hours (times/link): LINK
+- Piazza Message Board: [piazza.com/ucsd/fall2021/cse11_fa21/home](piazza.com/ucsd/fall2021/cse11_fa21/home)
+- Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
+- Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
+- Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
+- Joe's Office Hours (times/link):
+  - **In person**: Monday 1-2pm
+  - **Remote**: Tuesday 1-2pm [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
 - Greg's Office Hours (times/link): LINK
 
 Overall staff calendar:
@@ -23,7 +25,8 @@ Overall staff calendar:
 
 ## Message Board Questions
 
-You can post questions on our Piazza message board at any time: LINK
+You can post questions on our Piazza message board at any time:
+[piazza.com/ucsd/fall2021/cse11_fa21/home](piazza.com/ucsd/fall2021/cse11_fa21/home)
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
