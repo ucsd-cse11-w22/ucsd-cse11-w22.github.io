@@ -83,4 +83,16 @@ MAP HERE
 
 FILL AUTOGRADER INSTRUCTIONS
 
+### Instructor Office Hours
+
+``Office hours'' should maybe be called ``student hours'' – they are times where
+we are available in our office (physically or virtually) **for you**. You can
+come to instructor office hours with any kind of questions about the course, or
+even about the next course, or about catching up if you feel you've fallen
+behind, or something you wanted to know more about from lecture, and more. You
+can also ask us programming questions in office hours, just like you would in
+help hours with the tutors. In order to focus our time on student questions,
+instructors **won't** check off work during instructor office hours; you have to
+go to the designated remote hours for those.
+
 
