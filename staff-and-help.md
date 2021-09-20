@@ -10,13 +10,14 @@ learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
+- [Course FAQs](#faq)
 - Piazza Message Board: [https://piazza.com/ucsd/fall2021/cse11_fa21/home](https://piazza.com/ucsd/fall2021/cse11_fa21/home)
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
 - Joe
   - Email: `jpolitz@eng.ucsd.edu`
-  - **In-person only office hours**: Monday 1-2pm
+  - **In-person only office hours**: Monday 11-12pm
   - **Remote only office hours**: Tuesday 1-2pm [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
@@ -97,5 +98,78 @@ can also ask us programming questions in office hours, just like you would in
 help hours with the tutors. In order to focus our time on student questions,
 instructors **won't** check off work during instructor office hours; you have to
 go to the designated remote hours for those.
+
+
+<a name="faq"></a>
+## FAQs
+
+**I have a question about enrollments and the waitlist.**
+
+Please contact [CSE student
+affairs](https://cse.ucsd.edu/undergraduate/undergraduate/advising/cse-student-affairs-office-hours),
+who can give the best advice and information about the enrollment process. They
+are friendly and helpful and know much more about timing and any updates you
+will see through the registration system.
+
+There is some useful advice at [Enrolling in CSE
+Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses) that
+likely summarizes a lot of what they would tell you to get you started.
+
+**Will the course be in-person or remote? Is attendance required?**
+
+This policy is subject to change given the uncertainty of university, local,
+national, and global policy.
+
+There are several options for attending lectures and getting participation
+credit in this course. All of them require **synchronous** participation and
+discussion with your classmates. Both in-person and remote options are
+available. By **synchronous** we mean that you need to be available during the
+scheduled time.
+
+The content of the course is primarily delivered through an online textbook and
+through pre-recorded videos from the instructors. The synchronous sessions are
+for problem-solving with your classmates and Q&A with the instructional team.
+In each session, you will work in pairs or small groups on problems that we
+provide and we will go over them as a group.
+
+**In-person sessions** will be led during the normally-scheduled lecture times in the normally-scheduled
+rooms, led by the instructors. These sessions will be recorded but
+will not be available remotely while they are ongoing.
+
+**Remote sessions** include all of the normally scheduled discussion sections for the
+course, which are on the same days as in-person lectures, and at a variety of
+times.
+
+
+For credit you **must** attend a section on each day (Monday, Wednesday, and
+Friday), but you can attend any section or different sections across the days,
+with some small number of allowed absences.
+
+As an exception to the class being synchronous, the **final exam** will have an
+asynchronous format. Students will not be required to take the final exam
+during the scheduled block, and there will be some flexibility on when it is
+completed the day of the exam (but not necessarily flexibility to take it on
+other days).
+
+**What's the course material like?**
+
+You can see a [previous version of the
+course](https://ucsd-cse11-s20.github.io/), which will give you a sense. This
+offering will not be identical, but will be similar.
+
+There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
+
+**I'm not sure if I should take CSE11 or CSE8A.**
+
+We endorse the [CSE course placement
+advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice).
+Also feel free to message jpolitz@eng.ucsd.edu if you're not sure.
+
+
+**What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
+or all of Fall 2021?**
+
+If the attendance policy above doesn't address your situation, please contact
+`jpolitz@eng.ucsd.edu`.
 
 

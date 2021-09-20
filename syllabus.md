@@ -68,14 +68,19 @@ discretion around the boundaries of these categorizations.
 
 Most course content will be presented asynchronously through videos and
 readings, with associated interactive activities. Lectures will involve problem
-solving with your classmates. Attendance is required at problem-solving lecture
-sections; you can either attend your assigned lecture time in person, or attend
-one of the discussion sections remotely to get credit.
+solving with your classmates. Participation is required at problem-solving
+sections; we will check in with you with in-class forms or staff joining your
+discussions to ensure everyone is present and contributing.
 
-Recordings of the in-person lectures will be posted later through the UCSD
-podcasting system. Since these may be mostly student discussion, these are
-mostly an archive of any live demos that come up rather than a presentation of
-core content.
+**In-person sessions** will be led during the normally-scheduled lecture times
+in the normally-scheduled rooms, led by the instructors. These sessions will be
+recorded but will not be available remotely while they are ongoing. Since these
+may be mostly student discussion, these are mostly an archive of any live demos
+that come up rather than a presentation of core content.
+
+**Remote sessions** include all of the normally scheduled discussion sections
+for the course, which are on the same days as in-person lectures, and at a
+variety of times. They will not be recorded.
 
 ### Book Exercises/Quizzes and Course Engagement
 
