@@ -9,8 +9,7 @@ doodle: "/doodle.png"
 # UCSD CSE 11 Fall 2021
 ## Accelerated Intro to Programming
 
-Greg Miranda (Instructor)
-Joe Gibbs Politz (Instructor)
+_Greg Miranda & Joe Gibbs Politz_
 
 In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and practice organizing programs for
