@@ -104,7 +104,7 @@ programming will make up the majority of your work in the course.
 
 On each assignment, you can earn one of the following scores:
 
-- **2** (Complete) – the assignment is totally complete with no siginificant
+- **2** (Complete) – the assignment is totally complete with no significant
 flaws
 - **1** (In Progress) – we have identified at least one significant issue with your
 assignment that needs to be fixed
