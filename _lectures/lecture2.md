@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
-index: 1
-name: Introduction
+index: 2
+name: Classes and Fields
 released-on: "2021-09-27"
 videos:
   - title: Introduction to Running Programs
