@@ -19,11 +19,13 @@ Quick links:
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
 - Joe
   - Email: `jpolitz@eng.ucsd.edu`
-  - **In-person only office hours**: Monday 11-12pm
-  - **Remote only office hours**: Tuesday 1-2pm [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
+  - **In-person only office hours**: Monday 11-12pm, CSE 3206
+  - **Remote only office hours**: Tuesday 1-2pm, [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
   - **Combined remote/in-person**: Monday, Wednesday 10-11:30am
+    - Office: CSE 3236
+    - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
 ## Message Board Questions
 

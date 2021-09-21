@@ -14,13 +14,20 @@ videos:
     url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
 ---
 
-## Problem Session 2 – Introduction
+## Problem Session 2 – Classes and Fields
 
 _{{ page.released-on }}_
 
-Readings (to be completed by 9am on September 27, **before** lecture):
-- [Stepik 1.1-1.3](https://stepik.org/lesson/559661/step/1?unit=553721)
-- [Stepik 2.1-2.3](https://stepik.org/lesson/571216/step/1?unit=565754)
+Session plan:
+- 2-3 min: Welcome, logistics questions
+- 20 min: First page of handout + discussion + demo
+- 5 min: (hydration) break
+- 20 min: Second page of handout + discussion + demo
+
+Readings (to be completed by 9am on September 27, **before** problem session). You will
+need to make an account on Stepik to have your work saved.
+- [Stepik 1.1-1.3](https://stepik.org/lesson/559661/step/1?unit=553721){:target="_blank"}
+- [Stepik 2.1-2.3](https://stepik.org/lesson/571216/step/1?unit=565754){:target="_blank"}
 
 Videos (to watch **before** your problem session on September 27):
 
