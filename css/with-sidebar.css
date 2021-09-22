@@ -61,17 +61,16 @@ html, body {
 
 .content {
     flex-grow: 1;
-    padding-left: 1em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: content-box;
+    max-width: 50em;
+    margin: auto;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .content a {
     color: #fc8900;
-}
-
-.content {
-    max-width: 40em;
 }
 
 .content h1,
