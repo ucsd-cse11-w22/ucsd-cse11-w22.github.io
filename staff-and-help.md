@@ -178,6 +178,13 @@ We endorse the [CSE course placement
 advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice).
 Also feel free to message jpolitz@eng.ucsd.edu if you're not sure.
 
+**Can I audit the course?**
+
+You can use all the public resources on this website, and if you're a UCSD
+community member, you can view all the podcasts for the problem sessions at
+[https://podcast.ucsd.edu/](https://podcast.ucsd.edu/). Beyond that we don't
+have any formalized support for auditing the course.
+
 
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
 or all of Fall 2021?**
