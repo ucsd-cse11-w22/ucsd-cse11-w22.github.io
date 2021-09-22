@@ -17,6 +17,7 @@ Quick links:
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
+  - You have permission to use _any_ lab, but prefer to use the B260 lab if space is available, that's where our staff will be based
 - Joe
   - Email: `jpolitz@eng.ucsd.edu`
   - **In-person only office hours**: Monday 11-12pm, CSE 3206
