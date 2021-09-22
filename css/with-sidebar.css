@@ -12,7 +12,7 @@ html, body {
     padding-top: 1em;
     width: 6em;
     background-color: white;
-    border-right: 1px solid black;
+    box-shadow: 1px 0px 1px #aaaaaa;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -30,6 +30,8 @@ html, body {
 
 .sidebar li a:hover {
     background: #00c6d7; /* https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html */
+    transition: background-color 0.5s ease;
+    box-shadow: 1px 1px 2px #aaaaaa;
 }
 
 .sidebar li a img {
@@ -40,22 +42,6 @@ html, body {
     font-family: sans-serif;
     font-size: 16pt;
 }
-
-/*
-.sidebar li a:hover::after {
-    position: absolute;
-    left: 100%;
-    content: attr(hover);
-    color: black;
-    border-radius: 3px;
-    border: 1px solid black;
-    box-shadow: 3px 3px black;
-    padding: 3px;
-    background: white;
-    width: 5em;
-    text-align: center;
-}
-*/
 
 .sidebar ul {
     width: 100%;
@@ -75,9 +61,7 @@ html, body {
 
 .content {
     flex-grow: 1;
-    background-color: white;
     padding-left: 1em;
-    width: 100%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: content-box;
 }
@@ -100,7 +84,7 @@ html, body {
     padding-top: 1em;
     width: 10em;
     font-family: Arial, Helvetica, sans-serif;
-    border-right: 1px solid #FC8900;
+    box-shadow: 1px 0px 2px #FC8900;
 }
 
 
@@ -117,7 +101,9 @@ html, body {
 }
 
 .lecture-sidebar li a:hover {
-    background: #F3E500; /* https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html */
+    background: #FC8900; /* https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html */
+    transition: background-color 0.5s ease;
+    box-shadow: 1px 1px 1px #aaaaaa;
 }
 
 .lecture-sidebar li .numbers {
@@ -159,4 +145,5 @@ html, body {
 
 .lecture-sidebar li.current {
     background-color: #FC8900;
+    box-shadow: 1px 1px 1px #aaaaaa;
 }
