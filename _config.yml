@@ -8,3 +8,5 @@ url: "https://uscd-cse8a-w20.github.io/"
 collections:
   lectures:
     output: true
+  assignments:
+    output: true
