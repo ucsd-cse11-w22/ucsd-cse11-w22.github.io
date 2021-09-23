@@ -192,6 +192,11 @@ or all of Fall 2021?**
 If the attendance policy above doesn't address your situation, please contact
 `jpolitz@eng.ucsd.edu`.
 
+**Do we need a clicker for this class?**
+
+No, we will use other ways (like paper handouts or Google Forms) to keep track
+of participation in class.
+
 **Where are the icons from?**
 
 Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
