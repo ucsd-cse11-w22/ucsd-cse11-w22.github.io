@@ -69,16 +69,16 @@ assignment work can _only_ be done remotely over Zoom.
 
 To get help *remotely*, you can join this Zoom room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 
-When you arrive in the waiting room, there will be a staff member in the main
-room who will be admitting students and sending them to breakout rooms for
-individual and/or group help based on what you need.
+You will arrive in a waiting room, and from there a staff member will admit you
+and join you in a one-on-one breakout room.
 
 Depending on how many students are present, it may take a few minutes for the
-staff member to admit the next group of students, so please be patient!
+staff member to admit the next student, so please be patient!
 
 If you see “waiting for the host to start the meeting” it means that no one is
-on right now. Check the calendar above to make sure there are lab hours and
-message us on Piazza if someone is supposed to be there and no one is there.
+on right now. Check the [calendar](/calendar.html) to make sure there are lab
+hours currently and message us on Piazza if someone is supposed to be there and
+no one is there.
 
 ### In-person Help
 
@@ -93,6 +93,11 @@ looks like this:
 
 <img src="./basement.jpg" width="100%">
 
+Use a seat in lab B260 if it is available, that's where our staff will be
+centered. You will get updates in autograder about your ticket once you file it.
+
+You don't have to go to the labs just for help – you're also welcome just to go
+there to work any time!
 
 ### Instructor Office Hours
 
