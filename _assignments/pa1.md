@@ -15,16 +15,31 @@ released-on: "2021-09-24"
 - Practice using design recipes
 
 ## Collaboration
-Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with **anyone in the course**, including **sharing code**. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
+
+Different assignments in this course have different collaboration policies.
+
+On this assignment, you can collaborate with **anyone in the course**, including
+**sharing code**. Feel free to offer help to other students, converse about the
+*assignment, and so on.
+
+In your submission, give credit to all students and course staff who helped you
+with this assignment by noting their name and how you used their ideas or work.
+Note that using someone's work without giving credit to them is a violation of
+academic integrity.
 
 ## Part 1- Setting Up
-- **On your own computer**: General instructions for setting up your environment can be found in [this document](https://drive.google.com/file/d/1oB4LiOFvtvOMODigZZBz0if8YziFlVV_/view?usp=sharing). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
-- **In the CSE Labs**: Watch and follow the instructions from [this video](https://drive.google.com/file/d/1LGvWU4jaMXDam9sGPO6oHXDMpZumOOhC/view). In text form, the instructions are:
-  - If the lab computer is in Windows then restart and choose CentOS.
-  - If you are logged in, log out. Then, log in to the machine with your 11 account, which you can find using the ACMS account lookup tool:
-https://sdacs.ucsd.edu/~icc/index.php. The username starts with "cse11fa21”. If you have not already done so for this account, you will need to reset your password. You only need to do this once. Keep in mind that if you reset your login password on the ACMS website, you may not be able to login immediately with the new password. It may take up to 20 minutes for the new password to be effective.
-  - Once you are logged in, you can follow the instructions for using Atom or Visual Studio Code to get fully set up
 
+- **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/ucsd-cse11-f21/cse11-pa1-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
+- **In the CSE Labs**: Watch and follow the instructions from this video: [this video](https://drive.google.com/file/d/1LGvWU4jaMXDam9sGPO6oHXDMpZumOOhC/view). In text form, the instructions are:
+  - If the lab computer is showing a Windows deskto or login, restart it and
+    choose CentOS (first option) on the screen you get when it starts up.
+  - Locate your CSE11 account, which you can find using the ACMS account lookup tool:
+    [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
+    The username starts with "cse11fa21”. You will need to do an initial password
+    reset, which you only need to do once. It may take up to 20 minutes for the new
+    password to be effective.
+  - Once you are logged in, you can follow the instructions for using Visual
+  Studio Code to get fully set up
 
 If you get stuck at any point, do any one of the following:
   - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
@@ -32,7 +47,16 @@ If you get stuck at any point, do any one of the following:
 
 ## Running Code
 
-Create a new file named `FirstExample.java`, and put the following code into that file (you can copy-paste):
+Download the starter code for this assignment by downloading this repository
+using the “Download ZIP” button:
+[https://github.com/ucsd-cse11-f21/cse11-pa1-starter](https://github.com/ucsd-cse11-f21/cse11-pa1-starter)
+
+![PA1 download](./pa1-download.png){:width="100%"}
+
+Unzip the directory you downloaded, and open it in Visual Studio Code.
+
+Create a new file named `FirstExample.java`, and put the following code into
+that file (you can copy-paste):
 
 ```
 class FirstExample {
@@ -40,13 +64,17 @@ class FirstExample {
 }
 ```
 
-Compile and run your program using `./run FirstExample` (Mac, Lab) or `\.run.bat FirstExample`. Finally, take a screenshot of your terminal (including the commands you ran to compile and run the code).
+Open the terminal, then run your program using `./run FirstExample` (Mac, Lab)
+or `\.run.bat FirstExample` (Windows). Finally, take a screenshot of your
+terminal (including the commands you ran to compile and run the code).
 
-Then, make a copy of the [writeup template](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true), answer the questions (including your screenshot).
+Then, make a copy of the [writeup
+template](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true),
+answer the questions (including your screenshot).
 
 
 ## Part 2 - Writing Methods
-- You can download the starter code for this assignment by downloading this repository and navigating to the ```pa1``` folder. 
+
 - You will write your code in DesignRecipeExamples.java. You can run the code to test it yourself with:
 
     Mac and Lab:     ```./run DesignRecipeExamples```
