@@ -18,11 +18,12 @@ released-on: "2021-09-24"
 Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with **anyone in the course**, including **sharing code**. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
 
 ## Part 1- Setting Up
-- **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/ucsd-cse11-f21/cse11-pa1-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
-- **In the CSE Labs**: Watch and follow the instructions from this video: [LINK]. To get your account set up in the labs:
+- **On your own computer**: General instructions for setting up your environment can be found in [this document](https://drive.google.com/file/d/1oB4LiOFvtvOMODigZZBz0if8YziFlVV_/view?usp=sharing). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
+- **In the CSE Labs**: Watch and follow the instructions from [this video](https://drive.google.com/file/d/1LGvWU4jaMXDam9sGPO6oHXDMpZumOOhC/view). In text form, the instructions are:
   - If the lab computer is in Windows then restart and choose CentOS.
   - If you are logged in, log out. Then, log in to the machine with your 11 account, which you can find using the ACMS account lookup tool:
 https://sdacs.ucsd.edu/~icc/index.php. The username starts with "cse11fa21”. If you have not already done so for this account, you will need to reset your password. You only need to do this once. Keep in mind that if you reset your login password on the ACMS website, you may not be able to login immediately with the new password. It may take up to 20 minutes for the new password to be effective.
+  - Once you are logged in, you can follow the instructions for using Atom or Visual Studio Code to get fully set up
 
 
 If you get stuck at any point, do any one of the following:
