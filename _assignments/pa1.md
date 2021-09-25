@@ -65,7 +65,7 @@ class FirstExample {
 ```
 
 Open the terminal, then run your program using `./run FirstExample` (Mac, Lab)
-or `\.run.bat FirstExample` (Windows). Finally, take a screenshot of your
+or `.\run.bat FirstExample` (Windows). Finally, take a screenshot of your
 terminal (including the commands you ran to compile and run the code).
 
 Then, make a copy of the [writeup
