@@ -118,7 +118,7 @@ Develop a method (with a name of your choice!) that takes one int parameter, con
 Write a comment for your method, describing what it does and what parameter it takes. If you use any outside sources for the conversion, be sure to cite those in the comment as well.
 
 ### Testing
-Call your method on at least 3 different examples. Compare each result against a reference converter (Many search engines have built-in converters, or you can use a calculator) and add a comment above the function call to discuss differences (if any) that you get between your program and the reference.
+Call your method on at least 2 different examples. Compare each result against a reference converter (Many search engines have built-in converters, or you can use a calculator) and add a comment above the function call to discuss differences (if any) that you get between your program and the reference.
 
 - The method has a correct header (parameters and return type)
 - The method has a method body that matches the examples you chose
@@ -135,7 +135,7 @@ Develop a method (with a name of your choice!) that takes at least two int param
 Write a comment for your method, describing what it does and what parameters it takes. If you use any outside sources, be sure to cite those in the comment as well.
 
 ### Testing
-Call your method on at least 3 different examples. Can you call your method with arguments that run, but produce an incorrect output? Call your method with at least one such pair of arguments, and add a comment above it explaining why the output is incorrect. If you cannot find such a pair of arguments, write a comment explaining why you believe no such input exists.
+Call your method on at least 2 different examples. Can you call your method with arguments that run, but produce an incorrect output? Call your method with at least one such pair of arguments, and add a comment above it explaining why the output is incorrect. If you cannot find such a pair of arguments, write a comment explaining why you believe no such input exists.
 
 - The method has a correct header (parameters and return type)
 - The method has a method body that matches the examples you chose
