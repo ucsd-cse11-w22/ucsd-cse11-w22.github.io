@@ -14,6 +14,24 @@ released-on: "2021-09-24"
 - Write functions that take integer parameters and return integer results.
 - Practice using design recipes
 
+## FAQs
+
+**Permission denied issue while trying to run lecture code (Mac/Linux)**
+
+If you are working on Mac or Linux machines and you want to run the lecture code (or PA1) by using the run script, you might encounter an error that says
+
+```
+-bash: ./run: Permission denied
+```
+
+To solve this issue, run the following command first:
+
+```
+chmod +x run
+```
+
+before running the command `./run FirstExample`.
+
 ## Collaboration
 
 Different assignments in this course have different collaboration policies.
