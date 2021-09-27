@@ -25,3 +25,11 @@ need to make an account on Stepik to have your work saved.
 - [Stepik 3.1-3.4](https://stepik.org/lesson/559662/step/1?unit=553722){:target="_blank"}
 
 Videos (to watch **before** your problem session on September 29):
+
+{% for video in page.videos %}
+[{{ video.title }}]({{ video.url }}){:target="_blank"}
+
+<iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
+{% endfor %}
+
+Handout coming soon!
