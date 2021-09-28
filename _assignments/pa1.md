@@ -53,7 +53,7 @@ academic integrity.
     choose CentOS (first option) on the screen you get when it starts up.
   - Locate your CSE11 account, which you can find using the ACMS account lookup tool:
     [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
-    The username starts with "cse11fa21”. You will need to do an initial password
+    The username starts with "cs11fa21”. You will need to do an initial password
     reset, which you only need to do once. It may take up to 20 minutes for the new
     password to be effective.
   - Once you are logged in, you can follow the instructions for using Visual
