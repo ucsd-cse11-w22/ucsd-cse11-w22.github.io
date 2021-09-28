@@ -25,7 +25,7 @@ Quick links:
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
   - **Combined remote/in-person**: Monday, Wednesday 10-11:30am
-    - Office: CSE 3236 (moving to 4204 soon)
+    - Office: CSE 4204
     - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
 ## Message Board Questions
