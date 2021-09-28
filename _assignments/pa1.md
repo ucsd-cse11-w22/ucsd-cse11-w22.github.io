@@ -171,7 +171,16 @@ Your submission will be in a few parts.
 
 ## Grading
 
-To get your work graded, come to any [remote help hours session](https://ucsd-cse11-f21.github.io/staff-and-help.html) after submitting both Gradescope assignments. A tutor will grade and give you feedback on your work during the session, and tell you anything you need to fix to get full credit. (If you just submit to Gradescope and don't come to a remote help session to get your work checked off, we will still grade your work, but you'll miss out on the opportunity for feedback).
+To get your work graded, come to any [remote help hours
+session](https://ucsd-cse11-f21.github.io/staff-and-help.html) after submitting
+both Gradescope assignments. A tutor will grade and give you feedback on your
+work during the session, and tell you anything you need to fix to get full
+credit. (If you just submit to Gradescope and don't come to a remote help
+session to get your work checked off, we will still grade your work, but you'll
+miss out on the opportunity for feedback).
+
+You can read about [the process we use for this
+grading](https://docs.google.com/document/d/1yNlYqsZsi5CMO9PDQfxUPHpIhBDLurxbD2qFLLpUZjU/edit?usp=sharing).
 
 To earn a **2**:
 - Demonstrate via screenshots in your PDF a working setup of Java either in labs or on your own computer
