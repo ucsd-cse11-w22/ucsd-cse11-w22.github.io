@@ -67,10 +67,17 @@ assignment work can _only_ be done remotely over Zoom.
 
 ### Remote Help
 
-To get help *remotely*, you can join this Zoom room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
+To get help *remotely*, you can join this Zoom room:
+[https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 
-You will arrive in a waiting room, and from there a staff member will admit you
-and join you in a one-on-one breakout room.
+Once in the waiting room, _also_ create a ticket on
+[https://autograder.ucsd.edu](https://autograder.ucsd.edu) and use either the
+“Remote Help” or “Remote Check-off” tag when you create the ticket. (If you
+don't make the ticket, we'll still try to get to you, but it will probably take
+a little longer unless there's no one in the queue.)
+
+A staff member will admit you in queue order and join you in a one-on-one
+breakout room.
 
 Depending on how many students are present, it may take a few minutes for the
 staff member to admit the next student, so please be patient!
