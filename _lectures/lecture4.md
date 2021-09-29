@@ -16,7 +16,7 @@ videos:
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
 ---
 
-## Problem Session 4 – String Methods
+## Problem Session 4 – String 
 
 _{{ page.released-on }}_
 
