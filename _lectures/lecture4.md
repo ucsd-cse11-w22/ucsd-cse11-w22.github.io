@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 4
-name: Methods
+name: Strings
 released-on: "2021-10-1"
 videos:
   - title: More String Methods
