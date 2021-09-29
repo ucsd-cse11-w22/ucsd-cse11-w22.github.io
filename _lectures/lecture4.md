@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 4
-name: Strings
+name: String Methods
 released-on: "2021-10-1"
 videos:
   - title: Strings
@@ -16,7 +16,7 @@ videos:
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
 ---
 
-## Problem Session 4 – String 
+## Problem Session 4 – String Methods 
 
 _{{ page.released-on }}_
 
