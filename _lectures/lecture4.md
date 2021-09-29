@@ -4,12 +4,16 @@ index: 4
 name: Strings
 released-on: "2021-10-1"
 videos:
-  - title: More String Methods
-    url: https://drive.google.com/file/d/1rYWNaFbrW5W-ITueTlzaPzW8k-CkTuWX    
-  - title: Designing Methods
-    url: https://drive.google.com/file/d/1WgbC_LPGfsRbj-ybdoYYg8SHl8W5Ryvd    
-  - title: Boolean
-    url: https://drive.google.com/file/d/1LHxrTqZfszFmsF6xDTCD8SbAO2iemxY5
+  - title: Strings
+    url: https://drive.google.com/file/d/1VFHfgw_tP8snhfDoEhns5ORbJz6UFeDw
+  - title: Concat
+    url: https://drive.google.com/file/d/14bS8OZyY0oPYFlLCnFHZ6Vz5xAI6jzE8    
+  - title: String Num
+    url: https://drive.google.com/file/d/1NBZa_qDiGO9V6cwWZddtBpNTQzF348oL
+  - title: Method Eval
+    url: https://drive.google.com/file/d/1WScX4N4gFNAlLoHdXwoVurQacUB2X2JF
+  - title: String Methods
+    url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
 ---
 
 ## Problem Session 4 – String Methods
@@ -18,7 +22,7 @@ _{{ page.released-on }}_
 
 Readings (to be completed by 9am on October 1, **before** problem session). You will
 need to make an account on Stepik to have your work saved.
-- [Stepik 3.1-3.4](https://stepik.org/lesson/559662/step/1?unit=553722){:target="_blank"}
+- No readings for this lecture
 
 Videos (to watch **before** your problem session on October 1):
 
