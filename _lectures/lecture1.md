@@ -3,6 +3,11 @@ layout: with-sidebar
 index: 1
 name: Introduction
 released-on: "2021-09-24"
+podcasts:
+  - title: Warren 2005 2pm
+    direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_a00/1/dual
+  - title: Center 115 10am
+    direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_b00/1
 ---
 ## Problem Session 1 – Introduction
 
@@ -37,3 +42,9 @@ directly](https://drive.google.com/file/d/19JrgyrjWEqPoFX7tgIdk02Y6kngAH6D7/prev
 on Google Drive to download it.
 
 <iframe src="https://drive.google.com/file/d/19JrgyrjWEqPoFX7tgIdk02Y6kngAH6D7/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## From Class
+
+{% for video in page.podcasts %}
+[{{ video.title }}]({{ video.direct_url }}){:target="_blank"}
+{% endfor %}

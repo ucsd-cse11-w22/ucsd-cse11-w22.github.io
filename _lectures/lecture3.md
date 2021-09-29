@@ -20,8 +20,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Readings (to be completed by 9am on September 29, **before** problem session). You will
-need to make an account on Stepik to have your work saved.
+Readings (to be completed by 9am on September 29, **before** problem session).
 - [Stepik 3.1-3.4](https://stepik.org/lesson/559662/step/1?unit=553722){:target="_blank"}
 
 Videos (to watch **before** your problem session on September 29):
