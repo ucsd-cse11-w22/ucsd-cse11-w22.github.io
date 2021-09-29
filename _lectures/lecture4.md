@@ -16,13 +16,14 @@ videos:
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
 ---
 
-## Problem Session 4 – String Methods 
+## Problem Session 4 – Strings and More Methods 
 
 _{{ page.released-on }}_
 
 Readings (to be completed by 9am on October 1, **before** problem session). You will
 need to make an account on Stepik to have your work saved.
-- No readings for this lecture
+- Complete this [first-week survey](https://docs.google.com/forms/d/e/1FAIpQLSfc8QG4cKGFhVJKq6mp8oiQ_Y9OoBECcdQ-Bn_19phjDCzrqw/viewform)
+- No Stepik readings for this lecture
 
 Videos (to watch **before** your problem session on October 1):
 
