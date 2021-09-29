@@ -6,11 +6,11 @@ released-on: "2021-10-1"
 videos:
   - title: Strings
     url: https://drive.google.com/file/d/1VFHfgw_tP8snhfDoEhns5ORbJz6UFeDw
-  - title: Concat
+  - title: String Concatenation
     url: https://drive.google.com/file/d/14bS8OZyY0oPYFlLCnFHZ6Vz5xAI6jzE8    
-  - title: String Num
+  - title: Strings and Numbers
     url: https://drive.google.com/file/d/1NBZa_qDiGO9V6cwWZddtBpNTQzF348oL
-  - title: Method Eval
+  - title: Method Evaluation
     url: https://drive.google.com/file/d/1WScX4N4gFNAlLoHdXwoVurQacUB2X2JF
   - title: String Methods
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
