@@ -32,6 +32,6 @@ Videos (to watch **before** your problem session on September 29):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-Handout (used during the session), [direct link](https://drive.google.com/file/d/1Adsq3QgvTfGGMf9b7a2VXWG1UGNTjhbfhdIKTVfxWLE/preview)
+Handout (used during the session), [direct link](https://drive.google.com/file/d/15g4Qipsc8mronHQUY539JEpLQRC5YlXC/preview)
 
-<iframe src="https://drive.google.com/file/d/1Adsq3QgvTfGGMf9b7a2VXWG1UGNTjhbfhdIKTVfxWLE/preview" width="640" height="800" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/15g4Qipsc8mronHQUY539JEpLQRC5YlXC/preview" width="640" height="800" allow="autoplay"></iframe>
