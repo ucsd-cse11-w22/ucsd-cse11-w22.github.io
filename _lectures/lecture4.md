@@ -36,3 +36,5 @@ Videos (to watch **before** your problem session on October 1):
 Handout
 
 <iframe src="https://drive.google.com/file/d/19EXeiLZd_PUzS5MPF3gvlBpzMD71t1hr/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Participation form: [tinyurl.com/cse11-10-1](tinyurl.com/cse11-10-1)
