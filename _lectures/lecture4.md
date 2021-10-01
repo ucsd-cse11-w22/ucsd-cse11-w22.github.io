@@ -20,6 +20,8 @@ videos:
 
 _{{ page.released-on }}_
 
+**Zoom link for 10am: [https://ucsd.zoom.us/j/91842211235](https://ucsd.zoom.us/j/91842211235)**
+
 Readings (to be completed by 9am on October 1, **before** problem session). You will
 need to make an account on Stepik to have your work saved.
 - Complete this [first-week survey](https://docs.google.com/forms/d/e/1FAIpQLSfc8QG4cKGFhVJKq6mp8oiQ_Y9OoBECcdQ-Bn_19phjDCzrqw/viewform)
