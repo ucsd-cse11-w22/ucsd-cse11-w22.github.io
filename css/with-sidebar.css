@@ -63,14 +63,24 @@ html, body {
     flex-grow: 1;
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: content-box;
-    max-width: 50em;
+    max-width: 45em;
     margin: auto;
     padding-left: 1em;
     padding-right: 1em;
+    font-size: 13pt;
 }
 
 .content a {
     color: #fc8900;
+}
+
+.content p,
+.content ul {
+    line-height: 1.5;
+}
+
+.content code {
+    color: #6E963B
 }
 
 .content h1,
