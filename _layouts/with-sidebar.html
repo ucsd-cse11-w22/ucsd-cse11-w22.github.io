@@ -15,8 +15,11 @@
     {% if page.url contains "lecture" %}
     {% include lecture-sidebar.html %}
     {% endif %}
-    {% if page.url contains "assignments" %}
+    {% if page.url contains "assignments/" %}
     {% include assignment-sidebar.html %}
+    {% endif %}
+    {% if page.url contains "assignments-drafts/" %}
+    {% include drafts-sidebar.html %}
     {% endif %}
     <div class='content'> {{ content }} </div>
   </div>

@@ -10,3 +10,5 @@ collections:
     output: true
   assignments:
     output: true
+  assignments-drafts:
+    output: true

@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
 index: 1
-name: PA1
-released-on: "2021-09-24"
+name: PA2
+released-on: "2021-10-6"
 ---
 
 # CSE 11 Programming Assignment 2
