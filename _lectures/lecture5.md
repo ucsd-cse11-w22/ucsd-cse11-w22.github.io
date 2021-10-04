@@ -30,4 +30,6 @@ Videos (to watch **before** your problem session on October 1):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-Handout coming soon!
+Handout
+
+<iframe src="https://drive.google.com/file/d/16ZQjfu0lsKEpAtXe_tl-eV4l7LYMSe1U/preview" width="640" height="480" allow="autoplay"></iframe>
