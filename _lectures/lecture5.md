@@ -18,6 +18,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://tinyurl.com/cse11-10-04](https://tinyurl.com/cse11-10-04)
+
 Readings to be completed **before** problem session.
 
 - Stepik Chapter 4 (available on Friday) [https://stepik.org/lesson/568133/step/1?unit=562510](https://stepik.org/lesson/568133/step/1?unit=562510)
