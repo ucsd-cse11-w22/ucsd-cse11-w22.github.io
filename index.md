@@ -3,8 +3,6 @@ layout: with-sidebar
 title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
 
-**This page is a draft until this notice is removed, though we don't expect large changes. You can see the [FAQs that used to be here](./staff-and-help.html#faq) as well.**
-
 # UCSD CSE 11 Fall 2021
 ## Accelerated Intro to Programming
 
