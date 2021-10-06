@@ -55,8 +55,9 @@ Altogether, you will create 3 classes in one file, and around a dozen objects.
 The class `User` represents users, the authors of Tweets.
 
 - **Data**: A `User` should contain the username of the account, the
-display name of the account, and the number of followers (there is more
-information we could store, but this is enough for some interesting work)
+display name (also called full name) of the account, and the number of followers
+(there is more information we could store, but this is enough for some
+interesting work)
 - **Methods**:
   - `String toText()`
     
@@ -98,7 +99,7 @@ unique id for the Tweet.
   - `String toLink()`
 
     This method returns a string representing the URL for the Tweet object
-    Example output: `"https://twitter.com/username/status/tweetID"`
+    Example output: `"https://twitter.com/UCSanDiego/status/1445470129362407433"`
 
 ![An example Tweet](/tweet.png)
 
@@ -117,8 +118,7 @@ You may find these accounts useful and relevant for finding fun Tweets:
 - [https://twitter.com/UCSDJacobs](https://twitter.com/UCSDJacobs)
 - [https://twitter.com/acmucsd](https://twitter.com/acmucsd)
 - [https://twitter.com/cassidoo](https://twitter.com/cassidoo)
-- [https://twitter.com/b0rk](https://twitter.com/b0rk)
-- 
+- [https://twitter.com/kprather88](https://twitter.com/kprather88)
 
 (If you can’t go to Twitter for some reason, let us know via Piazza or email and
 we’ll help you out – you may be able to complete the assignment with another
@@ -135,6 +135,14 @@ comment before the line where you construct it with:
 - A link to the Tweet
 - An answer to this question: "Were there any parts of the Tweet that you couldn’t
 represent with the class design we chose?"
+
+For checking off your work, you should have:
+
+- 2 classes, each with fields as described above
+- 5 total methods (one in `User` and four in `Tweet`)
+- 2 examples for each method (10 total examples)
+- Four `Tweet` objects with the link and question above answered
+- Three `User` objects (to use to construct the Tweets)
 
 ## Practice Screencast
 
