@@ -18,8 +18,6 @@ _{{ page.released-on }}_
 
 No Stepik readings for Friday.
 
-Videos (to watch **before** your problem session on October 6):
-
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
 
