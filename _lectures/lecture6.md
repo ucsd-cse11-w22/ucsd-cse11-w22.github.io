@@ -18,7 +18,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Participation form: [https://docs.google.com/forms/d/e/1FAIpQLScDYnO38BLK6wybBWC1Bs14U84S-7SYVF-B4G30SdJ-46rB7A/viewform](https://docs.google.com/forms/d/e/1FAIpQLScDYnO38BLK6wybBWC1Bs14U84S-7SYVF-B4G30SdJ-46rB7A/viewform)
+Participation form: [https://tinyurl.com/cse11-10-06](https://tinyurl.com/cse11-10-06)
 
 Readings to be completed **before** problem session.
 
@@ -32,4 +32,6 @@ Videos (to watch **before** your problem session on October 6):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-Handout coming soon!
+Handout:
+
+<iframe src="https://drive.google.com/file/d/1eCij0uEOUtAmse1aVRmStC74FULawDJi/preview" width="640" height="480" allow="autoplay"></iframe>
