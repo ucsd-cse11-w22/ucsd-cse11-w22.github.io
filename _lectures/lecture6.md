@@ -18,6 +18,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLScDYnO38BLK6wybBWC1Bs14U84S-7SYVF-B4G30SdJ-46rB7A/viewform](https://docs.google.com/forms/d/e/1FAIpQLScDYnO38BLK6wybBWC1Bs14U84S-7SYVF-B4G30SdJ-46rB7A/viewform)
+
 Readings to be completed **before** problem session.
 
 - Stepik Chapter 5 [https://stepik.org/lesson/573908/step/1?unit=568498](https://stepik.org/lesson/573908/step/1?unit=568498)
