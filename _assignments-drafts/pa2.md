@@ -13,31 +13,42 @@ released-on: "2021-10-6"
 
 - Write and use classes to represent real world data, and relations between them
 - Write methods that make decisions
+- Create a video screencast of your program running
 
 ## Collaboration
 
-Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with anyone in the course, including sharing code. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
+Different assignments in this course have different collaboration policies. On
+this assignment, you can collaborate with anyone in the course, including
+sharing code. In your submission, give credit to all students and course staff
+who helped you with this assignment by noting their name and how you used their
+ideas or work. Note that using someone's work without giving credit to them is a
+violation of academic integrity.
 
 You can download the starter code for this assignment here:
 
-[https://github.com/ucsd-cse11-f21/pa2](https://github.com/ucsd-cse11-f21/pa2)
-
+[https://github.com/ucsd-cse11-f21/cse11-pa2-starter](https://github.com/ucsd-cse11-f21/cse11-pa2-starter)
 
 You will write all your code and comments in `ExampleTweets.java`.
 
-You will submit a single file called `ExampleTweets.java` to Gradescope for the
-PA2 assignment. This file will contain all three classes that you write,
-including `Tweet`, `User`, and `ExamplesTweets`.
+You will submit two files to the PA2 assignment:
 
-You can come to remote help hours for a pre-grading check-off.
+- A single Java file called `ExampleTweets.java` to Gradescope for the PA2
+assignment. This file will contain all three classes that you write, including
+`Tweet`, `User`, and `ExamplesTweets`.
+- Your video (description at the end) 
+
+You can come to remote help hours for a pre-grading check-off. The instructions
+for the check-off are here:
+
+[https://docs.google.com/document/d/1rXS8aCjB_25HJJZEMzaWseJsqnxIWywWdxeRr5o6xYM/edit?usp=sharing](https://docs.google.com/document/d/1rXS8aCjB_25HJJZEMzaWseJsqnxIWywWdxeRr5o6xYM/edit?usp=sharing)
 
 ## Problem 1
 
 In this programming assignment, you will be using tweets as data and
-representing them using objects (though the choices we make will be similar to
-those in many social media posting platforms). You will be making two classes
-for implementation and one example class for testing your implementation.
-Altogether, you will create 3 classes in one file, and a dozen or more objects.
+representing them using a objects. The choices we make will be similar to those
+in many social media posting platforms. You will be making two classes for
+implementation and one example class for testing your implementation.
+Altogether, you will create 3 classes in one file, and around a dozen objects.
 
 ### `User`
 
@@ -56,6 +67,8 @@ information we could store, but this is enough for some interesting work)
 Note: To get information about the user (when creating user
 objects) you will have to go to their profile and see how many followers they
 have and then instantiate a new object with that value.
+
+![An example user](/user.png)
 
 ### `Tweet`
 
@@ -87,6 +100,8 @@ unique id for the Tweet.
     This method returns a string representing the URL for the Tweet object
     Example output: `"https://twitter.com/username/status/tweetID"`
 
+![An example Tweet](/tweet.png)
+
 ### `ExampleTweets`
 
 The `ExampleTweets` class is for testing your own implementation.
@@ -102,6 +117,7 @@ You may find these accounts useful and relevant for finding fun Tweets:
 - [https://twitter.com/UCSDJacobs](https://twitter.com/UCSDJacobs)
 - [https://twitter.com/acmucsd](https://twitter.com/acmucsd)
 - [https://twitter.com/cassidoo](https://twitter.com/cassidoo)
+- [https://twitter.com/b0rk](https://twitter.com/b0rk)
 - 
 
 (If you can’t go to Twitter for some reason, let us know via Piazza or email and
@@ -119,3 +135,36 @@ comment before the line where you construct it with:
 - A link to the Tweet
 - An answer to this question: "Were there any parts of the Tweet that you couldn’t
 represent with the class design we chose?"
+
+## Practice Screencast
+
+For the take-home exams, you'll be recording a screencast that demonstrates
+your programs. The last part of this PA has you practice with this.
+
+You will record a short video of no more than 2 minutes (a hard constraint!).
+Include the following (these are also what we will check for in grading,
+including length):
+
+- Your face and your student ID for a few seconds at the beginning. You don't
+have to be on camera the whole time, though it's fine if you are. Just a
+brief confirmation that it's you creating the video and doing the work
+attached to the video.
+- A capture of your screen running your program including your example outputs.
+Make sure the code of your program AND your terminal output are shown in the
+video
+
+We've made a short tutorial demonstrating how to make a screencast with Zoom:
+
+[Screencast Tutorial](https://drive.google.com/open?id=1KROMAQuTCk40zwrEFotlYSJJQdcG_GUU)
+
+The associated video that was created is here:
+
+[Example Result](https://drive.google.com/open?id=1MxJN6CQcXqIbOekDYMxjh7mTt1TyRVMl)
+
+You don't have to make your screencast with Zoom, but Zoom is UCSD-licensed
+software that you have access to, so we offer the tutorials with that in
+mind.
+
+Please do reach out if you run into issues with this, and try something out
+early so you know if it will work or not for you – you'll need it for the
+exam!
