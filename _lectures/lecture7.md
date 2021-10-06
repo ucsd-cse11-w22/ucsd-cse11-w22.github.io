@@ -12,7 +12,7 @@ videos:
     url: https://drive.google.com/file/d/1WSf8sB8OZOz8Y4O8x7l4qKLP4McYIqo7
 ---
 
-## Problem Session 6 – Classes and Constructors
+## Problem Session 7 – Classes and Constructors
 
 _{{ page.released-on }}_
 
