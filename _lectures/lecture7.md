@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 7
-name: Classes and Objects
+name: Memory and Tracing
 released-on: "2021-10-6"
 videos:
   - title: Creating Objects and Classes (22:00 - 38:00)
