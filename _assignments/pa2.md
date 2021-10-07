@@ -45,7 +45,7 @@ for the check-off are here:
 ## Problem 1
 
 In this programming assignment, you will be using tweets as data and
-representing them using a objects. The choices we make will be similar to those
+representing them using objects. The choices we make will be similar to those
 in many social media posting platforms. You will be making two classes for
 implementation and one example class for testing your implementation.
 Altogether, you will create 3 classes in one file, and around a dozen objects.
@@ -58,6 +58,8 @@ The class `User` represents users, the authors of Tweets.
 display name (also called full name) of the account, and the number of followers
 (there is more information we could store, but this is enough for some
 interesting work)
+- **Constructor**: A standard constructor that takes a value for each field and
+initializes it
 - **Methods**:
   - `String toText()`
     
@@ -78,6 +80,8 @@ The class `Tweet` represents a single tweet.
 - **Data**: A `Tweet` should contain the text content of the Tweet, a reference
 to the `User` who authored the tweet, the count of likes the tweet has, and a
 unique id for the Tweet.
+- **Constructor**: A standard constructor that takes a value for each field and
+initializes it
 - **Methods**:
   - `boolean longerThan(Tweet other)`
   
@@ -153,10 +157,10 @@ You will record a short video of no more than 2 minutes (a hard constraint!).
 Include the following (these are also what we will check for in grading,
 including length):
 
-- Your face and your student ID for a few seconds at the beginning. You don't
-have to be on camera the whole time, though it's fine if you are. Just a
-brief confirmation that it's you creating the video and doing the work
-attached to the video.
+- Your face and your student ID (or other photo ID) for a few seconds at the
+beginning. You don't have to be on camera the whole time, though it's fine if
+you are. Just a brief confirmation that it's you creating the video and doing
+the work attached to the video.
 - A capture of your screen running your program including your example outputs.
 Make sure the code of your program AND your terminal output are shown in the
 video
