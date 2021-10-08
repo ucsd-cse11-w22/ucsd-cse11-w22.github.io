@@ -5,7 +5,7 @@ name: Exam 1
 released-on: "2021-10-13"
 ---
 
-# CSE 11 Programming Assignment 1
+# CSE 11 Exam 1
 
 **Release: 5pm Wednesday October 13, 2021**
 
