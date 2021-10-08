@@ -23,6 +23,9 @@ _{{ page.released-on }}_
 Stepik reading (to complete before class on October 11):
 - [Stepik 6](https://stepik.org/lesson/573911/step/1?unit=568501)
 
+{% for video in page.videos %}
+[{{ video.title }}]({{ video.url }}){:target="_blank"}
+
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
