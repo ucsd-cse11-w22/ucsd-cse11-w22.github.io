@@ -28,6 +28,8 @@ academic integrity that students have committed on exams like this in the past.
 You can make use of any course notes, online resources about Java and its
 libraries, Java tools, and so on to complete the exam.
 
+You can review the grading policy for exams in the [syllabus](/syllabus.html).
+
 The content of the exam and submission instructions will be posted here at 5pm
 on Wednesday, October 13.
 
