@@ -16,6 +16,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation link: [https://tinyurl.com/cse11-10-08](https://tinyurl.com/cse11-10-08)
+
 No Stepik readings for Friday.
 
 {% for video in page.videos %}
