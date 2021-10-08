@@ -8,7 +8,10 @@ url: "https://uscd-cse8a-w20.github.io/"
 collections:
   lectures:
     output: true
+    sort_by: index
   assignments:
     output: true
+    sort_by: index
   assignments-drafts:
     output: true
+    sort_by: index
