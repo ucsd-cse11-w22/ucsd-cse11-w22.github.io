@@ -24,4 +24,4 @@ No Stepik readings for Friday.
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-Handout coming soon!
+<iframe src="https://drive.google.com/file/d/1EfdpBsNc3Yq_CvgAVfQLPSndKXolXTBD/preview" width="640" height="480" allow="autoplay"></iframe>
