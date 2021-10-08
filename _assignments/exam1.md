@@ -21,9 +21,9 @@ answer questions about the problems. If you have technical trouble creating a
 screencast (detailed below) feel free to reach out for assistance.
 
 Do not use any online service other than course resources to ask questions about
-the assignment. Do not search for, solicit, or use complete solutions to the
-problems that you find elsewhere for the exam. These are all violations of
-academic integrity that students have committed on exams like this in the past.
+the assignment. Do not search for, solicit, or use solutions to the problems
+that you find elsewhere for the exam. These are all violations of academic
+integrity that students have committed on exams like this in the past.
 
 You can make use of any course notes, online resources about Java and its
 libraries, Java tools, and so on to complete the exam.
