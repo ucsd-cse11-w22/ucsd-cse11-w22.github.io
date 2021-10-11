@@ -29,4 +29,4 @@ Stepik reading (to complete before class on October 11):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-Handout coming soon!
+<iframe src="https://drive.google.com/file/d/1RZ1KEs0bTZUxAIg9s4kDDnf7blr1vNBL/preview" width="640" height="480" allow="autoplay"></iframe>
