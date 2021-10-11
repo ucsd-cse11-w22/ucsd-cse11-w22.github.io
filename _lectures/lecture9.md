@@ -5,6 +5,10 @@ name: Nested Data
 released-on: "2021-10-13"
 ---
 
+## Problem Session {{ page.index }} – {{ page.name }}
+
+_{{ page.released-on }}_
+
 Stepik reading (to complete before class on October 13):
 - [Stepik 7](https://stepik.org/lesson/584041/step/10?unit=578810)
 
