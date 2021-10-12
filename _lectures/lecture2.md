@@ -44,3 +44,14 @@ Videos (to watch **before** your problem session on September 27):
 Handout (used during the session), [direct link](https://drive.google.com/file/d/1sPG_aHG1VfSXR8utVomzmptWbsn8c7gB/preview)
 
 <iframe src="https://drive.google.com/file/d/1sPG_aHG1VfSXR8utVomzmptWbsn8c7gB/preview" width="640" height="800" allow="autoplay"></iframe>
+
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
