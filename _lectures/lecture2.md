@@ -12,6 +12,10 @@ videos:
     url: https://drive.google.com/file/d/1lB4Mf9FEtw49V8phNGN1OQJPafkTtkt0
   - title: Field Access
     url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
+
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1JfRxUVr2KdOeMrkt9iwZC0aNiY35nmBD
 ---
 
 ## Problem Session 2 – Classes and Fields
