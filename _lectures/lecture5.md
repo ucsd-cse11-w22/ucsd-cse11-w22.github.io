@@ -12,6 +12,10 @@ videos:
     url: https://drive.google.com/file/d/1LHxrTqZfszFmsF6xDTCD8SbAO2iemxY5
   - title: If (watch from 26:00 to 37:30)
     url: https://drive.google.com/file/d/1Akg2I_XKXuyOImRrVD6phPk-x-YBfcL8
+
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1JIOoLcsmqdk3Kn0Fcg9t_Rn8HziSbb7e
 ---
 
 ## Problem Session 5 – Booleans and If
@@ -35,3 +39,13 @@ Videos (to watch **before** your problem session on October 1):
 Handout
 
 <iframe src="https://drive.google.com/file/d/16ZQjfu0lsKEpAtXe_tl-eV4l7LYMSe1U/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
