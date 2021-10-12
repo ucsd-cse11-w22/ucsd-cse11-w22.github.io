@@ -22,6 +22,8 @@ worksheets:
     url: https://drive.google.com/file/d/190Hv87JuXmtD-1ppdndCs1a6lk0iSLqT
   - title: 11AM Discussion
     url: https://drive.google.com/file/d/17T5Xe59Qb0TMvPJuoncYcMI3xnR1UZSi
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1IjDjM57kbbrKLaXgDt0eZotRsFeznDwP
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
