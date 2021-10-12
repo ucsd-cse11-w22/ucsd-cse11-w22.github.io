@@ -43,7 +43,8 @@ Stepik reading (to complete before class on October 11):
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
-worksheet.title
+{{ worksheet.title }}
+<br>
 <iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
 </div>
 {% endfor %}
