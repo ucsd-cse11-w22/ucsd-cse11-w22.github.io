@@ -12,7 +12,7 @@ worksheets:
   - title: 10AM Lecture
     url: https://drive.google.com/file/d/1yzitel-Z6AZg_ZH6nUXQ178UiNDRTisB
   - title: 4PM Lecture
-    url: https://docs.google.com/presentation/d/1IW_43IA0YHm6mgH7LGw8fNtF11MC6d5U
+    url: https://drive.google.com/file/d/1XKFIHD1zGartZNu1EOa4cSClr6Kfym0O
 ---
 ## Problem Session 1 – Introduction
 
