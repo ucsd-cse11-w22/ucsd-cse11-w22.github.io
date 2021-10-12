@@ -42,5 +42,5 @@ Stepik reading (to complete before class on October 11):
 {% for worksheet in page.worksheets %}
 [{{ worksheet.title }}]({{ worksheet.url }}){:target="_blank"}
 
-<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
 {% endfor %}
