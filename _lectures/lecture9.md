@@ -19,4 +19,6 @@ discuss interfaces until Friday:
 
 <iframe src="https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Handout coming soon!
+Handout:
+
+<iframe src="https://drive.google.com/file/d/1l28Y4DsU79T3pMWXMcrtHUvXp6LZRVwe/preview" width="640" height="480" allow="autoplay"></iframe>
