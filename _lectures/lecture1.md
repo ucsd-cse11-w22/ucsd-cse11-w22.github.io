@@ -8,6 +8,11 @@ podcasts:
     direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_a00/1/dual
   - title: Center 115 10am
     direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_b00/1
+worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1yzitel-Z6AZg_ZH6nUXQ178UiNDRTisB
+  - title: 4PM Lecture
+    url: https://docs.google.com/presentation/d/1IW_43IA0YHm6mgH7LGw8fNtF11MC6d5U
 ---
 ## Problem Session 1 – Introduction
 
@@ -47,4 +52,15 @@ on Google Drive to download it.
 
 {% for video in page.podcasts %}
 [{{ video.title }}]({{ video.direct_url }}){:target="_blank"}
+{% endfor %}
+
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
 {% endfor %}
