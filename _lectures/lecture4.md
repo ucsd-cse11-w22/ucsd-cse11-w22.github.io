@@ -14,6 +14,10 @@ videos:
     url: https://drive.google.com/file/d/1WScX4N4gFNAlLoHdXwoVurQacUB2X2JF
   - title: String Methods
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
+
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1JO9u3jB2YnO_FG2f8kWZ_LZQ-7ml-Uep
 ---
 
 ## Problem Session 4 – Strings and More Methods 
@@ -42,3 +46,13 @@ Handout
 <iframe src="https://drive.google.com/file/d/19EXeiLZd_PUzS5MPF3gvlBpzMD71t1hr/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Participation form: [tinyurl.com/cse11-10-1](tinyurl.com/cse11-10-1)
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
