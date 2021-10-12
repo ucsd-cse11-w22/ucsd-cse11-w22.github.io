@@ -12,9 +12,9 @@ videos:
     url: https://drive.google.com/file/d/1WSf8sB8OZOz8Y4O8x7l4qKLP4McYIqo7
 
 worksheets:
-  - title: 3PM Discussion
+  - title: 3PM and 4PM Discussion
     url: https://drive.google.com/file/d/1fr0KryJuYfRiNLfbcwb_vSZb-meLq_Qo
-  - title: 4PM Discussion
+  - title: 4PM Lecture
     url: https://drive.google.com/file/d/1J4RBkE5G-kj1N9m4LRNQxWmdYE-dkzKE
 ---
 
