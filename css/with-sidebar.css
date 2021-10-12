@@ -156,3 +156,8 @@ html, body {
     background-color: #FC8900;
     box-shadow: 1px 1px 1px #aaaaaa;
 }
+
+.worksheetBox{
+    float:left;
+    margin-right:20px;
+}
