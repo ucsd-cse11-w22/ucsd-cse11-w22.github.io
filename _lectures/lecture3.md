@@ -14,6 +14,10 @@ videos:
     url: https://drive.google.com/file/d/1g_gHQ3Bm8s4dPHvIIkrh9e7Bwl8ZBehw
   - title: Method Diagramming and Vocabulary
     url: https://drive.google.com/file/d/1m_72isftSttgHZ9Rj9PR1I4hPbzzAFyH
+
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1JW4SwFWYrqbZPamSgSov12vh6kKjZEbk
 ---
 
 ## Problem Session 3 – Vocabulary and Methods
@@ -34,3 +38,13 @@ Videos (to watch **before** your problem session on September 29):
 Handout (used during the session), [direct link](https://drive.google.com/file/d/15g4Qipsc8mronHQUY539JEpLQRC5YlXC/preview)
 
 <iframe src="https://drive.google.com/file/d/15g4Qipsc8mronHQUY539JEpLQRC5YlXC/preview" width="640" height="800" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
