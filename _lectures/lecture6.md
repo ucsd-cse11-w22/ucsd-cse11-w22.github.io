@@ -12,6 +12,12 @@ videos:
     url: https://drive.google.com/file/d/1yZX5wo3b-A5AxOwSIccQqsUR3VK0j26i
   - title: Math methods
     url: https://drive.google.com/file/d/1-5P1JWdzCCfGpwh1aW7jLYApipzJgmKc
+
+worksheets:
+  - title: 1PM Discussion
+    url: https://drive.google.com/file/d/1a9RJyEACDhDgkwb7fbnsTgO9eaSO6gEj
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1J9knahJyPcS2RbKs74YrL1O0fLaGfWOR
 ---
 
 ## Problem Session 6 – Classes and Constructors
@@ -35,3 +41,13 @@ Videos (to watch **before** your problem session on October 6):
 Handout:
 
 <iframe src="https://drive.google.com/file/d/1eCij0uEOUtAmse1aVRmStC74FULawDJi/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
