@@ -41,8 +41,6 @@ Stepik reading (to complete before class on October 11):
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
-[{{ worksheet.title }}]({{ worksheet.url }}){:target="_blank"}
-
 <iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
 </div>
 {% endfor %}
