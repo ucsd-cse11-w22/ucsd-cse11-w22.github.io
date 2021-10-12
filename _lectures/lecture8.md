@@ -40,7 +40,9 @@ Stepik reading (to complete before class on October 11):
 <iframe src="https://drive.google.com/file/d/1RZ1KEs0bTZUxAIg9s4kDDnf7blr1vNBL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 {% for worksheet in page.worksheets %}
+<div class="worksheetBox">
 [{{ worksheet.title }}]({{ worksheet.url }}){:target="_blank"}
 
 <iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
 {% endfor %}
