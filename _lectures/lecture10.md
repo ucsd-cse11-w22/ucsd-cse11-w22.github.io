@@ -5,7 +5,7 @@ name: Interfaces
 released-on: "2021-10-13"
 videos:
   - title: Interfaces (watch through 30:00)
-  - url: https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q
+    url: https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
