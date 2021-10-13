@@ -7,6 +7,8 @@ released-on: "2021-10-15"
 
 # CSE 11 Programming Assignment 3
 
+** This is a draft and this notice will be removed when the assignment is finalized **
+
 ### Due Date: Tuesday, October 19, 10:00PM Pacific Time
 
 ## Learning Goals
