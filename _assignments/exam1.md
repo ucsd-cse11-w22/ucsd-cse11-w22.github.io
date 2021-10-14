@@ -58,6 +58,9 @@ previous public Piazza posts, which have lots of advice about fixing build
 situations. Also make sure that your code doesn't have a bug before you blame
 your computer or `./run`!
 
+**Can I submit multiple times until the deadline?**
+
+Yes, we will grade the last submission you make before the deadline.
 ## Tasks
 
 You can find the starter code in this repository [https://github.com/ucsd-cse11-f21/cse11-exam1-starter](https://github.com/ucsd-cse11-f21/cse11-exam1-starter).
