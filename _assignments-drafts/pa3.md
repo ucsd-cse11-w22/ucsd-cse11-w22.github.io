@@ -45,9 +45,9 @@ Then add a class definition called `Task1` with the following fields:
 - A field named `second` of type `C1`. It's value should be a reference to a
   `C1` object with its `other` field set to any `C2` object _other than the
   one stored in_ `first` (you can create another `C2` object for this).
-- A field named `third` of type `C1`. It's value should be a reference to a
-  `C1` object with its `other` field _the same C2 object_ as the one stored in
-  the `first` field.
+- A field named `third` of type `C1`. Its value should be a reference to a
+  `C1` object. That `C1` object should have its `other` field hold a reference
+  to _the same C2 object_ as the one stored in `first`.
 
 ### Task 1 Memory Diagram
 
