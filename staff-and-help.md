@@ -61,7 +61,7 @@ something from the course material.
 work after you make a submission.
 
 There are two ways to get general help, remotely or in the labs. Checking off
-assignment work can _only_ be done remotely over Zoom.
+assignment work can be done _both_ remotely over Zoom and during in-person student help hours.
 
 ### Remote Help
 
