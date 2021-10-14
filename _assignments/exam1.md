@@ -41,6 +41,22 @@ Submission checklist (see long descriptions below for full details):
 
 Your submission will be graded **after** the deadline; there are no pre-deadline check-offs for exams. You should test thoroughly yourself to make sure your program works as expected.
 
+## Clarifications
+
+**I don't see the transcript.txt files in the starter code. Should I create them?**
+
+Yes, you should create them.
+
+**Can I use a Java feature/library/method that we haven't covered in class?**
+
+Yes, though you shouldn't need to.
+
+**I can't get my code to run on my computer.**
+
+Try using the lab machines, which have the correct setup. Also try reviewing the
+previous public Piazza posts, which have lots of advice about fixing build
+situations.
+
 ## Tasks
 
 You can find the starter code in this repository [https://github.com/ucsd-cse11-f21/cse11-exam1-starter](https://github.com/ucsd-cse11-f21/cse11-exam1-starter).
