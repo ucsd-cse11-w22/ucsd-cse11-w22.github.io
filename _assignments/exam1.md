@@ -55,7 +55,8 @@ Yes, though you shouldn't need to.
 
 Try using the lab machines, which have the correct setup. Also try reviewing the
 previous public Piazza posts, which have lots of advice about fixing build
-situations.
+situations. Also make sure that your code doesn't have a bug before you blame
+your computer or `./run`!
 
 ## Tasks
 
