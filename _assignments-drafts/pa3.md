@@ -7,20 +7,24 @@ released-on: "2021-10-15"
 
 # CSE 11 Programming Assignment 3
 
-** This is a draft and this notice will be removed when the assignment is finalized **
-
 ### Due Date: Tuesday, October 19, 10:00PM Pacific Time
 
 ## Learning Goals
 - Draw memory diagrams
 - Practice with creating objects and classes
 
+You can come to lab hours, in-person **or** remote, to get a pre-grading
+check-off for this assignment.
+
+You can see the check-off instructions here:
+
+[https://docs.google.com/document/d/1Vw_rkgNaRNNgVJpricZC1s_6icoftsssUOVCOyemCsU/edit?usp=sharing](https://docs.google.com/document/d/1Vw_rkgNaRNNgVJpricZC1s_6icoftsssUOVCOyemCsU/edit?usp=sharing)
 
 ## Task 1
 
 ### Task 1 Code
 
-Create a file called `Task1.java` containing the following class definitions
+In the file `Task1.java`, add the following class definitions
 (you can copy/paste them from here):
 
 ```java
@@ -73,27 +77,31 @@ type `R`. Give it a default constructor that initializes both fields. Put the
 class in a file called `ExamplesR.java`. Add an `ExamplesR` class to this file,
 and answer the following question with code and comments in that file:
 
-Construct an example `R` object. Were you able to? Explain your example if you
-were able to, and explain why you think it's not possible if you weren't.
+Construct an example `R` object. Were you able to? Copy the output of running
+your program into a comment in `ExamplesR.java` if you were able to, and explain
+why you think it's not possible if you weren't.
 
 Submit the `ExamplesR.java` file for this task.
 
 ## Task 3
 
-In [Lecture 9](https://drive.google.com/file/d/1l28Y4DsU79T3pMWXMcrtHUvXp6LZRVwe/view) we
+In [Lecture 9](https://ucsd-cse11-f21.github.io/lectures/lecture9.html) we
 discussed drawing traces and memory diagrams for the `RectRegion` class. Draw a
-trace of the call to `contains` in the following example:
+trace of the method call to `contains` in the following example:
 
 ```
 RectRegion pa3Rect = new RectRegion(new Point(10, 20), new Point(30, 40));
-boolean result = this.pa3Rect.contains(new Point(50, 50));
+Point p = new Point(50, 60);
+boolean result = this.pa3Rect.contains(this.p);
 ```
 
 Make sure to include:
 
 - The relevant objects with unique references and accurate field values
+  - The `RectRegion` object and its fields
+  - All three relevant `Point` objects and their fields
 - A method body for each method call with either values substituted or a stack
-frame showing accurate values for parameters
+frame showing accurate values for parameters (including `this`)
 - The value resulting from each method call
 
 Submit the memory diagram as `task3-diagram.png` (or another image filetype).
