@@ -20,6 +20,15 @@ You can see the check-off instructions here:
 
 [https://docs.google.com/document/d/1Vw_rkgNaRNNgVJpricZC1s_6icoftsssUOVCOyemCsU/edit?usp=sharing](https://docs.google.com/document/d/1Vw_rkgNaRNNgVJpricZC1s_6icoftsssUOVCOyemCsU/edit?usp=sharing)
 
+## Submission Checklist
+
+You should submit:
+
+- [] `Task1.java`
+- [] `task1-diagram.png` (or another image extension like `.jpg`)
+- [] `ExamplesR.java`
+- [] `task3-diagram.png` (or another image extension like `.jpg`)
+
 ## Task 1
 
 ### Task 1 Code
@@ -73,7 +82,7 @@ like [Google Drawing](https://drawings.new) to create it.
 ## Task 2
 
 Create a class named `R` that has two fields: one of type `String` and one of
-type `R`. Give it a default constructor that initializes both fields. Put the
+type `R`. Give it the usual constructor that initializes both fields. Put the
 class in a file called `ExamplesR.java`. Add an `ExamplesR` class to this file,
 and answer the following question with code and comments in that file:
 
