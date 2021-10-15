@@ -3,6 +3,11 @@ layout: with-sidebar
 index: 9
 name: Nested Data
 released-on: "2021-10-13"
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1Kvda2zvi6eP9rRIo-MCg3lVYWlFpnZZr
+  - title: 4PM Discussion
+    url: https://drive.google.com/file/d/19ttAEMZscqqfABbz9L-hW4eeqkTOwUdP
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -22,3 +27,13 @@ discuss interfaces until Friday:
 Handout:
 
 <iframe src="https://drive.google.com/file/d/1l28Y4DsU79T3pMWXMcrtHUvXp6LZRVwe/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
