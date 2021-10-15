@@ -20,7 +20,22 @@ You can see the check-off instructions here:
 
 [https://docs.google.com/document/d/1Vw_rkgNaRNNgVJpricZC1s_6icoftsssUOVCOyemCsU/edit?usp=sharing](https://docs.google.com/document/d/1Vw_rkgNaRNNgVJpricZC1s_6icoftsssUOVCOyemCsU/edit?usp=sharing)
 
+## Collaboration
+
+Different assignments in this course have different collaboration policies. On
+this assignment, you can collaborate with anyone in the course, but you must
+create your own memory diagrams and descriptions for answers.  In your
+submission, give credit to all students and course staff who helped you with
+this assignment by noting their name and how you used their ideas or work. Note
+that using someone's work without giving credit to them is a violation of
+academic integrity.
+
+
 ## Submission Checklist
+
+You can download the starter code for this assignment here:
+
+[https://github.com/ucsd-cse11-f21/cse11-pa3-starter](https://github.com/ucsd-cse11-f21/cse11-pa3-starter)
 
 You should submit:
 
