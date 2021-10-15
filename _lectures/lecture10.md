@@ -12,7 +12,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Participation form: [https://tinyurl.com/cse11-10-13](https://tinyurl.com/cse11-10-13)
+Participation form: [https://tinyurl.com/cse11-10-15](https://tinyurl.com/cse11-10-15)
 
 ## Pre-Reading and Videos
 
