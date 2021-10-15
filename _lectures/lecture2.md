@@ -14,8 +14,12 @@ videos:
     url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
 
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1TW2DnsVwkaa4lCi3ghl915BIYcVi-dxQ
+  - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1l3yM4XuGR4L-WoKt1T5qKA_aI0ciwlBf
   - title: 4PM Lecture
-    url: https://drive.google.com/file/d/1JfRxUVr2KdOeMrkt9iwZC0aNiY35nmBD
+    url: https://drive.google.com/file/d/1JW4SwFWYrqbZPamSgSov12vh6kKjZEbk
 ---
 ## Problem Session 2 – Classes and Fields
 
