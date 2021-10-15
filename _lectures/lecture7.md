@@ -12,10 +12,13 @@ videos:
     url: https://drive.google.com/file/d/1WSf8sB8OZOz8Y4O8x7l4qKLP4McYIqo7
 
 worksheets:
+  - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1DESznSU2GNfEIAy-FZ-9jtbERRk67Zsl
   - title: 3PM and 4PM Discussion
     url: https://drive.google.com/file/d/1fr0KryJuYfRiNLfbcwb_vSZb-meLq_Qo
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/1J4RBkE5G-kj1N9m4LRNQxWmdYE-dkzKE
+
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
