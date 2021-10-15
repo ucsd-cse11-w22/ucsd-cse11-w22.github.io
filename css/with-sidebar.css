@@ -107,6 +107,7 @@ html, body {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    font-size: 10pt;
 }
 
 .sub-sidebar li a:hover {
