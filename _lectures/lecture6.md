@@ -14,10 +14,16 @@ videos:
     url: https://drive.google.com/file/d/1-5P1JWdzCCfGpwh1aW7jLYApipzJgmKc
 
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1a9RJyEACDhDgkwb7fbnsTgO9eaSO6gEj
   - title: 1PM Discussion
     url: https://drive.google.com/file/d/1a9RJyEACDhDgkwb7fbnsTgO9eaSO6gEj
+  - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1eKkgyFTKWx22Pjvp5zPL5OzIqAkhassG
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/1J9knahJyPcS2RbKs74YrL1O0fLaGfWOR
+  - title: 4PM Discussion
+    url: https://drive.google.com/file/d/1lQ5zZZyDf9F2v_5j2aUvbcjhSrGfinWu
 ---
 
 ## Problem Session 6 – Classes and Constructors
