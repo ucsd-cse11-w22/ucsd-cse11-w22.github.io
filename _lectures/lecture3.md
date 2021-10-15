@@ -18,6 +18,8 @@ videos:
 worksheets:
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/1JW4SwFWYrqbZPamSgSov12vh6kKjZEbk
+  - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1DZO2hB9MvgF-GLdXEj2CcI3yOSY1OqI5
 ---
 
 ## Problem Session 3 – Vocabulary and Methods
