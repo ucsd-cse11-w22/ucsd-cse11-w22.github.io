@@ -4,8 +4,6 @@ title: "Syllabus – UCSD CSE11 Fall 21"
 doodle: "/doodle.png"
 ---
 
-**This is a draft until this notice is removed**
-
 # UCSD CSE 11 Fall 2021
 ## Accelerated Intro to Programming
 
