@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 10
 name: Interfaces
-released-on: "2021-10-13"
+released-on: "2021-10-15"
 videos:
   - title: Interfaces (watch through 30:00)
     url: https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q
@@ -11,6 +11,9 @@ videos:
 ## Problem Session {{ page.index }} – {{ page.name }}
 
 _{{ page.released-on }}_
+
+Participation form for Monday, October 18:
+[https://tinyurl.com/cse11-10-18](https://tinyurl.com/cse11-10-18)
 
 Participation form: [https://tinyurl.com/cse11-10-15](https://tinyurl.com/cse11-10-15)
 
