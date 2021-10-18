@@ -25,4 +25,6 @@ Stepik reading:
 
 ## Handout
 
+(Yes, same as Friday 🙂)
+
 <iframe src="https://drive.google.com/file/d/1Ov-vdxB-4jBja1_D7A8J2ytxeArRGb6o/preview" width="640" height="480" allow="autoplay"></iframe>
