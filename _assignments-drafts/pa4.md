@@ -55,8 +55,7 @@ Then, write three classes:
   - `author`, a `User`
 
   This class should implement the methods as follows:
-  same as the username of the `author` of this `TextTweet`, `false` otherwise.
-  - `isReplyTo` should return `false`
+  - `isReplyTo` should return `false` no matter what Tweet it receives
   - `totalLikes` should return the number of likes on this `TextTweet` object
   - `allAuthors` should return the username of the author of this `TextTweet`
   - `textAppearsOnThread` should return `true` when the given text is in the contents
