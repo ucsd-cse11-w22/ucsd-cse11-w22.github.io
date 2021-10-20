@@ -14,7 +14,9 @@ released-on: "2021-10-22"
 - Practice with creating objects and classes
 
 You can come to lab hours, in-person **or** remote, to get a pre-grading
-check-off for this assignment.
+check-off for this assignment, instructions here:
+
+[https://docs.google.com/document/d/1KbcovlvOfkrehxe7lXzKr63gVZzfP9HPbHYXh2l6RNI/edit?usp=sharing](https://docs.google.com/document/d/1KbcovlvOfkrehxe7lXzKr63gVZzfP9HPbHYXh2l6RNI/edit?usp=sharing)
 
 Different assignments in this course have different collaboration policies. On
 this assignment, you can collaborate with anyone in the course, but you must
