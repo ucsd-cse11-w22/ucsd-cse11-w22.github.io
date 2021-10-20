@@ -19,6 +19,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSeFHcjPjwRxRUpzFF-g4JlAQkAnpqcweYTWwyTbdvOVFpEeNQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeFHcjPjwRxRUpzFF-g4JlAQkAnpqcweYTWwyTbdvOVFpEeNQ/viewform)
+
 ## Pre-Reading and Videos
 
 Stepik reading:
@@ -32,4 +34,4 @@ Stepik reading:
 
 ## Handout
 
-Handout coming soon
+<iframe src="https://drive.google.com/file/d/1rxrVoNarZNfsRsKtY7QrG4sOh-XgPbSx/preview" width="640" height="480" allow="autoplay"></iframe>
