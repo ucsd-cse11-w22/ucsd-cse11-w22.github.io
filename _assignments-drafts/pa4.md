@@ -24,7 +24,9 @@ this assignment by noting their name and how you used their ideas or work. Note
 that using someone's work without giving credit to them is a violation of
 academic integrity.
 
-## FAQ
+You can get the starter code at
+
+[https://github.com/ucsd-cse11-f21/cse11-pa4-starter](https://github.com/ucsd-cse11-f21/cse11-pa4-starter)
 
 ## Tweets
 
@@ -41,7 +43,7 @@ methods:
 - `public boolean isReplyTo(Tweet other);`
 - `public int totalLikes();`
 - `public String allAuthors();`
-- `public boolean authorAppearsOnThread(String username);`
+- `public boolean textAppearsOnThread(String text);`
 
 Then, write three classes:
 
@@ -57,8 +59,8 @@ Then, write three classes:
   - `isReplyTo` should return `false`
   - `totalLikes` should return the number of likes on this `TextTweet` object
   - `allAuthors` should return the username of the author of this `TextTweet`
-  - `authorIsOnThread` should return `true` when the given username is the
-  username of the `author` of this `TextTweet`
+  - `textAppearsOnThread` should return `true` when the given text is in the contents
+    of this `TextTweet`, `false` otherwise.
 - `ReplyTweet`, which should implement `Tweet` and has four fields:
   - `contents`, a `String`
   - `likes`, an int
@@ -73,33 +75,73 @@ Then, write three classes:
   - `allAuthors` should return the username of the author of this `ReplyTweet`
   followed by a semicolon (`";"`), followed by `allAuthors` of its `replyTo`
   Tweet.
-  - `authorIsOnThread` should return `true` when the given username is the
-  username of the `author` of this `ReplyTweet`, or if it's the username is an
-  author on the thread of this `ReplyTweet`'s `replyTo`.
+  - `textAppearsOnThread` should return `true` when the given text appears in
+  the `contents` of this `ReplyTweet`, or if it appears on the thread of the
+  `replyTo` Tweet.
 
 Add constructors as appropriate to initialize the fields on objects of these
 classes.
 
-For each of the four methods, write at least _three_ tests for it in a class
-called `Tweets` using the `Tester` library; note that we say “four,” not
-“eight,” methods, because we want you to make sure you test a mix of
-`ReplyTweet` and `TextTweet` objects together. A “test” is a use of
-`checkExpect` that checks the results of the method call against an expected
-value.
+Some tests you can start with are here; you can copy them to your program as you
+implement the various methods.
 
-Make sure to create at least the following example objects to use in your tests:
+```java
+    User joe = new User("joepolitz", "Joe Gibbs Politz");
+    User greg = new User("gregory_miranda", "Greg Miranda");
+    User rachel = new User("Rachel__Lim", "Rachel Lim");
+    Tweet t1 = new TextTweet(this.joe, "Java 17 has a cool feature called records", 77);
+    Tweet t2 = new ReplyTweet(this.greg, "Hmm I wonder if we could use it for CSE11", 12, this.t1);
+    Tweet t3 = new ReplyTweet(this.greg, "Thought about this more, probably not yet, too new.", 73, this.t2);
+    Tweet t4 = new ReplyTweet(this.joe, "Yeah, good point. Maybe in 2022.", 10, this.t3);
+    Tweet t5 = new ReplyTweet(this.rachel, "Yeah... I don't want to rewrite the book right this minute", 1005, this.t2);
 
-- A thread of at least 3 `Tweets` that is all by one author
-- A thread of at least 4 `Tweets` with at least three different authors
-- A thread that is a single TextTweet
+    void testIsReplyTo(Tester t) {
+        t.checkExpect(this.t1.isReplyTo(this.t2), false);
+        t.checkExpect(this.t2.isReplyTo(this.t1), true);
+        t.checkExpect(this.t5.isReplyTo(this.t2), true);
+        t.checkExpect(this.t2.isReplyTo(this.t2), false);
+        t.checkExpect(this.t4.isReplyTo(this.t3), true);
+    }
 
-You can make up data for these (finding specific, real-world instances on
-Twitter for these is interesting, but not necessary, to test out this program).
+    void testTotalLikes(Tester t) {
+        t.checkExpect(this.t5.totalLikes(), 1005 + 12 + 77);
+        t.checkExpect(this.t4.totalLikes(), 10 + 73 + 12 + 77);
+        t.checkExpect(this.t1.totalLikes(), 77);
+    }
+
+    void testAllAuthors(Tester t) {
+        t.checkExpect(this.t1.allAuthors(), "joepolitz");
+        t.checkExpect(this.t2.allAuthors(), "gregory_miranda;joepolitz");
+        t.checkExpect(this.t3.allAuthors(), "gregory_miranda;gregory_miranda;joepolitz");
+        t.checkExpect(this.t5.allAuthors(), "Rachel__Lim;gregory_miranda;joepolitz");
+    }
+
+    void authorAppearsOnThread(Tester t) {
+        t.checkExpect(this.t1.textAppearsOnThread("joepolitz"), false);
+        t.checkExpect(this.t1.textAppearsOnThread("2022"), false);
+        t.checkExpect(this.t1.textAppearsOnThread("cool"), true);
+        t.checkExpect(this.t4.textAppearsOnThread("wonder"), true);
+        t.checkExpect(this.t4.textAppearsOnThread("Java"), true);
+        t.checkExpect(this.t4.textAppearsOnThread("rewrite"), false);
+        t.checkExpect(this.t4.textAppearsOnThread("2022"), true);
+    }
+```
+
+### Additional Testing and Exploration
+
+You must also add your own tests. Construct your own (made-up or real) Tweet
+thread with at least 3 different authors and at least 5 different Tweets, and
+write at least 2 additional tests for each method – try to think of cases we may
+have not thoroughly tested in what's provided (there are some!).
+
+Put these in an easily-found area of the `ExamplesTweets` to help us review your
+code; don't add them to the existing methods we provided.
+
 
 ## Numbers
 
-This code will go in the file `ExamplesNumber.java`, any tests in a class called
-`ExamplesNumber` that you add to that file.
+This code will go in the file `Numbers.java`, any tests in a class called
+`ExamplesNumbers` that you add to that file.
 
 We saw in our reading that representing fractional numbers like 0.6 with
 doubles can be fraught. Some languages and libraries do support exact
@@ -159,11 +201,45 @@ $$
 \frac{n}{d_1} \cdot \frac{m}{d_2} = \frac{nm}{d_1d_2}
 $$
 
+Some example tests that you can use are below. You can copy-paste these into
+your solution as you implement the various methods. All of these tests must pass
+on your implementation.
+
+```java
+    Number n1 = new WholeNumber(5);
+    Number n2 = new WholeNumber(7);
+    Number n3 = new Fraction(7, 2);
+    Number n4 = new Fraction(1, 2);
+
+    void testAdd(Tester t) {
+        t.checkExpect(this.n1.add(this.n2).toDouble(), 12.0);
+        t.checkExpect(this.n1.add(this.n3).toDouble(), 5 + 7.0/2.0);
+        t.checkExpect(this.n3.add(this.n3).toDouble(), 7.0);
+    }
+
+    void testMultiply(Tester t) {
+        t.checkExpect(this.n1.multiply(this.n4).toDouble(), 2.5);
+        t.checkExpect(this.n3.multiply(this.n4).toDouble(), 7.0/4.0);
+    }
+
+    void testNumDem(Tester t) {
+        t.checkExpect(this.n3.numerator(), 7);
+        t.checkExpect(this.n1.numerator(), 5);
+        t.checkExpect(this.n4.denominator(), 2);
+        t.checkExpect(this.n2.denominator(), 1);
+    }
+
+    void testToString(Tester t) {
+        t.checkExpect(this.n4.toText(), "1/2");
+        t.checkExpect(this.n3.toText(), "7/2");
+        t.checkExpect(this.n2.toText(), "7");
+    }
+```
 
 
 ### Exploration
 
-At the end of the `ExamplesNumber` class in a place marked clearly with a
+At the end of the `ExamplesNumbers` class in a place marked clearly with a
 comment that says `// Exploration`, write code to perform four calculations:
 
 1. The result of `0.1 + 0.2 + 0.3` using built-in `double` arithmetic in Java
@@ -177,25 +253,35 @@ comment that says `// Exploration`, write code to perform four calculations:
 
 Then you will submit _all_ of your files to the `pa4` assignment on Gradescope:
 
-- `ExamplesNumber.java`
+- `Numbers.java`
 - `number-transcript.txt`
-- `ExamplesTweets.java`
+- `Tweets.java`
 - `tweet-transcript.txt` 
 
-We will automatically grade the correctness of the methods and classes you
-write. Tests and exploration sections will be graded manually.  In addition, we
-may give you feedback on any part of the code, including automatically graded
-parts, that we want you to respond to after grading.
+Tests and exploration sections will be graded manually.  In addition, we may
+give you feedback on any part of the code, including automatically graded parts,
+that we want you to respond to after grading.
 
 ## Extra Challenges (not for credit)
 
-**Challenge** (not required for credit): Many fractions, like $$2/4$$ or
+**Challenge**: Many fractions, like $$2/4$$ or
 $$27/6$$, are not in their simplest form. Make it so that the constructor for
 `Fraction` always creates a fraction object with numerator and denominator in
 their most reduced form.
 
-**Challenge** (not required for credit): Create a `ReplyTweet` that is a reply
+**Challenge**: Create a `ReplyTweet` that is a reply
 to itself. Do you think this is possible on Twitter?
 
-**Challenge** (not required for credit): Add a method `Tweet mostPopularInThread()`
+**Challenge**: Add a method `Tweet mostPopularInThread()`
 for `Tweet` that returns the `Tweet` in the thread with the most likes.
+
+**Challenge**: The implementation of numbers above is
+limited by having `int`s as the underlying representation; we can't represent
+certain large whole numbers. Using `long` makes things a bit better, but has its
+own limits.  Change the classes so that the size of number you can represent is
+limited only by the memory in your computer.
+
+**Challenge**: On Twitter, we can think of the thread “before” a Tweet by
+following what it replied to, which is
+what we've modeled. We can also think about the thread(s) “after” a Tweet, where
+we go from the first Tweet to its replies. How could we model this latter case?
