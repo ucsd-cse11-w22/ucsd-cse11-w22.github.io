@@ -132,11 +132,10 @@ implement the various methods.
 You must also add your own tests. Construct your own (made-up or real) Tweet
 thread with at least 3 different authors and at least 5 different Tweets, and
 write at least 2 additional tests for each method – try to think of cases we may
-have not thoroughly tested in what's provided (there are some!).
+have not thoroughly tested in what's provided.
 
 Put these in an easily-found area of the `ExamplesTweets` to help us review your
 code; don't add them to the existing methods we provided.
-
 
 ## Numbers
 
