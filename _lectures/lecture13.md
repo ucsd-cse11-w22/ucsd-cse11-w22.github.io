@@ -27,4 +27,6 @@ Stepik reading (same as previous reading, so no new reading):
 
 ## Handout
 
-Handout coming soon
+<iframe src="https://drive.google.com/file/d/1BxZHf1UgGQ-1gSg0_rVUpI2REvK5jSWB/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
