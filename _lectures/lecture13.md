@@ -14,6 +14,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSfOhTLRmu8xojQgLosaphX9ZNpNIbuhCueRrK1kF1SmIYu1Zg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfOhTLRmu8xojQgLosaphX9ZNpNIbuhCueRrK1kF1SmIYu1Zg/viewform)
+
 ## Pre-Reading and Videos
 
 Stepik reading (same as previous reading, so no new reading):
