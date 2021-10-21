@@ -87,43 +87,6 @@ Some tests you can start with are here; you can copy them to your program as you
 implement the various methods.
 
 ```java
-import tester.*;
-interface Tweet {
-    public boolean isReplyTo(Tweet other);
-    public int totalLikes();
-    public String allAuthors();
-    public boolean textAppearsOnThread(String username);
-}
-record User(String username, String displayName, int followers) {}
-record TextTweet(User author, String contents, int likes) implements Tweet {
-    public boolean isReplyTo(Tweet other) {
-        return false;
-    }
-    public int totalLikes() { 
-        return this.likes;
-    }
-    public String allAuthors() {
-        return this.author.username();
-    }
-    public boolean textAppearsOnThread(String text) {
-        return this.contents.contains(text);
-    }
-}
-record ReplyTweet(User author, String contents, int likes, Tweet replyTo) implements Tweet {
-    public boolean isReplyTo(Tweet other) {
-        return this.replyTo == other;
-    }
-    public int totalLikes() { 
-        return this.likes + this.replyTo.totalLikes();
-    }
-    public String allAuthors() {
-        return this.author.username() + ";" + this.replyTo.allAuthors();
-    }
-    public boolean textAppearsOnThread(String text) {
-        return this.contents.contains(text) || this.replyTo.textAppearsOnThread(text);
-    }
-}
-class ExamplesTweets {
     User joe = new User("joepolitz", "Joe Gibbs Politz", 999);
     User greg = new User("gregory_miranda", "Greg Miranda", 9999);
     User rachel = new User("Rachel__Lim", "Rachel Lim", 1000000);
@@ -163,7 +126,6 @@ class ExamplesTweets {
         t.checkExpect(this.t4.textAppearsOnThread("rewrite"), false);
         t.checkExpect(this.t4.textAppearsOnThread("2022"), true);
     }
-}
 ```
 
 ### Additional Testing and Exploration
