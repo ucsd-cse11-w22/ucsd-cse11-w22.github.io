@@ -12,6 +12,11 @@ videos:
     url: https://drive.google.com/file/d/1PzrWhXBRerq0oTeVhlnuNc0vNJ6xQW9k
   - title: Arrays, Memory
     url: https://drive.google.com/file/d/14QiAfHlccvCZTVsU3MuBvLoFkSU-_UAo
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1QFW-8b4ge3u3p9QS9bl7QiY9m_TIYdmI
+  - title: 4PM Discussion
+    url: https://drive.google.com/file/d/11_1wbLfkurK5UiZQkbeXwNaHfLVfZEkV
 ---
 
 
@@ -35,3 +40,13 @@ Stepik reading:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1rxrVoNarZNfsRsKtY7QrG4sOh-XgPbSx/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
