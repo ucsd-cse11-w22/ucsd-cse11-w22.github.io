@@ -11,8 +11,12 @@ worksheets:
     url: https://drive.google.com/file/d/10nnVxSdzYYXqk-y-1mflInKadrCJWitw
   - title: 10AM Discussion
     url: https://drive.google.com/file/d/1TIwzDz8iMuuQXPxwWTav4FP9I-PIdJqZ
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1PyqhcdK78Wo_viHVG6oDZHxzNW67WKaY
   - title: 11AM Discussion
     url: https://drive.google.com/file/d/13Dfu_2T7qiF4GC-dg4sRwagqDuqdX7X6
+  - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1Oh2LduLAtM-Eax4aXfCLY1gWDqD2GcCV
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/1LPQvEiS-D9JFNYKMeHOJK0VuUsL5CDb8
   - title: 6PM Discussion
