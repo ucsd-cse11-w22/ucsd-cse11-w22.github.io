@@ -7,7 +7,11 @@ videos:
   - title: Interfaces (watch through 30:00)
     url: https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1kJD7ld7dSu3bm42N-GpVBHlCtn3KtSqQ
   - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1E_u3FNFQBy_q9HIn-wYd5YVzN-2Vyx2w
+  - title: 2PM Discussion
     url: https://drive.google.com/file/d/19Iex0aeEROYU9KwaXFX15p1_yHrZcvE0
   - title: 3PM & 4PM Discussions
     url: https://drive.google.com/file/d/1oQ8it6LNGz6NRtypigtDDl3ebUNrv_3a
