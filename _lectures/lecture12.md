@@ -13,6 +13,10 @@ videos:
   - title: Arrays, Memory
     url: https://drive.google.com/file/d/14QiAfHlccvCZTVsU3MuBvLoFkSU-_UAo
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1No7iG6OZ0388oXyMWlJGgiHnzV8KazOe
+  - title: 2PM Lecture
+    url: https://drive.google.com/file/d/1A3MTpOsjkarlxFUYlo_qt_xGnfVDEyoB
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/1QFW-8b4ge3u3p9QS9bl7QiY9m_TIYdmI
   - title: 4PM Discussion
