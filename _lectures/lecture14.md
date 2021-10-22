@@ -20,7 +20,7 @@ _{{ page.released-on }}_
 
 ## Pre-Reading and Videos
 
-Stepik reading (same as previous reading, so no new reading):
+Stepik reading:
 - [Stepik 10](https://stepik.org/lesson/579629/step/1?unit=574279)
 
 {% for video in page.videos %}
