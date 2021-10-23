@@ -118,11 +118,17 @@ arguments. If no arguments were given, it should print nothing. Example:
 
   If there is a tie, return the _earliest_ string with the longest length.
 
-- In a file called `Stats.java`, write a class called `Stats`. It should have
-a main method which has a different effect depending on the first command
-line argument. In all cases, it can assume that there will be at least _two_
-command-line arguments, and all the arguments after the first are appropriate
-arguments to `Double.parseDouble`. If the first argument is ...
+  Also create a file called `longest-transcript.txt` that shows your `Longest`
+  program called with the examples above and with three _others_ of your design,
+  including one with a tie. Copy/paste the output from your terminal to make
+  this file.
+
+- In a file called `Stats.java`, write a class called `Stats`. It should have a
+main method which has a different effect depending on the first command line
+argument. In all cases, it can assume that there will be at least _two_
+command-line arguments (the name of the operation and at least one number), and
+all the arguments after the first are appropriate arguments to
+`Double.parseDouble`. If the first argument is ...
 
 <div class="sidenote">When comparing Strings, the <code>==</code> operator can
 be unreliable. Instead use <code>.equals</code> or <code>.compareTo</code>,
@@ -152,5 +158,11 @@ which are in the Java String documentation.</div>
   $ java Stats --mix 3 4 5
   Bad option --mix
   ```
+
+  Also create a file called `stats-transcript.txt` that shows your `Stats`
+  program called with the examples above and, for **each one of the
+  operations**, an example with with three _others_ of your own design; in each
+  case include one example with only a single number provided. Copy/paste the
+  output from your terminal to make this file.
 
 All of your Java files you will upload to Gradescope as usual.
