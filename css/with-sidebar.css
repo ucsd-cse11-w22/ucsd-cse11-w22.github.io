@@ -162,3 +162,11 @@ html, body {
     float:left;
     margin-right:20px;
 }
+
+.sidenote {
+    float: right;
+    margin-right: -17rem;
+    width: 14rem;
+    background-color: #ddd;
+    padding: 0.5rem;
+}
