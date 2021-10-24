@@ -8,6 +8,9 @@ videos:
     url: https://drive.google.com/file/d/18RKvuJa1oYTdiloR7zH7AGBI9ucYCBQp
   - title: args
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
+worksheets:
+  - title: 1PM Lecture
+    url: https://drive.google.com/drive/folders/1Xh4LJf5-mCMIVXaLwaYZpNHZqnn0HMKp
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -31,4 +34,12 @@ Stepik reading (same as previous reading, so no new reading):
 
 <iframe src="https://drive.google.com/file/d/1BxZHf1UgGQ-1gSg0_rVUpI2REvK5jSWB/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Completed Worksheets from Dicussion and Lecture
 
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
