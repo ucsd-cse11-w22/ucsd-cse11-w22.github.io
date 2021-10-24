@@ -10,7 +10,7 @@ videos:
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
 worksheets:
   - title: 1PM Lecture
-    url: https://drive.google.com/file/d/1QPRCguZhavN3WfZWIvgg6j4ST2yIVZ8I/view?usp=sharing
+    url: https://drive.google.com/file/d/1QPRCguZhavN3WfZWIvgg6j4ST2yIVZ8I
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
