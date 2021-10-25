@@ -28,3 +28,7 @@ Stepik reading:
 
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
+
+## Handout
+
+<iframe src="https://drive.google.com/file/d/16kwLwctsZ5QdZTXyRqa_dzc22KviuK_f/preview" width="640" height="480" allow="autoplay"></iframe>
