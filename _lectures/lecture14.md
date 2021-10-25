@@ -18,6 +18,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLScnvVZPXfhBz9fXtLKFpWz_K-TM8ACVMB5FOnNrpmAi_7ZI_Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLScnvVZPXfhBz9fXtLKFpWz_K-TM8ACVMB5FOnNrpmAi_7ZI_Q/viewform)
+
 ## Pre-Reading and Videos
 
 Stepik reading:
