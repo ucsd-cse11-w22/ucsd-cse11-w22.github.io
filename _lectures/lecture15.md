@@ -22,6 +22,10 @@ _{{ page.released-on }}_
 
 ## Pre-Reading and Videos
 
+Mid-quarter survey (due Friday, worth 1 extra attendance credit!):
+
+[https://docs.google.com/forms/d/e/1FAIpQLSdjiKD3MgsTwiOM365y6H7tG6XWCwqYwGmouP6xn-H807cIBg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdjiKD3MgsTwiOM365y6H7tG6XWCwqYwGmouP6xn-H807cIBg/viewform)
+
 Stepik reading (same as Monday):
 - [Stepik 10](https://stepik.org/lesson/579629/step/1?unit=574279)
 
