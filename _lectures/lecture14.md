@@ -12,6 +12,13 @@ videos:
     url: https://drive.google.com/file/d/1At2ogDjHBMuE9Ci-tHwcdSqY8xx5I3r1
   - title: Loops Examples
     url: https://drive.google.com/file/d/1BwyC-9QP85-SX3VlSPkbNfWxjrmTd4dT
+worksheets:
+  - title: 9AM Discussion
+    url: https://drive.google.com/file/d/15WgZFoDRjl7-6N92p9BZOeyuscR_bJdl
+  - title: 10AM Discussion
+    url: https://drive.google.com/file/d/1toPmjbAjoRu3vvighgFOI2et7BTl202r
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1UHF7c1iwRminEnE45_VoJyDCGQvu0rWX
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -34,3 +41,13 @@ Stepik reading:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/16kwLwctsZ5QdZTXyRqa_dzc22KviuK_f/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
