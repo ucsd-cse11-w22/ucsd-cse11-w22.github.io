@@ -24,6 +24,10 @@ The starter code is available at:
 
 [https://github.com/ucsd-cse11-f21/cse11-pa5-starter](https://github.com/ucsd-cse11-f21/cse11-pa5-starter)
 
+The check-off instructions (with some new updates) are here:
+
+[https://docs.google.com/document/d/1I2PvSUPw30LqIC-vN4WcT4DJILvYf_9Z9qT4sZm7XFA/edit?usp=sharing](https://docs.google.com/document/d/1I2PvSUPw30LqIC-vN4WcT4DJILvYf_9Z9qT4sZm7XFA/edit?usp=sharing)
+
 ## Submission
 
 Submit the following files to Gradescope in the PA5 assignment:
