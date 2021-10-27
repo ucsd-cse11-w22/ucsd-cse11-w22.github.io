@@ -138,7 +138,7 @@ class ProvidedArrayExamples {
 
   void testSomethingFalse(Tester t){
     boolean[] example1 = {true, false};
-    t.checkExpect(ArrayExamples.somethingFalse(example1), false);
+    t.checkExpect(ArrayExamples.somethingFalse(example1), true);
   }
 
   void testCountWithinRange(Tester t){
