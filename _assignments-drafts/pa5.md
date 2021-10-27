@@ -69,8 +69,9 @@ ran.
 
 In a file called `ArrayExamples.java`, write the following methods in a class
 called `ArrayExamples`. For each, write **three tests** (a test is a use of
-`checkExpect`) where each of the three has a different length of array used
-in the input. All of these methods should be `static`.
+`checkExpect`) where each of the three has a different length of array used in
+the input, one of which tests an empty array (if it is allowed as an input). All
+of these methods should be `static`.
 
 - Write a `static` method called `joinWith` that takes an array of `String` and a
 `String` separator, and returns a new `String` that contains the strings from
@@ -111,11 +112,14 @@ construct the new array.
 returns the `String` that is the earliest alphabetically. You can assume that
 the array has at least one element, and that if there is a tie you should return the one at the earliest index.
 
-Below are a few tests to get you started. We designed these to work on their own in a separate class. You must include them all in your final submission (it helps us check that basic things work when reviewing your code). But these tests don't cover all cases!
+Below are a few tests to get you started. We designed these to work on their own
+in a separate class. You must include them all in your final submission (it
+helps us check that basic things work when reviewing your code). But these tests
+don't cover all cases, which is why you must write your own as well.
 
-For each method you write, also include at least two tests of your own. Write your tests in a separate class from the provided tests. Remember that you can pick which tests to run (ours or yours) by using `./run ProvidedArrayExamples` for the ones we provided, and `./run ArrayExamples` for yours.
-
-To confirm that all the tests (yours and ours) work, include a file `array-transcript.txt` showing the result of running the run commands for both sets of tests.
+To confirm that all the tests (yours and ours) are passing, include a file
+`array-transcript.txt` showing the result of running the run commands for both
+sets of tests.
 
 ```
 import tester.*;
