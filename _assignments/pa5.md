@@ -183,9 +183,9 @@ arguments. If no arguments were given, it should print nothing. Example:
   If there is a tie, return the _earliest_ string with the longest length.
 
   Also create a file called `longest-transcript.txt` that shows your `Longest`
-  program called with the examples above and with three _others_ of your design,
-  including one with a tie. Copy/paste the output from your terminal to make
-  this file.
+  program called with the examples above and three _other_ uses of `java Longest`
+  of your design, including one with a tie. Copy/paste the output from
+  your terminal to make this file.
 
 - In a file called `Stats.java`, write a class called `Stats`. It should have a
 main method which has a different effect depending on the first command line
@@ -225,6 +225,6 @@ which are in the Java String documentation.</div>
 
   Also create a file called `stats-transcript.txt` that shows your `Stats`
   program called with the examples above and, for **each one of the
-  operations**, an example with three _others_ of your own design; in each
-  case include one example with only a single number provided. Copy/paste the
-  output from your terminal to make this file.
+  operations**, threee uses of that operator with inputs of your own design
+  where one use has only a single number provided.  Copy/paste the output from your
+  terminal to make this file.
