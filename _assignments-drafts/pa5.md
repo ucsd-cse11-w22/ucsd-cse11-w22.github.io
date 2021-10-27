@@ -21,9 +21,20 @@ The starter code is available at:
 
 [https://github.com/ucsd-cse11-f21/cse11-pa5-starter](https://github.com/ucsd-cse11-f21/cse11-pa5-starter)
 
+## Submission
+
+Submit the following files to Gradescope in the PA5 assignment:
+
+- `ArrayExamples.java`
+- `array-transcript.txt`
+- `Longest.java`
+- `Stats.java`
+- `longest-transcript.txt`
+- `stats-transcript.txt`
+
 ## FAQ
 
-1. Can we use <some other library> in this PA instead of loops?
+1. Can we use a library or built-in method in this PA instead of loops, even if we haven't seen it in class?
     - In general in this course we try to avoid saying you strictly can't use
     something in the programming assignments. That's a bit artificial. Rather, we
     try to design assignments where using the things we learned most recently would
@@ -59,28 +70,28 @@ ran.
 In a file called `ArrayExamples.java`, write the following methods in a class
 called `ArrayExamples`. For each, write **three tests** (a test is a use of
 `checkExpect`) where each of the three has a different length of array used
-in the input.
+in the input. All of these methods should be `static`.
 
-- Write a method called `joinWith` that takes an array of `String` and a
+- Write a `static` method called `joinWith` that takes an array of `String` and a
 `String` separator, and returns a new `String` that contains the strings from
 the array separated by that separator. For example, for an array containing
 `"a"`, `"b"`, and `"c"` with separator `":"`, the result would be `"a:b:c"`
 (note that there's no colon at the end, just in between the elements). If the
 input array is empty, produces the empty string.
 
-- Write a method called `somethingFalse` that takes an array of `boolean` and
+- Write a `static` method called `somethingFalse` that takes an array of `boolean` and
 returns `true` if at least one of the elements in the array is `false`. If the
 array is empty, produces `false`.
 
 <div class='sidenote'>“Inclusive” is another way of saying to use ≤ instead
 of &lt; and ≥ instead of &gt;</div>
 
-- Write a method called `countWithinRange` that takes an array of `double` and
+- Write a `static` method called `countWithinRange` that takes an array of `double` and
 two other `double`s called `low` and `high`, and returns the count of elements
 of the array that are between `low` and `high` (inclusive). If the array is
 empty, this should produce `0`. You can assume that `low` ≤ `high`
 
-- Write a method called `numsWithinRange` that takes an array of `double` and
+- Write a `static` method called `numsWithinRange` that takes an array of `double` and
 two other `double`s called `low` and `high` and returns an array of `double`
 that contains all the elements in the array that are between `low` and `high`
 (inclusive). If the array is empty, this should produce a new empty array. You
@@ -89,16 +100,58 @@ construct the new array.
 
 - Write a class called `Pair` with two `int` fields, `a` and `b`, and include a
   default constructor. (Add `Pair` at the top level, outside the
-  `ArrayExamples` class). Then write a method (in `ArrayExamples`, not in
+  `ArrayExamples` class). Then write a `static` method (in `ArrayExamples`, not in
   `Pair`) called `maxmin` that takes an array of `int` and returns a `Pair`
   where the `a` field is set to the smallest integer in the array and the `b`
   is set to the largest. Assume the array has at least one element.
 
 <div class='sidenote'>Computer scientists have a fancy name for alphabetical:
 <b>lexicographic</b>. You will need the <a href="https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/lang/String.html#compareTo(java.lang.String)">compareTo method on Strings</a> here. Try it out on a few examples if you're not sure what it will do!</div>
-- Write a method called `earliest` that takes an array of `String`s and
+- Write a `static` method called `earliest` that takes an array of `String`s and
 returns the `String` that is the earliest alphabetically. You can assume that
-the array has at least one element.
+the array has at least one element, and that if there is a tie you should return the one at the earliest index.
+
+Below are a few tests to get you started. We designed these to work on their own in a separate class. You must include them all in your final submission (it helps us check that basic things work when reviewing your code). But these tests don't cover all cases!
+
+For each method you write, also include at least two tests of your own. Write your tests in a separate class from the provided tests. Remember that you can pick which tests to run (ours or yours) by using `./run ProvidedArrayExamples` for the ones we provided, and `./run ArrayExamples` for yours.
+
+To confirm that all the tests (yours and ours) work, include a file `array-transcript.txt` showing the result of running the run commands for both sets of tests.
+
+```
+import tester.*;
+class ProvidedArrayExamples {
+  void testJoinWith(Tester t){
+    String[] example1 = {"a", "b","c"};
+    t.checkExpect(ArrayExamples.joinWith(example1, ":"), "a:b:c");
+  }
+
+  void testSomethingFalse(Tester t){
+    boolean[] example1 = {true, false};
+    t.checkExpect(ArrayExamples.somethingFalse(example1), false);
+  }
+
+  void testCountWithinRange(Tester t){
+    double[] example = {0.1, 1.3, 2.6};
+    t.checkExpect(ArrayExamples.countWithinRange(example, 1.1, 2.2), 1);
+  }
+
+  void testNumsWithinRange(Tester t){
+    double[] example = {0.0, 3.0, 1.4, 1.5, 2.7, 9.1, 2.1};
+    double[] expected = {1.4, 1.5, 2.1};
+    t.checkExpect(ArrayExamples.numsWithinRange(example, 1.1, 2.2), expected);
+  }
+
+  void testMaxmin(Tester t){
+    int[] example = {4, 5, 2, 3, 1};
+    t.checkExpect(ArrayExamples.maxmin(example), new Pair(1, 5));
+  }
+
+  void testEarliest(Tester t){
+    String[] example = {"aa", "aab", "abcd", "a"};
+    t.checkExpect(ArrayExamples.earliest(example), "a");
+  }
+}
+```
 
 ## Using Main and Command-line Arguments
 
@@ -161,8 +214,6 @@ which are in the Java String documentation.</div>
 
   Also create a file called `stats-transcript.txt` that shows your `Stats`
   program called with the examples above and, for **each one of the
-  operations**, an example with with three _others_ of your own design; in each
+  operations**, an example with three _others_ of your own design; in each
   case include one example with only a single number provided. Copy/paste the
   output from your terminal to make this file.
-
-All of your Java files you will upload to Gradescope as usual.
