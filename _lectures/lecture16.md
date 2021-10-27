@@ -31,7 +31,4 @@ Mid-quarter feedback form (worth 1 extra attendance credit!): [https://docs.goog
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-## Handout
-
-<iframe src="https://drive.google.com/file/d/1zG19vwtCVmdTLJNzRc3YzwFh6-LPfPgg/preview" width="640" height="480" allow="autoplay"></iframe>
 
