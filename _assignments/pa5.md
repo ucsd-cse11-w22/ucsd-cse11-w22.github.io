@@ -7,6 +7,9 @@ released-on: "2021-10-27"
 
 # Programming Assignment 5 – Arrays and Main
 
+
+**Due Tuesday November 2 10:00pm Pacific Time**
+
 In this assignment, you will get practice with writing methods that calculate
 values from arrays using loops.
 
