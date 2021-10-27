@@ -22,6 +22,8 @@ _{{ page.released-on }}_
 
 ## Pre-Reading and Videos
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSfRyc9NHRonGJCRIODjEHKBY2920j5ECJt2tZogZ4pHVikOyg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfRyc9NHRonGJCRIODjEHKBY2920j5ECJt2tZogZ4pHVikOyg/viewform)
+
 Mid-quarter survey (due Friday, worth 1 extra attendance credit!):
 
 [https://docs.google.com/forms/d/e/1FAIpQLSdjiKD3MgsTwiOM365y6H7tG6XWCwqYwGmouP6xn-H807cIBg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdjiKD3MgsTwiOM365y6H7tG6XWCwqYwGmouP6xn-H807cIBg/viewform)
