@@ -21,7 +21,7 @@ videos:
 _{{ page.released-on }}_
 
 
-Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSdjiKD3MgsTwiOM365y6H7tG6XWCwqYwGmouP6xn-H807cIBg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdjiKD3MgsTwiOM365y6H7tG6XWCwqYwGmouP6xn-H807cIBg/viewform)
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSeu0F8qWJteQk4kGqX71CHYmJbDcsumxo--iCOhvYXDQMkIxw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeu0F8qWJteQk4kGqX71CHYmJbDcsumxo--iCOhvYXDQMkIxw/viewform)
 ## Pre-class Tasks
 
 No new Stepik reading.
