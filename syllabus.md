@@ -41,7 +41,7 @@ Your final letter grade will be calculated as follows:
   - Participate in at least 20 problem sessions
   - Complete **all** book exercises/quizzes and course engagement activities
   - Get a score of **2** on all but 1 programming assignment, and no **0**'s on programming assignments
-  - Get a score of **2** on an assessment corresponding to each third of the course
+  - Get a score of **2** on an assessment (exam) corresponding to each third of the course
 
 - To get a B or above, you must:
   - Participate in at least 17 problem sessions
