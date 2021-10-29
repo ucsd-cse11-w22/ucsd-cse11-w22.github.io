@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 17
 name: Nested Loops
-released-on: "2021-10-31"
+released-on: "2021-11-01"
 videos:
   - title: Nested Loops
     url: https://drive.google.com/file/d/1tV46H_TBDBQkS04_kfQHGJbhRA70n8Gs
