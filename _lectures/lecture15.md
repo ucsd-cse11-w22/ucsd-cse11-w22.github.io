@@ -14,6 +14,9 @@ videos:
     url: https://drive.google.com/file/d/17km0_TziemzWLyyunFDwRUYfntRZZVN6
   - title: Loop Tables
     url: https://drive.google.com/file/d/1PHAkE99a1uC-nBEF7NILHAD2Xq8e1Rvn
+ worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1c1DdYQG6xnUnC-fZx20Aqubv-pifR_V4
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -40,3 +43,13 @@ Stepik reading (same as Monday):
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1zG19vwtCVmdTLJNzRc3YzwFh6-LPfPgg/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
