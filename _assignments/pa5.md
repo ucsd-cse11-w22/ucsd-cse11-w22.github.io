@@ -96,7 +96,7 @@ of &lt; and ≥ instead of &gt;</div>
 
 - Write a `static` method called `countWithinRange` that takes an array of `double` and
 two other `double`s called `low` and `high`, and returns the count of elements
-of the array that are between `low` and `high` (inclusive). If the array is
+of the array that are between `low` and `high` (both inclusive). If the array is
 empty, this should produce `0`. You can assume that `low` ≤ `high`
 
 - Write a `static` method called `numsWithinRange` that takes an array of `double` and
