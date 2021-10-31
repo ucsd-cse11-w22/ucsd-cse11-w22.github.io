@@ -106,8 +106,7 @@ that contains all the elements in the array that are between `low` and `high`
 can assume that `low` ≤ `high`. **Hint**: Use `countWithinRange` to help you
 construct the new array.
 
-- Write a class called `Pair` with two `int` fields, `a` and `b`, and include a
-  default constructor. (Add `Pair` at the top level, outside the
+- Write a class called `Pair` with two `int` fields, `a` and `b`, and include the usual initializing constructor. (Add `Pair` at the top level, outside the
   `ArrayExamples` class). Then write a `static` method (in `ArrayExamples`, not in
   `Pair`) called `maxmin` that takes an array of `int` and returns a `Pair`
   where the `a` field is set to the smallest integer in the array and the `b`
