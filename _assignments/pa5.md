@@ -227,3 +227,8 @@ which are in the Java String documentation.</div>
   operations**, threee uses of that operator with inputs of your own design
   where one use has only a single number provided.  Copy/paste the output from your
   terminal to make this file.
+
+## Extra Challenges (Not for Credit)
+
+- Add a `--mode` option to `Stats`
+- Add a `--median` option to `Stats`
