@@ -14,6 +14,13 @@ videos:
     url: https://drive.google.com/file/d/1TdAj2ypxk43s1LWmJ2HEtBb_vGTokFuR
   - title: More Methods on Arrays of References
     url: https://drive.google.com/file/d/1wx4xHmkzH8G6L2NoMZU6Gff8gtqA9xGY
+worksheets:
+  - title: 3PM Discussion
+    url: https://drive.google.com/file/d/1WPXYjuk2-PP3iDAL99qVj4tyfOgTEHfq
+  - title: 4PM Discussion
+    url: https://drive.google.com/file/d/10QAYXVuDc28_y8dcodXeq2GCQe6n_ZV2
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1cX1jStunypK7ezI7UlUe_5E1EfZeC5uV
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -36,3 +43,13 @@ Mid-quarter feedback form (worth 1 extra attendance credit!): [https://docs.goog
 
 
 <iframe src="https://drive.google.com/file/d/13c0nuXCaJgXYGfhdiPNqbf2Iq1vkRR8q/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
