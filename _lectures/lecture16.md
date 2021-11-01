@@ -20,6 +20,7 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form for Monday, Nov 1: [https://docs.google.com/forms/d/e/1FAIpQLScKYdHk6GqKPNpYzoSVN9izC8W0MRK5JWiPAYAWfoN9CHJYKA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScKYdHk6GqKPNpYzoSVN9izC8W0MRK5JWiPAYAWfoN9CHJYKA/viewform)
 
 Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSeu0F8qWJteQk4kGqX71CHYmJbDcsumxo--iCOhvYXDQMkIxw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeu0F8qWJteQk4kGqX71CHYmJbDcsumxo--iCOhvYXDQMkIxw/viewform)
 ## Pre-class Tasks

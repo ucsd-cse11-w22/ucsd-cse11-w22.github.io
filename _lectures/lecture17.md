@@ -14,6 +14,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLScKYdHk6GqKPNpYzoSVN9izC8W0MRK5JWiPAYAWfoN9CHJYKA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScKYdHk6GqKPNpYzoSVN9izC8W0MRK5JWiPAYAWfoN9CHJYKA/viewform)
+
 ## Pre-class Tasks
 
 Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik.org/lesson/609849/step/1?unit=605131)
@@ -23,3 +25,9 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
+
+## Handout
+
+Same as Friday (the `main` part)
+
+<iframe src="https://drive.google.com/file/d/13c0nuXCaJgXYGfhdiPNqbf2Iq1vkRR8q/preview" width="640" height="480" allow="autoplay"></iframe>
