@@ -30,6 +30,10 @@ from class notes.
 You can review the grading policy for exams in the [syllabus](/syllabus.html).
 You will complete the programming task below and submit your work to the `Exam2` Gradescope assignment.
 
+Starter code is available here:
+
+[https://github.com/ucsd-cse11-f21/Exam2-starter](https://github.com/ucsd-cse11-f21/Exam2-starter)
+
 Submission checklist (see long descriptions below for full details):
 
 - `Tweets.java`
