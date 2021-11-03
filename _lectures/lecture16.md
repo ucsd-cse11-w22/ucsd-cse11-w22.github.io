@@ -15,6 +15,8 @@ videos:
   - title: More Methods on Arrays of References
     url: https://drive.google.com/file/d/1wx4xHmkzH8G6L2NoMZU6Gff8gtqA9xGY
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/15fWuHj85hdjuGtSG0q6BkMbTb418fRH5
   - title: 3PM Discussion
     url: https://drive.google.com/file/d/1WPXYjuk2-PP3iDAL99qVj4tyfOgTEHfq
   - title: 4PM Discussion

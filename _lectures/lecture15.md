@@ -15,6 +15,8 @@ videos:
   - title: Loop Tables
     url: https://drive.google.com/file/d/1PHAkE99a1uC-nBEF7NILHAD2Xq8e1Rvn
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1_p3fwoQWRpO3acfFTcFdRNoGikW1EWdP
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/1c1DdYQG6xnUnC-fZx20Aqubv-pifR_V4
 ---

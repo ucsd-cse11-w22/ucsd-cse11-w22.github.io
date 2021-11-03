@@ -9,6 +9,8 @@ videos:
   - title: args
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
 worksheets:
+  - title: 10AM Lecture
+    url: https://drive.google.com/file/d/1mOHZCxgEUSIec-4ZHLHQ2YlDZAoWKsR5
   - title: 1PM Lecture
     url: https://drive.google.com/file/d/1QPRCguZhavN3WfZWIvgg6j4ST2yIVZ8I
 ---
