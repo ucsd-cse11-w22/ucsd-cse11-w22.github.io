@@ -46,6 +46,15 @@ Make sure to look at your Gradescope submission after submitting to see if all t
 
 If you have a problem uploading your video to Gradescope, you can upload it here [https://docs.google.com/forms/d/e/1FAIpQLSeK0_OQpd0ufiNqmeh0HlQ6Aci3WUFp8bthczJkfIxeeQxLCA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeK0_OQpd0ufiNqmeh0HlQ6Aci3WUFp8bthczJkfIxeeQxLCA/viewform). Do this only if, for some reason, you get an error (usually due to file size) when uploading to Gradescope.
 
+## Clarifications
+
+**Can we write more methods than specified?**
+
+Yes, you can write additional methods (we call them helper methods sometimes) if
+it helps you complete the task.
+
+
+
 ## Task 1 – Arrays
 
 In the `ExamplesArrays` class, you will use the design recipe to write several methods.
