@@ -72,6 +72,10 @@ Same answer as in [exam1](https://ucsd-cse11-f21.github.io/assignments/exam1.htm
 
 Yes.
 
+**What does thread mean for Tweets?**
+
+Use the definition in [PA4](https://ucsd-cse11-f21.github.io/assignments/pa4.html)
+
 
 ## Task 1 – Arrays
 
