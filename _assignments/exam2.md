@@ -64,6 +64,10 @@ The original starter file `Tweets.java` asked you to write tweet tests in
 `ArrayExamples`; this is wrong, and should have said `TweetExamples`. The
 comment in the file has been fixed.
 
+**Can I use X feature of Java in my code?**
+
+Same answer as in [exam1](https://ucsd-cse11-f21.github.io/assignments/exam1.html)
+
 
 ## Task 1 – Arrays
 
