@@ -11,7 +11,11 @@ videos:
 worksheets:
   - title: 10AM Lecture
     url: https://drive.google.com/file/d/1mOHZCxgEUSIec-4ZHLHQ2YlDZAoWKsR5
-  - title: 1PM Lecture
+  - title: 3PM & 4PM Discussion
+    url: https://drive.google.com/file/d/1AWz6bi75xrZjg3914immDVTwZ378W89O
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1MfMmTf4AV82goJdoYyspTT-dBxg6jbsN
+  - title: 1PM Discussion
     url: https://drive.google.com/file/d/1QPRCguZhavN3WfZWIvgg6j4ST2yIVZ8I
 ---
 
