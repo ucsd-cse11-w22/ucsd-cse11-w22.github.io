@@ -8,6 +8,9 @@ videos:
     url: https://drive.google.com/file/d/1tV46H_TBDBQkS04_kfQHGJbhRA70n8Gs
   - title: Region Loop
     url: https://drive.google.com/file/d/157v75MQE_k0h-z9S3_tCVvaHIP-nvWFs
+worksheets:
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1fMgQPrwCpVi6mw0HjHF9R9QZ-AeJIEg3
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -31,3 +34,13 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 Same as Friday (the `main` part)
 
 <iframe src="https://drive.google.com/file/d/13c0nuXCaJgXYGfhdiPNqbf2Iq1vkRR8q/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
