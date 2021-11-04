@@ -12,6 +12,9 @@ videos:
     url: https://drive.google.com/file/d/1cb9Vc0xpG1PfjrDa11mGTVobC37YvuLJ
   - title: Range
     url: https://drive.google.com/file/d/1C_rnkqz2YHE6BsBcd2NUnWIYC1Fvts5Z
+worksheets:
+  - title: 4PM Discussion
+    url: https://drive.google.com/file/d/1sHxVB87vSk0pR1jrRMyqMM4Y82M7rkA9
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -31,3 +34,13 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 {% endfor %}
 
 <iframe src="https://drive.google.com/file/d/1XUSnWHtHI3TLUQozvKTbpl4HrkmASWlW/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
