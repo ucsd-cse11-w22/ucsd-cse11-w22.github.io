@@ -61,8 +61,8 @@ It should have said class, and is fixed below.
 **Where should Tweet tests go?**
 
 The original starter file `Tweets.java` asked you to write tweet tests in
-`ArrayExamples`; this is wrong, and should have said `TweetExamples`. The file
-has been fixed.
+`ArrayExamples`; this is wrong, and should have said `TweetExamples`. The
+comment in the file has been fixed.
 
 
 ## Task 1 – Arrays
