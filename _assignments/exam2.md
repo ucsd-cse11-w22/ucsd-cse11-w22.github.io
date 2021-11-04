@@ -68,6 +68,10 @@ comment in the file has been fixed.
 
 Same answer as in [exam1](https://ucsd-cse11-f21.github.io/assignments/exam1.html)
 
+**Can I use previous code that I wrote for a PA in my exam?**
+
+Yes.
+
 
 ## Task 1 – Arrays
 
