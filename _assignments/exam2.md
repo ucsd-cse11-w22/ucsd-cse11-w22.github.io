@@ -53,6 +53,10 @@ If you have a problem uploading your video to Gradescope, you can upload it here
 Yes, you can write additional methods (we call them helper methods sometimes) if
 it helps you complete the task.
 
+**What is the WordFilter method?**
+
+The original version of the WordFilter task referred to a `WordFilter` method.
+It should have said class, and is fixed below.
 
 
 ## Task 1 – Arrays
@@ -136,8 +140,8 @@ class ExamplesTweets {
 
 ## Task 3 – Main and Command-Line Arguments
 
-Your task is to write a program `WordFilter.java` that has a WordFilter method
-with the following behavior:
+Your task is to write a program `WordFilter.java` that has a WordFilter class
+with a main method with the following behavior:
 
 ```
 $ javac WordFilter.java
