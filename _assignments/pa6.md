@@ -65,7 +65,7 @@ sessions each followed by note-taking.
 
 If you don't finish the task, still stop after the three sessions and put the
 notes for the reflection in place (it's not expected that you must finish in
-90 minutes, though you do have to finish, see below). If you finish early,
+60 minutes, though you do have to finish, see below). If you finish early,
 note the time you finished.
 
 The tasks, which you should complete two of, are here:
