@@ -109,3 +109,6 @@ Instructors for this course:
     - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
 ### Our Staff
+The friendly faces of this course! We have 12 staff members(instructors, TAs, and tutors) here 
+to support you and help with your learning.
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS87Z7F-snxZWbiMAaGuFpXGBXSDA4OaVWHeVuD7kCHaDa8WEVNYFtAAVkSqhdIr_h9fKcrCD4To_mj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
