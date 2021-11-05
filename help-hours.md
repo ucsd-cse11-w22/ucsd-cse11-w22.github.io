@@ -46,7 +46,7 @@ staff member to admit the next student, so please be patient!
 
 If you see “waiting for the host to start the meeting” it means that no one is
 on right now. Check the calendar below (also on the [calendar](/calendar.html)
-page) to make sure there are lab hours currently and message us on Piazza if
+page) to make sure there are *remote* lab hours currently and message us on Piazza if
 someone is supposed to be there and no one is there.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_k16b90sssk3cshiprkhuki7tac%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -66,7 +66,7 @@ the location of your ticket as the lab room number and workstation that you're a
 Once you've completed these two steps, a staff member will accept your ticket when available. You will get 
 updates in autograder about your ticket once you file it.
 
-Check on this calendar for our in-person availability (also available on the general calendar
+Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_2477vkfs96nrh3u1ec4rttt34o%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
