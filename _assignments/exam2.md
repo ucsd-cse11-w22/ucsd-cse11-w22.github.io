@@ -263,7 +263,7 @@ stack in a comment, where in each line you indicate:
 
     class	method  reference   return value
     C     m       :2          false
-    D	    m       :4          true
+    D     m       :4          true
     D     m       :6          false
     */
   }
