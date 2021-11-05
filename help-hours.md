@@ -16,7 +16,7 @@ work after you make a submission (i.e: for early or late checkoffs).
 There are two ways to get general help, remotely or in the labs. Checkoffs for
 assignments can be done through student help hours _either_ remotely over Zoom or in-person.
 
-## Student Help Hours
+## Student Help Hours (with tutors)
 We should make a distinction that when we say "Student Help Hours", we are referring to times 
 that you may meet with tutors and TAs to receive help or assignment checkoffs. Office hours to 
 meet with your professor are a different option, and will be discussed at the bottom of this page. 
@@ -85,7 +85,7 @@ looks like this:
 You don't have to go to the labs just for help – you're also welcome just to go
 there to work any time!
 
-### Instructor (Professor) Office Hours
+### Instructor Office Hours (with professors)
 
 “Office hours” should maybe be called “student hours” – they are times where
 we are available in our office (physically or virtually) **for you**. You can
