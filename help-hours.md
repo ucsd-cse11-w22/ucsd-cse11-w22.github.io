@@ -55,10 +55,13 @@ someone is supposed to be there and no one is there.
 
 The process for getting *in-person* help consists of the following steps:
 
-1. Come to our lab room B260, which is on the lowest level of the CSE building. If there are no seats
+1. If you are looking for a checkoff, please submit your assignment to gradescope *before* you
+complete the next steps. If you're not looking for a checkoff don't worry about this.
+
+2. Come to our lab room B260, which is on the lowest level of the CSE building. If there are no seats
 in B260, feel free to use another lab on the bottom (basement) floor of the CSE building.
 
-2. File a ticket on
+3. File a ticket on
 [https://autograder.ucsd.edu](https://autograder.ucsd.edu) from the labs in the CSE building. Make sure to 
 tag your ticket with the "In-person help" or "In-person check-off" tag depending on your needs. Also, put
 the location of your ticket as the lab room number and workstation that you're at. 
