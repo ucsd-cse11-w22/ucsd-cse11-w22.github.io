@@ -21,6 +21,8 @@ worksheets:
 
 _{{ page.released-on }}_
 
+Participation Friday, Nov 5: [https://docs.google.com/forms/d/e/1FAIpQLSfgrDw8VznDpRJUnfQ8zDXX4KxfZRxQe4SStjNYTi4dZ8e7XQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfgrDw8VznDpRJUnfQ8zDXX4KxfZRxQe4SStjNYTi4dZ8e7XQ/viewform)
+
 Participation: [https://docs.google.com/forms/d/e/1FAIpQLScQjPPQo765Xn0zhBjJzuZ2MofaYsyqlipRvVlpeVsCRaPq2A/viewform](https://docs.google.com/forms/d/e/1FAIpQLScQjPPQo765Xn0zhBjJzuZ2MofaYsyqlipRvVlpeVsCRaPq2A/viewform)
 
 ## Pre-class Tasks
