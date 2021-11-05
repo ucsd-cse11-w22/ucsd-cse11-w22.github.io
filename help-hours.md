@@ -104,7 +104,7 @@ Instructors for this course:
   - **Remote only office hours**: Tuesday 2-3pm, [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Combined remote/in-person**: Monday, Wednesday 10-11:30am
+  - **Combined remote/in-person office hours**: Monday, Wednesday 10-11:30am
     - Office: CSE 4204
     - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
