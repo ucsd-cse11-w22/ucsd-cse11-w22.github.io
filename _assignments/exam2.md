@@ -40,6 +40,7 @@ Submission checklist (see long descriptions below for full details):
 - `ExamplesArrays.java`
 - `Region.java`
 - `WordFilter.java`
+- `WordFilter-transcript.java` (not actually graded, but useful)
 - `video.*` (`*` means whatever extension you have; we *really* prefer `mp4`, which is what Zoom produces. If you use an extension other than mp4, check that it plays in Gradescope!)
 
 Make sure to look at your Gradescope submission after submitting to see if all the required files are there.
