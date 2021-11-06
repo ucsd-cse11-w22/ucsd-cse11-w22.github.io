@@ -136,4 +136,4 @@ for any following steps!
 ### Our Staff
 The friendly faces of this course! We have 24 staff members(instructors, TAs, and tutors) here 
 to support you and help with your learning.
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS87Z7F-snxZWbiMAaGuFpXGBXSDA4OaVWHeVuD7kCHaDa8WEVNYFtAAVkSqhdIr_h9fKcrCD4To_mj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS87Z7F-snxZWbiMAaGuFpXGBXSDA4OaVWHeVuD7kCHaDa8WEVNYFtAAVkSqhdIr_h9fKcrCD4To_mj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="550px"></iframe>
