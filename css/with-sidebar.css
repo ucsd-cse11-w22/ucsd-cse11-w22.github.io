@@ -10,6 +10,7 @@ html, body {
 
 .sidebar {
     padding-top: 1em;
+    font-size: 12pt;
     width: 6em;
     background-color: white;
     box-shadow: 1px 0px 1px #aaaaaa;
