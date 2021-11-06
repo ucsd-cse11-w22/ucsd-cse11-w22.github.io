@@ -16,6 +16,31 @@ work after you make a submission (i.e: for early or late checkoffs).
 There are two ways to get general help, remotely or in the labs. Checkoffs for
 assignments can be done through student help hours _either_ remotely over Zoom or in-person.
 
+## What are checkoffs?
+For any assignment in this class, you have 3 opportunities to get full credit. A "checkoff"
+refers to when you get something graded by a tutor during Student Help Hours.
+
+1. If you finish your assignment before the deadline to submit, you can get it graded early 
+at student help hours. Your tutor will walk through your submissions with you and assign you
+a grade. If you get full credit (a 2), you're done with the assignment and there is no need
+to submit again. But, if you get a 1, consider the next options below. This is your first
+chance to receive full credit.
+
+2. There is also the traditional option of simply submitting your code on Gradescope before 
+the deadline. *This is not a checkoff, so you do not come to help hours.* You simply submit to 
+Gradescope and our graders will assign you a grade asynchronously. If you didn't get full credit
+at early checkoff or if you didn't go to any checkoff, you should submit like this. This is your 
+second chance to receive full credit.
+
+3. *After* the deadline has passed and all assignments have been asynchronously graded, you have 
+another chance to get full credit if you have not already. This is called a late checkoff. There
+will be a Gradescope assignment for each PA labeled "Late/Resubmit". You should submit your 
+late assignment there and then come in to tutor student help hours to be assigned a grade.
+
+So, you can only get a checkoff during steps 1 and 3 above. Step 2 is the typical way of submitting
+an assignment. If you get fully credit during any of these 3 steps, you are done and do not resubmit
+for any following steps!
+
 ## Student Help Hours (with tutors)
 We should make a distinction that when we say "Student Help Hours", we are referring to times 
 that you may meet with tutors and TAs to receive help or assignment checkoffs. Office hours to 
