@@ -106,7 +106,7 @@ Instructors for this course:
     - Office: CSE 4204
     - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
-## What are checkoffs?
+### What are checkoffs?
 For any assignment in this class, you have 3 opportunities to get full credit. A "checkoff"
 refers to when you get something graded by a tutor during Student Help Hours. You cannot
 get a checkoff from an instructor, only a tutor or TA.
