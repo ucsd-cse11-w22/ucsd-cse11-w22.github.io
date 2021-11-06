@@ -118,18 +118,18 @@ to submit again. But, if you get a 1, consider the next options below. This is y
 chance to receive full credit.
 
 2. There is also the traditional option of simply submitting your code on Gradescope before 
-the deadline. *This is not a checkoff, so you do not come to help hours.* You simply submit to 
+the deadline. *This is not a checkoff, so you do not come to help hours.* You just submit to 
 Gradescope and our graders will assign you a grade asynchronously. If you didn't get full credit
 at early checkoff or if you didn't go to any checkoff, you should submit like this. This is your 
 second chance to receive full credit.
 
 3. *After* the deadline has passed and all assignments have been asynchronously graded, you have 
-another chance to get full credit if you have not already. This is called a late checkoff. There
-will be a Gradescope assignment for each PA labeled "Late/Resubmit". You should submit your 
-late assignment there and then come in to tutor student help hours to be assigned a grade.
+another chance to get full credit if you have not from the previous 2 chances. This is called a late 
+checkoff. There will be a Gradescope assignment for each PA labeled "Late/Resubmit". You should submit 
+your late assignment there and then come in to our tutor student help hours to be assigned a grade.
 
 So, you can only get a checkoff during steps 1 and 3 above. Step 2 is the typical way of submitting
-an assignment. If you get full credit during any of these 3 steps, you are done and do not resubmit
+an assignment. If you get full credit during any of these 3 steps, you are done and should not resubmit
 for any following steps!
 
 
