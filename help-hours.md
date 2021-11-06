@@ -40,10 +40,7 @@ to you but it may take longer depending on how long the queue is. Your place in 
 saved by your autograder ticket and isn't based on when you join the Zoom room.)
 
 Once you complete these steps, a staff member will admit you in the autograder queue order and join 
-you in a one-on-one breakout room.
-
-Depending on how many students are present, it may take a few minutes for the
-staff member to admit the next student, so please be patient!
+you in a one-on-one breakout room. Please be patient for a staff member to accept your ticket!
 
 If you see “waiting for the host to start the meeting” it means that no one is
 on right now. Check the calendar below (also on the [calendar](/calendar.html)
