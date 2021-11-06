@@ -129,7 +129,7 @@ will be a Gradescope assignment for each PA labeled "Late/Resubmit". You should 
 late assignment there and then come in to tutor student help hours to be assigned a grade.
 
 So, you can only get a checkoff during steps 1 and 3 above. Step 2 is the typical way of submitting
-an assignment. If you get fully credit during any of these 3 steps, you are done and do not resubmit
+an assignment. If you get full credit during any of these 3 steps, you are done and do not resubmit
 for any following steps!
 
 
