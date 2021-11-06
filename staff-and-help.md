@@ -51,76 +51,9 @@ emoji can always help with a positive and friendly vibe 🙂
 During the times where we have take-home programming exams, Piazza will not
 allow posting public to the class.
 
-## Meeting with Staff
-
-There are two main reasons to come see the staff in CSE11.
-
-1. You need help on an assignment, reviewing past work, or understanding
-something from the course material.
-2. An assignment requires or allows you to see a staff member to review your
-work after you make a submission.
-
-There are two ways to get general help, remotely or in the labs. Checking off
-assignment work can be done _either_ remotely over Zoom or in-person during student help hours.
-
-### Remote Help
-
-To get help *remotely*, you can join this Zoom room:
-[https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
-
-Once in the waiting room, _also_ create a ticket on
-[https://autograder.ucsd.edu](https://autograder.ucsd.edu) and use either the
-“Remote Help” or “Remote Check-off” tag when you create the ticket. (If you
-don't make the ticket, we'll still try to get to you, but it will probably take
-a little longer unless there's no one in the queue.)
-
-A staff member will admit you in queue order and join you in a one-on-one
-breakout room.
-
-Depending on how many students are present, it may take a few minutes for the
-staff member to admit the next student, so please be patient!
-
-If you see “waiting for the host to start the meeting” it means that no one is
-on right now. Check the calendar below (also on the [calendar](/calendar.html)
-page) to make sure there are lab hours currently and message us on Piazza if
-someone is supposed to be there and no one is there.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_k16b90sssk3cshiprkhuki7tac%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-### In-person Help
-
-To get help *in-person*, you can file a ticket on
-[https://autograder.ucsd.edu](https://autograder.ucsd.edu) from the labs in the
-CSE building.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-The labs are on the lowest level of the building; the hallway outside the labs
-looks like this:
-
-<img src="./basement.jpg" width="100%">
-
-Use a seat in lab B260 if it is available, that's where our staff will be
-centered. You will get updates in autograder about your ticket once you file it.
-Check on this calendar for availability (also available on the general calendar
-page):
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_2477vkfs96nrh3u1ec4rttt34o%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-You don't have to go to the labs just for help – you're also welcome just to go
-there to work any time!
-
-### Instructor Office Hours
-
-“Office hours” should maybe be called “student hours” – they are times where
-we are available in our office (physically or virtually) **for you**. You can
-come to instructor office hours with any kind of questions about the course, or
-even about the next course, or about catching up if you feel you've fallen
-behind, or something you wanted to know more about from lecture, and more. You
-can also ask us programming questions in office hours, just like you would in
-help hours with the tutors. In order to focus our time on student questions,
-instructors **won't** check off work during instructor office hours; you have to
-go to the designated remote hours for those.
+## Meeting with Staff and Office Hours
+Please see the [Help Hours page](/help-hours.html) for more details on meeting 
+with staff and attending office hours.
 
 
 <a name="faq"></a>
