@@ -12,7 +12,6 @@ videos:
     url: https://drive.google.com/file/d/1obg1ktjlwbZJF3Sc4lfPxeKtmweqdSvF
   - title: Constructor Exceptions
     url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
-  - title: 
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
