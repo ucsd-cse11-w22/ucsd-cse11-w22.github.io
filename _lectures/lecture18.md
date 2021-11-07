@@ -13,6 +13,10 @@ videos:
   - title: Range
     url: https://drive.google.com/file/d/1C_rnkqz2YHE6BsBcd2NUnWIYC1Fvts5Z
 worksheets:
+  - title: 10AM Discussion
+    url: https://drive.google.com/file/d/12f-fVCKJiiOkhtTVGHjDupNtitXKqgW9
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/1p2YMKfO9aC7c7u6_quP593MCkJx8A5a9
   - title: 4PM Discussion
     url: https://drive.google.com/file/d/1sHxVB87vSk0pR1jrRMyqMM4Y82M7rkA9
 ---
