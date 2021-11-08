@@ -18,6 +18,13 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSdJKX2SclyoQzic1MAGWar-H0xUZDK2Uvr5lrQ6E9KyAkXWhg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdJKX2SclyoQzic1MAGWar-H0xUZDK2Uvr5lrQ6E9KyAkXWhg/viewform)
+
+**For this lecture, you can fill out this form with the correct answers and the
+section code SKIP and get credit for attending, even if you don't come to
+lecture. This is because Joe's 2pm section is canceled, and also because we want
+to try it out.**
+
 ## Pre-class Tasks
 
 No Stepik chapter.
