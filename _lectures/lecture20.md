@@ -12,6 +12,9 @@ videos:
     url: https://drive.google.com/file/d/1obg1ktjlwbZJF3Sc4lfPxeKtmweqdSvF
   - title: Constructor Exceptions
     url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
+worksheets:
+  - title: 9AM & 10AM Discussion
+    url: https://drive.google.com/file/d/1KvVsjZLRUuLLFK25fvYkpO8ufmn6nNNm
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -39,3 +42,13 @@ Videos:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/17e-v6W7TyjNxQDtgYJ8N9bgFPgxBTnOq/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
