@@ -11,6 +11,8 @@ worksheets:
 
 ## Pre-class
 
+Participation: [https://docs.google.com/forms/d/e/1FAIpQLSc0teCu6QNaMW-rBxdVC4hsgciQo06VdW_Enc3MPBskVIzAew/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc0teCu6QNaMW-rBxdVC4hsgciQo06VdW_Enc3MPBskVIzAew/viewform)
+
 No new videos – go back and study lecture 20's example, because we will use it
 heavily for a debugging example in class.
 
