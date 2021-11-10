@@ -2,7 +2,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import static java.lang.Integer.*;
-import java.util.Arrays;
 
 class Point {
   int x, y;
@@ -40,16 +39,16 @@ class ArrayUnionRegion implements Region {
     return false;
   }
 }
+
 class RegionMain {
 
   static Region makeRegion(String line) {
     String[] parts = line.split(" ");
     if(parts[0].equals("circle")) {
-      System.out.println("Parts for " + line + " " + Arrays.toString(parts));
       Point center = new Point(parseInt(parts[1]), parseInt(parts[2]));
       return new CircleRegion(center, parseInt(parts[3]));
     }
-    else if(parts[0].equals("rectangle")) { // supposed to be index 0, not 1
+    else if(parts[1].equals("rectangle")) {
       Point ll = new Point(parseInt(parts[1]), parseInt(parts[2]));
       Point ur = new Point(parseInt(parts[3]), parseInt(parts[4]));
       return new RectRegion(ll, ur);
@@ -72,6 +71,7 @@ class RegionMain {
     String[] pointsLines = points.split("\n");
 
     Region[] regions = new Region[regLines.length];
+
     for(int i = 0; i < regLines.length; i += 1) {
       regions[i] = makeRegion(regLines[i]);
     }
