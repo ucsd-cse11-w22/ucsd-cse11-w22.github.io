@@ -1,6 +1,7 @@
 ---
 layout: with-sidebar
 index: 9
+name: PA7
 title: "PA7 – UCSD CSE11 F21"
 ---
 
