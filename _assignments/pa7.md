@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "PA7 – UCSD CSE11 S20"
-doodle: "./doodle.jpeg"
+layout: with-sidebar
+index: 9
+title: "PA7 – UCSD CSE11 F21"
 ---
 
 # CSE11S20 PA7 – String Manipulation
