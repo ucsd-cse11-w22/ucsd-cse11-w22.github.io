@@ -264,18 +264,22 @@ class FileHelper {
 }
 ```
 
-## Submission
+## Submission and Check-off
 
 Submit your 5 code files (4 milestones and final `StringSearch.java`) to
-`pa7` on Gradescope. There will be an autograder available while the
-assignment is out, and we will also give you feedback on your code after
-submission.
+`pa7` on Gradescope.
 
-## Check-off
+There will be an automatic set of tests that run on Gradescope while the
+assignment is out (released Nov 11). If you get a complete score from the
+autograder, you can assume you'll almost certainly get a `2` for the assignment.
+We say “almost certainly” because we will review solutions a bit to give
+feedback on approaches that happen to work on the tests we run, but don't work
+in general, but this is rare.
 
-If you get a complete score from the autograder, you get a `2` for the
-assignment; you do not need to come in for a check-off meeting. All help hours
-this week are strictly for help, or for regrading past PAs.
+All help hours this week are strictly for help, or for regrading past PAs.
+
+You will still be able to come for a post-deadline grading update meeting with a
+staff member if you don't get everything working by the first deadline.
 
 ## FAQ
 
