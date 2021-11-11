@@ -304,9 +304,13 @@ This means any **single** query (length, greater, less, contains, starts, ends, 
 
 The transforms should be applied in order, from left to right.
 
-**Can multiple queries be included within a `not` query like `not(greater=3&less=100)`?**
+**Q: Can multiple queries be included within a `not` query like `not(greater=3&less=100)`?**
 
 No, only a single query is included within the parentheses for `not`.
+
+**Q: Can there be a transform without there being a query?**
+
+No, if there's a transform there will also be a query
 
 
 ## Extensions
