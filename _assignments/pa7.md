@@ -296,9 +296,10 @@ The autograder checks for sample tests provided in the writeup as well as some m
 
 This means any **single** query (length, greater, less, contains, starts, ends, not) could be used to test the Milestone3 code. An example of a test that would **not** be run on Milestone3 but could be run on the final completed task is:
 
-    (command line) `java StringSearch "poem.txt" "greater=13&starts='This'"`
-
-    (output) `This is a short file`
+    ```
+    $ java StringSearch "poem.txt" "greater=13&starts='This'"
+    This is a short file
+    ```
 
 **Q: What if there are multiple transforms?**
 
