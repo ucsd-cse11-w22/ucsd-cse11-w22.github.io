@@ -7,6 +7,11 @@ videos:
 worksheets:
   - title: 9AM & 10AM Discussion
     url: https://drive.google.com/file/d/1KvVsjZLRUuLLFK25fvYkpO8ufmn6nNNm
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/103nj2FD-8S5OVXKoOelZWKdPnxuDL8Gx
+  - title: 10AM & 2PM Lecture
+    url: https://drive.google.com/file/d/13_qavi9e2Xcplk4p5Rj3rKpxW1t9Gjud
+    
 ---
 
 ## Pre-class
@@ -25,3 +30,13 @@ Code from class:
 Full example with file contents: [https://github.com/ucsd-cse11-f21/ucsd-cse11-f21.github.io/tree/main/_lectures/lecture21](https://github.com/ucsd-cse11-f21/ucsd-cse11-f21.github.io/tree/main/_lectures/lecture21)
 
 <iframe src="https://drive.google.com/file/d/1pd83LKLW-MEYVhGx3xB-8YJpqkXEhBnt/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
