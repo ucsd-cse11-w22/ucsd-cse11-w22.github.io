@@ -27,3 +27,6 @@ Videos:
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
+
+## Handout
+<iframe src="https://drive.google.com/file/d/1-7qeDI5XQtMyErJs-8gKzzBOs-ouYSRB/preview" width="640" height="480" allow="autoplay"></iframe>
