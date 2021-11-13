@@ -313,6 +313,11 @@ No, only a single query is included within the parentheses for `not`.
 
 No, if there's a transform there will also be a query
 
+**Q: If a replace-able string overlaps, for example replacing `aaa` with `b` in `aaaa`, which should happen?**
+
+Replace the earliest occurrence in the part that overlaps. So this would produce
+`ba`. Check what the `replace` method on strings does, as well, to see if that
+does what you need before making it more complicated for yourself!
 
 ## Extensions
 
