@@ -26,4 +26,4 @@ Videos:
 {% endfor %}
 
 ## Handout
-<iframe src="https://drive.google.com/file/d/1br0-2GkZQU-P80gE-pRXx5hItMQt9Nvj" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1br0-2GkZQU-P80gE-pRXx5hItMQt9Nvj/preview" width="640" height="480" allow="autoplay"></iframe>
