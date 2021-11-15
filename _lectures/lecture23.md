@@ -14,6 +14,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation: [https://docs.google.com/forms/d/e/1FAIpQLScyuNDjWGHOdA9nbYRcdYC3KnvaZNQp2vPrWygFkkVsdhjpRg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScyuNDjWGHOdA9nbYRcdYC3KnvaZNQp2vPrWygFkkVsdhjpRg/viewform)
+
 ## Pre-class Tasks
 
 No new reading.
