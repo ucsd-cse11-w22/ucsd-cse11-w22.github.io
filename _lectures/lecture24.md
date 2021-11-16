@@ -18,7 +18,7 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-Reading coming soon!
+Stepik 12.2: [https://stepik.org/lesson/578016/step/1?unit=572623](https://stepik.org/lesson/578016/step/1?unit=572623)
 
 Videos:
 
