@@ -10,6 +10,9 @@ videos:
       url: https://drive.google.com/file/d/1Gvhq3JsXXSxfjEVwjzHl_5jgQeuX5ixO
     - title: "Implementing with Generics"
       url: https://drive.google.com/file/d/1bXk5leiFDmvc8b5fnqaox0Xd1AdwXS1_
+worksheets:
+    - title: 4PM Lecture
+      url: https://drive.google.com/file/d/1x6SWvM8rZNbvTKoz4WOm9tj-IFjeICBx
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
