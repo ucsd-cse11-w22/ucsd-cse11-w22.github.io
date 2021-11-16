@@ -8,7 +8,7 @@ videos:
       url: https://drive.google.com/file/d/1kvdNWRXNwe0oldTiPZa6IvUL56XPUo0X
     - title: "Wrapper Classes (Integer/Double/Boolean)"
       url: https://drive.google.com/file/d/1fxNkBh_BBr9uLfRtpU8X2B2FT9dq9Lne
-      worksheets:
+worksheets:
     - title: 4PM Lecture
       url: https://drive.google.com/file/d/12O64iONNM3c36EIVHXAPvl5Yv64syxKQ
 ---
