@@ -12,7 +12,7 @@ videos:
       url: https://drive.google.com/file/d/1bXk5leiFDmvc8b5fnqaox0Xd1AdwXS1_
 worksheets:
     - title: 4PM Lecture
-      url: https://drive.google.com/file/d/1x6SWvM8rZNbvTKoz4WOm9tj-IFjeICBx
+      url: https://drive.google.com/file/d/10tzmDbXCiUh0Jq6cljLSkB05oTNrkoTG
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
