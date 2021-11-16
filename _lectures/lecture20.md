@@ -13,8 +13,10 @@ videos:
   - title: Constructor Exceptions
     url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
 worksheets:
+  - title: 9AM & 10AM Discussion 
+    url: https://drive.google.com/file/d/1KvVsjZLRUuLLFK25fvYkpO8ufmn6nNNm
   - title: 4PM Lecture
-    url: https://drive.google.com/file/d/10tzmDbXCiUh0Jq6cljLSkB05oTNrkoTG
+    url: https://drive.google.com/file/d/1x6SWvM8rZNbvTKoz4WOm9tj-IFjeICBx
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
