@@ -10,7 +10,7 @@ videos:
       url: https://drive.google.com/file/d/1fxNkBh_BBr9uLfRtpU8X2B2FT9dq9Lne
 worksheets:
     - title: 9AM & 10AM Discussion
-      url: https://drive.google.com/file/d/1Q74iCMfaf2wIyzm7V2Zk8KiwWeV7pmB
+      url: https://drive.google.com/file/d/1Q74iCMfaf2wIyzm7V2Zk8KiwWeV7pmB-
     - title: 4PM Lecture
       url: https://drive.google.com/file/d/12O64iONNM3c36EIVHXAPvl5Yv64syxKQ
 ---
