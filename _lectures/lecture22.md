@@ -10,6 +10,9 @@ videos:
       url: https://drive.google.com/file/d/1Gvhq3JsXXSxfjEVwjzHl_5jgQeuX5ixO
     - title: "Implementing with Generics"
       url: https://drive.google.com/file/d/1bXk5leiFDmvc8b5fnqaox0Xd1AdwXS1_
+worksheets:
+    - title: 4PM Lecture
+      url: https://drive.google.com/file/d/10tzmDbXCiUh0Jq6cljLSkB05oTNrkoTG
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -30,3 +33,13 @@ Videos:
 
 ## Handout
 <iframe src="https://drive.google.com/file/d/1-7qeDI5XQtMyErJs-8gKzzBOs-ouYSRB/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
