@@ -31,40 +31,6 @@ Starter code is available here:
 
 FILL
 
-## FAQ
-
-**Q: "Can we assume that at least one element is always in the list?"**
-
-No. The writeup only states that there will not be null elements in the list.
-This could be a good test to write to check behavior! In general, empty lists
-(or arrays) are an expected, normal case.
-
-**Q: "Are the lists `{1, 2, 2, 3, 4}` and `{}` in order according to the `inOrder` definition?"**
-
-Yes to both. Repeated elements still means the list is in order and an empty list also considered ordered.
-
-**Q: "I'm trying to write tests but Java won't let me do: `newArrayList.add("Hello world");`**
-
-This is because within a class only field declarations are allowed. To successfully call the add method you can use a braced blocked like in: https://github.com/ucsd-cse11-s20/13-Filter-Array-Creation/blob/master/ArrayUpdateCreation.java#L34 Alternatively, look in the tips and tricks sections on how to create and fill List objects in one line!
-
-**Q: What type should the methods in the `XXXCompare` classes return? Some are not explicitly said in the description.**
-
-You can follow the example of `class CompareDoubles` provided right before the Comparator section. 
-
-**Q: I have completed the `Comparator` section of the PA and a single method for List Methods. I want to submit to Gradescope but my code is not compiling.**
-
-Prior to submitting to Gradescope, make sure that you have all of the **method
-signatures** filled in. It is ok to have an incorrect implementation, for
-example simply return null, because this is solely to get the code to compile.
-
-**Q: I am getting "method XXX in class CompareLists cannot be applied to given types" from the autograder but it seemed to be working fine locally.**
-
-You can double-check your method signature - does it have the correct return
-type and correct order of parameters as specified in the writeup? 
-
-**Q: I am getting an error when I am using `checkExpect` for exception tests.**
-
-There was a typo in the writeup. It should be `checkException` method instead.
 
 
 ## Comparators and Lists
@@ -249,4 +215,35 @@ References</a> and the <a
 href="https://drive.google.com/open?id=1IrjAIZ3RwDxDMVzf3wZ9GRLj-bGFPuBA">video
 in this course on lambda expressions</a> for ways to create `Comparator`s
 with less code!
+
+## FAQ
+
+**Q: "Can we assume that at least one element is always in the list?"**
+
+No. The writeup only states that there will not be null elements in the list.
+This could be a good test to write to check behavior! In general, empty lists
+(or arrays) are an expected, normal case.
+
+**Q: "Are the lists `{1, 2, 2, 3, 4}` and `{}` in order according to the `inOrder` definition?"**
+
+Yes to both. Repeated elements still means the list is in order and an empty list also considered ordered.
+
+**Q: "I'm trying to write tests but Java won't let me do: `newArrayList.add("Hello world");`**
+
+This is because within a class only field declarations are allowed. To successfully call the add method you can use a braced blocked like in: https://github.com/ucsd-cse11-s20/13-Filter-Array-Creation/blob/master/ArrayUpdateCreation.java#L34 Alternatively, look in the tips and tricks sections on how to create and fill List objects in one line!
+
+**Q: What type should the methods in the `XXXCompare` classes return? Some are not explicitly said in the description.**
+
+You can follow the example of `class CompareDoubles` provided right before the Comparator section. 
+
+**Q: I have completed the `Comparator` section of the PA and a single method for List Methods. I want to submit to Gradescope but my code is not compiling.**
+
+Prior to submitting to Gradescope, make sure that you have all of the **method
+signatures** filled in. It is ok to have an incorrect implementation, for
+example simply return null, because this is solely to get the code to compile.
+
+**Q: I am getting "method XXX in class CompareLists cannot be applied to given types" from the autograder but it seemed to be working fine locally.**
+
+You can double-check your method signature - does it have the correct return
+type and correct order of parameters as specified in the writeup? 
 
