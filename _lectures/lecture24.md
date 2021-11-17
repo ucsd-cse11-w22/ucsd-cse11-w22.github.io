@@ -16,6 +16,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation: [https://docs.google.com/forms/d/e/1FAIpQLSfr-nXLtJNNefD1oPJaIjRLo1EGkFGAA1cbFB9PUHsX0pDe3w/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfr-nXLtJNNefD1oPJaIjRLo1EGkFGAA1cbFB9PUHsX0pDe3w/viewform)
+
 ## Pre-class Tasks
 
 Stepik 12.2: [https://stepik.org/lesson/578016/step/1?unit=572623](https://stepik.org/lesson/578016/step/1?unit=572623)
