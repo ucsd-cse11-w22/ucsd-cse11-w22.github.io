@@ -29,10 +29,7 @@ Submission checklist:
 
 Starter code is available here:
 
-FILL
-
-
-
+[https://github.com/ucsd-cse11-f21/pa8-starter](https://github.com/ucsd-cse11-f21/pa8-starter)
 ## Comparators and Lists
 
 The
@@ -166,9 +163,12 @@ Take a screen shot of the stack trace.
 <div class='sidenote'>You can draw it in a tool like Google Slides, or by
 hand and take a picture, or any other tool you like as long as it's
 clear.</div>
-Draw a picture of the stack and heap at the time the exception was thrown.
-You can use the style from class/the notes with boxes for method calls and
-objects/arrays/lists. Put your drawing in the document.
+Draw a picture of the relevant parts of the stack and heap at the time the
+exception was thrown.  You can use the style from class/the notes with boxes for
+method calls and objects/arrays/lists. Put your drawing in the document. The
+problem sessions from November 10 have some good examples of this kind of task:
+
+[https://ucsd-cse11-f21.github.io/lectures/lecture21.html](https://ucsd-cse11-f21.github.io/lectures/lecture21.html)
 
 Then, include screenshots of the methods and method calls from your code that
 are reported in the stack trace.
@@ -177,10 +177,30 @@ You can use this document as a template:
 
 [Stack trace template doc](https://docs.google.com/document/d/1Uxcih8SvaX7WhNKtzNlOUEqdVQrSc_YxzdetKH86Uaw/edit#)
 
+As a checklist, your stack trace diagram should include:
+
+- A stack frame for each method _in your code_ (don't include stack frames for
+Java builtins or the tester library) that is on the stack at the time of the
+exception, with an accurate value for each variable.
+- An object or array for each reference that appears on the stack. You don't
+need to include the entire heap, just what's explicitly referenced from the
+stack.
+
 ### Submission
 
 Submit your code to `pa8`, and submit your stack trace diagram and
 screenshots as a PDF to `pa8-stacktrace`.
+
+There is an automatic grader for the `pa8` assignment that gives feedback on the
+various parts of your submission. We won't grade the tests explicitly, but we
+_may_ ask to see the required tests as part of help hours – make sure you try
+testing things thoroughly on your own when you get an error back from the
+autograder!
+
+You can also come to a meeting to get your stack trace diagram reviewd for the
+`pa8-stacktrace` assignment:
+
+[https://docs.google.com/document/d/1CUHA7pj7EPZWeBKp9AlQq1qZBcwlGCVlsWefA0btIR4/edit?usp=sharing](https://docs.google.com/document/d/1CUHA7pj7EPZWeBKp9AlQq1qZBcwlGCVlsWefA0btIR4/edit?usp=sharing)
 
 ### Tips and Tricks
 
