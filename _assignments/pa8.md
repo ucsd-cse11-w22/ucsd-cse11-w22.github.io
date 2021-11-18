@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 10
 name: PA8
-title: "PA78– UCSD CSE11 F21"
+title: "PA8 – UCSD CSE11 F21"
 ---
 
 # Comparators, Lists, and Exceptions Practice
@@ -13,23 +13,24 @@ In this assignment you'll learn about an important built-in Java interface,
 practice with Java lists and maps, and work on understanding how to `throw`
 exceptions.
 
-On this assignment, you can share **ideas for tests** with other students in
-the course and on Piazza, but you cannot share code with anyone other than the
-course staff. If you want to share information about tests, describe them or
-use shorthand notation like “try passing in the list `{1, 2, 3}` and you should
-expect X as an answer” rather than writing out Java code for it.
+On this assignment, you can work with other students and share code and tests as
+you find best for your learning. Focus your discussion on Piazza on small
+snippets of code to accomplish specific tasks, rather than whole method
+implementations, and also focus on sharing useful tests, which is often broadly
+helpful.
 
 Submission checklist:
 
-- In `CompareLists.java`, submitted to the `pa8` assignment:
+- In `CompareLists.java`, submitted to the `PA8` assignment:
   - `[ ]` Implementations of `Comparator` classes
   - `[ ]` Implementations of array/`List` methods
 - `[ ]` PDF submission of memory diagram for exception, submitted to the
-`pa8-stacktrace` assignment
+`PA8-stacktrace` assignment
 
 Starter code is available here:
 
 [https://github.com/ucsd-cse11-f21/pa8-starter](https://github.com/ucsd-cse11-f21/pa8-starter)
+
 ## Comparators and Lists
 
 The
