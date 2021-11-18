@@ -10,6 +10,11 @@ videos:
       url: https://drive.google.com/file/d/1_l1tZYs27wzgopZjnOv9txXGJOaug4JH
     - title: "ArrayLists – Overloading"
       url: https://drive.google.com/file/d/1hOvnt1rBitXqE91kS7xSrTrSZVNaX9dZ
+worksheets:
+  - title: 10AM & 2PM Lecture
+    url: https://drive.google.com/file/d/1VvekO-XqBg6G5_l1eAtIQdS8kFkDeo6s
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/15HDJRSsDNKfMBu1Nl74bpWoXnTxO03jL
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -31,3 +36,14 @@ Videos:
 
 ## Handout
 <iframe src="https://drive.google.com/file/d/16VNXTCrpouqLztoZGfpHN2VTtNMDmFxT/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
