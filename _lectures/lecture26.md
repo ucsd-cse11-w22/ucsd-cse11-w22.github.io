@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-index: 25
+index: 26
 name: Equality, Overrides
 released-on: "2021-11-22"
 videos:
