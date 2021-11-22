@@ -19,6 +19,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSfis4ZxJni9foMBQ_wDfTZmMKHhfqHPiIRoet_Xr7LN1X3DQQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfis4ZxJni9foMBQ_wDfTZmMKHhfqHPiIRoet_Xr7LN1X3DQQ/viewform)
+
 ## Pre-class Tasks
 
 (It's OK to watch these after class in this particular case, too, the class
