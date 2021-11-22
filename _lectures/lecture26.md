@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 25
 name: Equality, Overrides
-released-on: "2021-11-17"
+released-on: "2021-11-22"
 videos:
     - title: "Equals Ourselves"
       url: https://drive.google.com/file/d/1yq4xTudhikFAVH9gLRs_8Xe8wcLLmj4V
