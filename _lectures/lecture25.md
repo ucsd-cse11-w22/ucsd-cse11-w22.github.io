@@ -8,8 +8,8 @@ videos:
       url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
     - title: "Abstract Classes (31:00 to end)"
       url: https://drive.google.com/file/d/1p5wapPyh34kEMqNKxNZKH_RqSoFeV70m
-    - title: "Abstract Classes 2 (First 2:00 - 20:00)
-      url: https://drive.google.com/file/d/1Xp7owWbOOTB4ubOQgiwyI-En6ubOiDzN"
+    - title: "Abstract Classes 2 (First 2:00 - 20:00)"
+      url: https://drive.google.com/file/d/1Xp7owWbOOTB4ubOQgiwyI-En6ubOiDzN
 ---
 
 
