@@ -18,7 +18,9 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-No new reading, though there will be reading on this to wrap up this content in
+[Stepik 13](https://stepik.org/lesson/575460/step/1?unit=570041) (Abstract Classes)
+
+No new readings on modifiers, though there will be reading on this to wrap up this content in
 week 10!
 
 Videos:
