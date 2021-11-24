@@ -16,6 +16,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation: [https://docs.google.com/forms/d/e/1FAIpQLSd4uQaq42bIXGxVE7ag9a0kZ_58Gbr_-OQWMP1Ws-dmJWFGjQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd4uQaq42bIXGxVE7ag9a0kZ_58Gbr_-OQWMP1Ws-dmJWFGjQ/viewform)
+
 ## Pre-class Tasks
 
 [Stepik 13](https://stepik.org/lesson/575460/step/1?unit=570041) (Abstract Classes)
