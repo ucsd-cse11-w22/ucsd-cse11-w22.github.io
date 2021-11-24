@@ -32,4 +32,4 @@ Videos:
 
 ## Handout
 
-Coming soon!
+<iframe src="https://drive.google.com/file/d/1Q78W5hpxWI6bD7FJW-or9aRa3YmWKgd1/preview" width="640" height="480" allow="autoplay"></iframe>
