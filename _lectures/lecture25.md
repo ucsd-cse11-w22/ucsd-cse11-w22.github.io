@@ -10,6 +10,13 @@ videos:
       url: https://drive.google.com/file/d/1p5wapPyh34kEMqNKxNZKH_RqSoFeV70m
     - title: "Abstract Classes 2 (First 2:00 - 20:00)"
       url: https://drive.google.com/file/d/1Xp7owWbOOTB4ubOQgiwyI-En6ubOiDzN
+worksheets:
+  - title: 2PM Discussion
+    url: https://drive.google.com/file/d/1assLXGNd-DmR9toODYrE1ty12ghy1Gtq
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/16NA1qU3yGHqTtZxEGLuETkhIHlYiibRI
+  - title: 10AM & 2PM Lecture
+    url: https://drive.google.com/file/d/1pgJMqvBEGCt-bVOKJeOK3ZoMzlLXjful
 ---
 
 
@@ -33,3 +40,13 @@ Videos:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1VFG7LCaqwV1Z8i9McN--0YlleUak4Km2/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Completed Worksheets from Dicussion and Lecture
+
+{% for worksheet in page.worksheets %}
+<div class="worksheetBox">
+{{ worksheet.title }}
+<br>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+</div>
+{% endfor %}
