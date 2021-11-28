@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-index: 27
+index: 28
 name: A Big Example
 released-on: "2021-11-29"
 videos:
@@ -24,8 +24,6 @@ videos:
 ## Problem Session {{ page.index }} – {{ page.name }}
 
 _{{ page.released-on }}_
-
-Participation form: [https://docs.google.com/forms/d/e/1FAIpQLSfis4ZxJni9foMBQ_wDfTZmMKHhfqHPiIRoet_Xr7LN1X3DQQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfis4ZxJni9foMBQ_wDfTZmMKHhfqHPiIRoet_Xr7LN1X3DQQ/viewform)
 
 ## Pre-class Tasks
 
