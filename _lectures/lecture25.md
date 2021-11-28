@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 25
 name: Class Hierarchy
-released-on: "2021-11-17"
+released-on: "2021-11-19"
 videos:
     - title: "Exceptions in Constructors"
       url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
@@ -14,7 +14,7 @@ worksheets:
   - title: 2PM Discussion
     url: https://drive.google.com/file/d/1assLXGNd-DmR9toODYrE1ty12ghy1Gtq
   - title: 4PM Lecture
-    url: https://drive.google.com/file/d/16NA1qU3yGHqTtZxEGLuETkhIHlYiibRI
+    url: https://drive.google.com/file/d/18WM17sRrgrt-O9fv_7sL95YMDOSypQ_F
   - title: 10AM & 2PM Lecture
     url: https://drive.google.com/file/d/1pgJMqvBEGCt-bVOKJeOK3ZoMzlLXjful
 ---
