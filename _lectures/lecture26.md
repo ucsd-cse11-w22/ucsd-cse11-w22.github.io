@@ -12,6 +12,11 @@ videos:
       url: https://drive.google.com/file/d/1XFuMKAMREdoFzSBQ7HXwPtklvdwoC0TV
     - title: "toString()"
       url: https://drive.google.com/file/d/1yeM6VHMe6mLeIV_dpjx0yWG6XZ7QjlPo
+worksheets:
+  - title: 9AM & 10AM Discussion
+    url: https://drive.google.com/file/d/1W99UA1DVseNFV20DExkA1UVdY7Y5HbW9
+  - title: 4PM Lecture
+    url: https://drive.google.com/file/d/16NA1qU3yGHqTtZxEGLuETkhIHlYiibRI
 ---
 
 
