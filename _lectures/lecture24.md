@@ -15,6 +15,8 @@ worksheets:
     url: https://drive.google.com/file/d/1VvekO-XqBg6G5_l1eAtIQdS8kFkDeo6s
   - title: 4PM Lecture
     url: https://drive.google.com/file/d/15HDJRSsDNKfMBu1Nl74bpWoXnTxO03jL
+  - title: 4PM Discussion
+    url: https://drive.google.com/file/d/1zzu9LCmX_Tj4xHLhGXw2ghHvj8FSPLNu
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
