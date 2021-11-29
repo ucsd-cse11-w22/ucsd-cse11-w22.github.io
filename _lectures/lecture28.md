@@ -25,6 +25,8 @@ videos:
 
 _{{ page.released-on }}_
 
+Participation: [https://docs.google.com/forms/d/e/1FAIpQLSdta3wexG307uMEwOOiWbaPT9ctmfHVHVeZYv1xZl2r2FtMKQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdta3wexG307uMEwOOiWbaPT9ctmfHVHVeZYv1xZl2r2FtMKQ/viewform)
+
 ## Pre-class Tasks
 
 This worked example will serve as a review of most of the topics we've seen in
