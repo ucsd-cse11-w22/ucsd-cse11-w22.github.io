@@ -65,11 +65,19 @@ Write a class called `ComparatorLookupTable`. It should have two type variables,
 - `void update(K key, V value)` – changes the value stored in `key` to `value`,
 or throws a `NoSuchElementException` if it isn't defined.
 
-It should have a constructor that takes two arguments, a `List<K>` and
-`List<V>`.
+It should have a constructor that takes **three** arguments, a `List<K>`,
+`List<V>`, and a `Comparator<K>`.
 
-It must have two fields, called `keys` and `values`, as shown in the test above,
-that store lists and add elements in the order specified.
+In all of the methods, the class should use the given `Comparator` to decide
+when keys are equal.
+
+It must have at least two fields, called `keys` and `values`, as shown in the
+test above, that store lists and add elements in the order specified. You may
+also find it useful to store a field that contains the comparator.
+
+**NOTE: We fixed this section, in particular about the third argument
+and comparators, at around 7pm on Monday. The tests were accurate and the
+description of the constructor was inconsistent with the tests.**
 
 It must use the zero-argument constructors for the exceptions; there is no
 specific message to include.
