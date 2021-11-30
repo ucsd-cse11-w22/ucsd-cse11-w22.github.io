@@ -72,7 +72,7 @@ In all of the methods, the class should use the given `Comparator` to decide
 when keys are equal.
 
 It must have at least two fields, called `keys` and `values`, as shown in the
-test above, that store lists and add elements in the order specified. You may
+test below, that store lists and add elements in the order specified. You may
 also find it useful to store a field that contains the comparator.
 
 **NOTE: We fixed this section, in particular about the third argument
