@@ -5,8 +5,6 @@ name: Exam 3
 released-on: "2021-11-29"
 ---
 
-# CSE11FA21 Exam 3
-
 ### Release: 5pm Monday November 29, 2021
 
 ### Due: 9am Wednesday December 1, 2021
