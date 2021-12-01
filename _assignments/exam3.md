@@ -244,7 +244,7 @@ variable are the same below), and _don't_ include the contents of the heap.
     Numbers           addAll        :2                  total = 1; i = 1
     */
     ```
-- There is no video task associated with `WordFilter`.
+- There is no video task associated with `WordSearch`.
 
 ## Study
 
