@@ -255,3 +255,13 @@ a research project.
 <iframe src="https://drive.google.com/file/d/1U6naucU4rT5tmes2saYRsmghToH7VgGD/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
+## Grading
+
+You can see the grade files used for `ComparatorLookupTable` here. Check your
+submission to see which one was used for your submission.
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fucsd-cse11-f21%2Fucsd-cse11-f21.github.io%2Fblob%2Fmain%2F_assignments%2FComparatorLookupTableGrading2ArgExamples.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></script>
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fucsd-cse11-f21%2Fucsd-cse11-f21.github.io%2Fblob%2Fmain%2F_assignments%2FComparatorLookupTableGradingExamples.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></script>
+
+
