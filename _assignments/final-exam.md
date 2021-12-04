@@ -150,7 +150,7 @@ and returns a `String`. It should have the following behavior:
 
 - For a `CircleRegion`, it returns `"Circle"`
 - For a `RectRegion`, it returns `"Rectangle"`
-- For a `UnionRegion`, it returns `"Union(<region1>, <region2>)", where `<region1>`
+- For a `UnionRegion`, it returns `"Union(<region1>, <region2>)"`, where `<region1>`
   is the `toText` of the first region in the union, and `<region2>` is the
   `toText()` of the second.
 - For an `IntersectRegion`, it returns `"Intersect(<region1>, <region2>)"`, where
