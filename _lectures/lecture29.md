@@ -10,7 +10,6 @@ released-on: "2021-12-1"
 
 _{{ page.released-on }}_
 
-Participation: [https://docs.google.com/forms/d/e/1FAIpQLSdta3wexG307uMEwOOiWbaPT9ctmfHVHVeZYv1xZl2r2FtMKQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdta3wexG307uMEwOOiWbaPT9ctmfHVHVeZYv1xZl2r2FtMKQ/viewform)
 
 ## Pre-class Tasks
 

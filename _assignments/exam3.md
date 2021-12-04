@@ -51,6 +51,7 @@ should make sure you don't have any typos, code that has the wrong method
 header, etc. Please check this output and fix any files that were uploaded with
 erroneous names; we will not have time to fix or resubmit submissions with
 issues in the short turnaround time for grading.
+
 ## Task 1 – ComparatorLookupTable
 
 Write a class called `ComparatorLookupTable`. It should have two type variables,

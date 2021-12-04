@@ -30,10 +30,13 @@ class Folder1 implements FolderContent {
     this.name = name;
     this.contents = contents;
   }
+  // Can you think of an example where this would not work correctly?
   public String getContents(String name) {
     for(FolderContent fc: this.contents) {
-                                         // this call could be recursive
+      // Important! The potentially recursive call to getContents only happens when we know that
+      // file is present.
       if(fc.containsFile(name)) { return fc.getContents(name); }
+      // if(this.name.equals(name)) { }  This would be if we wanted to find folders
     }
     throw new NoSuchElementException();
   }
@@ -67,15 +70,21 @@ class Folder2 {
     }
     return false;
   }
-  
 
-
-  public String largestFile() {
-    int largest = 0;
-    String largestName = "";
-    System.out.println("Looking at: " + this.name);
+  public String getContents(String name) {
     for(File f: this.files) {
-      System.out.println("Considering file: " + f.name);
+      if(f.name.equals(name)) { return f.getContents(name); }
+    }
+    for(Folder2 f: this.folders) {
+      if(f.containsFile(name)) { return f.getContents(name); }
+    }
+    throw new NoSuchElementException();
+  }
+  
+  public String largestFile() {
+    String largestName = "";
+    int largest = 0;
+    for(File f: this.files) {
       if(f.contents.length() > largest) {
         largest = f.contents.length();
         largestName = f.name;
@@ -83,15 +92,14 @@ class Folder2 {
     }
     for(Folder2 f: this.folders) {
       String largestInFolder = f.largestFile();
-      System.out.println(largest + " " + largestName + " " + largestInFolder);
-      // Use getcontents instead of largestInFolder.length()
-      if(largestInFolder.length() > largest) {
-        largest = largestInFolder.length();
+      System.out.println(this.name + " " + f.name + " " + largestInFolder + " " +
+        largestInFolder.length());
+      if(!largestInFolder.equals("") &&
+          this.getContents(largestInFolder).length() > largest) {
         largestName = largestInFolder;
+        largest = this.getContents(largestInFolder).length();
       }
-      System.out.println(largest + " " + largestName);
     }
-    System.out.println("Done with " + this.name);
     return largestName;
   }
 
@@ -135,7 +143,7 @@ class FilesystemExamples {
   );
   Folder2 lecture28f2 = new Folder2(
     "28-lecture",
-    List.of(new File("f.java", "<java code>")),
+    List.of(new File("FilesystemExamples.java", "<java code>")),
     List.of(textfiles2)
   );
 
