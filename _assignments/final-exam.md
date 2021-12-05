@@ -320,6 +320,9 @@ You can assume:
 - At least a query file and one document file will be provided
 - All the files will be in the same folder/directory as the program
 
+Recall that PA7 has some useful provided code that is good for reading files
+across different platforms.
+
 ### Video Task
 
 Create a video of no more than 5 minutes:
