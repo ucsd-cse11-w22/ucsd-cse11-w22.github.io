@@ -305,8 +305,8 @@ containing “bath,” for instance. A term can only match each document once; d
 count multiple matches of the same word within one document.
 
 If there is a *tie* for the most relevant term or most relevant document, report
-the one that appears earlier in the file (for query terms) or earlier on the
-command line (for document names).
+the one that appears earlier in the file (for document names) or earlier on the
+command line (for query terms).
 
 If no term matches any document, print the message `No matches found.` and no
 other information.
