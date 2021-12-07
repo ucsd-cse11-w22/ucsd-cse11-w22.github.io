@@ -164,7 +164,7 @@ Make a video of no longer than 5 minutes. In it:
 - Show your ID as usual
 - Run an example of `averageBeforeValue` with an array of at length `5` that
   contains the `stopAt` value at index `3`. Show the output, then write a loop
-  table of a loop in the body of `stopAt`, showing each variable's value before
+  table of a loop in the body of `averageBeforeValue`, showing each variable's value before
   and after each the loop iteration. Put it in a comment, using the same format
   demonstrated for `averageWithoutLowest` in [exam 2](./exam2.html)
 - There is no video task associated with Task 2 and 3.
