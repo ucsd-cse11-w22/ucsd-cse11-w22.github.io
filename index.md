@@ -3,10 +3,10 @@ layout: with-sidebar
 title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
 
-# UCSD CSE 11 Fall 2021
+# UCSD CSE 11 Winter 2022
 ## Accelerated Intro to Programming
 
-_Greg Miranda & Joe Gibbs Politz_
+_Greg Miranda_
 
 <a id="b:disc"></a>
 <h3>Schedule</h3>
