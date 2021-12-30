@@ -11,9 +11,9 @@ learning, and a few different ways to get in touch and ask for help.
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/fall2021/cse11_fa21/home](https://piazza.com/ucsd/fall2021/cse11_fa21/home)
+- Piazza Message Board: [https://piazza.com/ucsd/winter2022/cse11_wi22/home](https://piazza.com/ucsd/winter2022/cse11_wi22/home)
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
-- Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
+- Tutoring Procedurs: [https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing](https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
