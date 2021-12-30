@@ -37,7 +37,6 @@ There are a few components to your grade in the course:
 Your final letter grade will be calculated as follows:
 
 ![Grades](grades.png)
-<img src="grades.jpg" alt="Grades" width="800px"/>
 
 We may adjust the above scale to be more lenient (depending on a number of
 factors that we will not publicize), but we guarantee that we will not adjust
