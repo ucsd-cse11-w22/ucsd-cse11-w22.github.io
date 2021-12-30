@@ -2,10 +2,10 @@
 layout: with-sidebar
 title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 11 Fall 2021
+# UCSD CSE 11 Winter 2022
 ## Asking Questions and Getting Help
 
-There are 25 staff members (instructor, TAs, and tutors) to help with your
+There are 16 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
@@ -15,14 +15,10 @@ Quick links:
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
 - Remote Help Zoom Room: [https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
-  - You have permission to use _any_ lab, but prefer to use the B260 lab if space is available, that's where our staff will be based
-- Joe
-  - Email: `jpolitz@eng.ucsd.edu`
-  - **In-person only office hours**: Monday 11-12pm, CSE 3206
-  - **Remote only office hours**: Tuesday 2-3pm, [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
+  - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Combined remote/in-person**: Monday, Wednesday 10-11:30am
+  - **Combined remote/in-person**: Monday, Wednesday 10-11:00am
     - Office: CSE 4204
     - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
@@ -94,19 +90,6 @@ for problem-solving with your classmates and Q&A with the instructional team.
 In each session, you will work in pairs or small groups on problems that we
 provide and we will go over them as a group.
 
-**In-person sessions** will be led during the normally-scheduled lecture times in the normally-scheduled
-rooms, led by the instructors. These sessions will be recorded but
-will not be available remotely while they are ongoing.
-
-**Remote sessions** include all of the normally scheduled discussion sections for the
-course, which are on the same days as in-person lectures, and at a variety of
-times.
-
-
-For credit you **must** attend a section on each day (Monday, Wednesday, and
-Friday), but you can attend any section or different sections across the days,
-with some small number of allowed absences.
-
 As an exception to the class being synchronous, the **final exam** will have an
 asynchronous format. Students will not be required to take the final exam
 during the scheduled block, and there will be some flexibility on when it is
@@ -136,15 +119,14 @@ have any formalized support for auditing the course.
 
 
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
-or all of Fall 2021?**
+or all of Winter 2022?**
 
 If the attendance policy above doesn't address your situation, please contact
-`jpolitz@eng.ucsd.edu`.
+`g2miranda@eng.ucsd.edu`.
 
 **Do we need a clicker for this class?**
 
-No, we will use other ways (like paper handouts or Google Forms) to keep track
-of participation in class.
+No.
 
 **Where are the icons from?**
 

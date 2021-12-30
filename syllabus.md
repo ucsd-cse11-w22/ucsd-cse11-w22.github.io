@@ -30,12 +30,20 @@ and discuss more efficient strategies in office hours.
 
 There are a few components to your grade in the course:
 
-- Problem session attendance
-- Completing book exercises and surveys
-- Programming assignments
-- Programming exams
+- Completing book exercises in Stepik and surveys (20%)
+- Programming assignments (20%)
+- Programming exams (60%)
 
 Your final letter grade will be calculated as follows:
+
+|               | Percentage of total grade | Earn an A | Earn a B	| Earn a C- |
+| :---          |    :----:                 |  :----:   |  :----:   |  :----:   |
+| Stepik        | 20%                       | 100%      | 90%       | 75%       |
+| PAs           | 20%                       | 90%       | 80%       | 65%       |
+| Exam          | 60%                       | 90%       | 80%       | 65%       |
+| Overall Grade | 100%                      | 93%       | 83%       | 70%       |
+
+
 
 - To get an A or above, you must:
   - Participate in at least 20 problem sessions
@@ -241,11 +249,3 @@ If you experience any sort of harassment or discrimination, please contact the
 instructor as soon as possible.   If you prefer to speak with someone outside
 of the course, please contact the Office of Prevention of Harassment and
 Discrimination: https://ophd.ucsd.edu/.
-
-### Consent to Participate in Educational Research
-
-You can download a copy of the form below
-[here](https://docs.google.com/document/d/14HNe2U5-oBXtWgNKqNpTkhPiBjEhnlOKX2DJfBhnOO8/)
-if you need a copy to fill out.
-
-<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vSssZh6Sb22jt0dKnwc2NHG7wKPCE1Ehi-o2QdJUd9c1MZjY_1AvcIrH-a2tTIcHEROGfGFJhNfJAjW/pub?embedded=true"></iframe>
