@@ -7,7 +7,7 @@ doodle: "/doodle.png"
 # UCSD CSE 11 Winter 2022
 ## Accelerated Intro to Programming
 
-_Greg Miranda & Joe Gibbs Politz_
+_Greg Miranda_
 
 In this course, you will learn to write, trace, and test programs; explore the
 interactions between programs and data; and practice organizing programs for
