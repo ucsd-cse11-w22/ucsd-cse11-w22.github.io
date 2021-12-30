@@ -44,6 +44,9 @@ the scale to make it harder to get a better grade. We will not adjust the scale
 for individual students. Pluses and minuses will be given at the instructors'
 discretion around the boundaries of these categorizations.
 
+We will also assign + and - grades based on how close you are to the next
+grade.
+
 <h3>Problem Sessions – Lecture and Discussion Sections</h3>
 
 Most course content will be presented asynchronously through videos and
