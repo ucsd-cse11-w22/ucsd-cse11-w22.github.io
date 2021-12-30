@@ -44,25 +44,40 @@ the scale to make it harder to get a better grade. We will not adjust the scale
 for individual students. Pluses and minuses will be given at the instructors'
 discretion around the boundaries of these categorizations.
 
-<h3>Problem Sessions – Lecture and Discussion Sections</h3>
+<h3>Problem Sessions – Lecture</h3>
 
 Most course content will be presented asynchronously through videos and
 readings, with associated interactive activities. Lectures will involve problem
 solving with your classmates. Participation is not required at problem-solving
 sections, but it is highly encouraged.
 
-**In-person sessions** will be led during the normally-scheduled lecture times
-in the normally-scheduled rooms, led by the instructor. These sessions will be
-recorded by podcasting but will not be available remotely while they are ongoing. 
-You can find the recordings in the Canvas Media Gallery 
-or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
+For the first two weeks, lectures will be remote (see Canvas for Zoom link). 
+Starting in Week 3, lectures will move to in-person. 
 
 **Remote sessions** will be led during the normally-scheduled lecture times
 on Zoom, led by the instructor. These sessions will be recorded and uploaded
-several hours after the lecture. You can find the recordings in the Canvas Media Gallery 
+several hours after the lecture. You can find the recordings in the Canvas Media Gallery. 
 
-Since these lectures may be mostly student discussion, these are mostly an archive of any live demos
-that come up rather than a presentation of core content.
+**In-person sessions** will be led during the normally-scheduled lecture times
+in the normally-scheduled room, led by the instructor. These sessions will be
+recorded by podcasting but will not be available remotely while they are ongoing. 
+You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
+
+Since these lectures may be mostly student discussion, the recordings are mostly 
+an archive of any live demos that come up rather than a presentation of core content.
+
+<h3>Discussion</h3>
+
+Teaching Assistants (TAs) will hold a weekly discussion section to
+cover the weekly programmoing assignment, review prior content, and answer
+student questions. Participation is not required at problem-solving
+sections, but it is highly encouraged.
+
+For the first two weeks, discussions will be remote (see Canvas for Zoom link). 
+Starting in Week 3, discussions will move to in-person in the normally-sheduled room. 
+
+Like lectures, discussions will also be recorded and made available in the 
+Cavnas Media Gallery.
 
 ### Book Exercises/Quizzes and Course Engagement
 
@@ -75,7 +90,13 @@ and check on your understanding.
 The online texbook records your progress, and we give a schedule of expected
 times to finish the readings. There is no penalty for completing these late, but
 they are assigned so that you will be prepared to participate in problem solving
-session and so that you know the expected pace of the course.
+session and so that you know the expected pace of the course. 
+
+All Stepik exercises must be completed by the last day of class in Week 10: March 11, 2022 at 10pm.
+After this time, no late submissions will be accepted, for any reason.
+
+To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/4MqJwT7R2YiM2nLE9)
+by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
 
 <a id="p:programming"></a>
@@ -87,18 +108,23 @@ programming will make up the majority of your work in the course.
 There are numerous opportunities to get feedback on your work and improve:
 
 - **Shortly after the deadline** the deadline for each assignment, a staff member 
-grade your work and get feedback on what, if anything, you need to fix.
+will grade your work and get feedback on what, if anything, you need to fix.
 
 - **After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
 submission and request to have your work regraded up to three more times (for each PA). 
-A staff member will grade your resubmission and let you know when it has been graded.
+A staff member will grade your resubmission and let you know when it has been graded. 
+
+There is no penalty for resubmissions, you can still earn full credit. 
+We will take the highest score between your original submission and your late/resubmissions.
 
 The **Late/Resubmit** process applies if your submission is late. You should strive
 to complete each PA before it's posted deadline as the PAs are practice for the exams.
-You will also receive earlier feedback and an extra grading attempt.
+You will also receive earlier feedback and an extra grading attempt if you submit
+before the original deadline.
 
-We will take the highest score between your original submission and your resubmissions.
+The **Hard deadline* for all resubmissions is Friday of Week 10 at 10pm. We will not accept
+any submissions after that time, for any reason.
 
 
 <a id="g:exams"></a>
