@@ -38,27 +38,6 @@ Your final letter grade will be calculated as follows:
 
 ![Grades](grades.png)
 
-
-
-- To get an A or above, you must:
-  - Participate in at least 20 problem sessions
-  - Complete **all** book exercises/quizzes and course engagement activities
-  - Get a score of **2** on all but 1 programming assignment, and no **0**'s on programming assignments
-  - Get a score of **2** on an assessment (exam) corresponding to each third of the course
-
-- To get a B or above, you must:
-  - Participate in at least 17 problem sessions
-  - Complete more than half of the book exercises/quizzes and course engagement activities
-  - Get a score of **2** on all but 2 programming assignments, and no **0**'s on programming assignments
-  - Get a score of **2** on an assessment corresponding to two of the three thirds of the course
-
-- To get a C- or above (a P on the P/NP scale), you must:
-  - Participate in at least 14 problem sessions
-  - Complete more than half book exercises/quizzes and course engagement activities
-  - Get a score of **2** on at least half of the programming assignments
-  - Get a score of **2** on an assessment corresponding to two of the three thirds of the course
-
-
 We may adjust the above scale to be more lenient (depending on a number of
 factors that we will not publicize), but we guarantee that we will not adjust
 the scale to make it harder to get a better grade. We will not adjust the scale
@@ -69,19 +48,21 @@ discretion around the boundaries of these categorizations.
 
 Most course content will be presented asynchronously through videos and
 readings, with associated interactive activities. Lectures will involve problem
-solving with your classmates. Participation is required at problem-solving
-sections; we will check in with you with in-class forms or staff joining your
-discussions to ensure everyone is present and contributing.
+solving with your classmates. Participation is not required at problem-solving
+sections, but it is highly encouraged.
 
 **In-person sessions** will be led during the normally-scheduled lecture times
-in the normally-scheduled rooms, led by the instructors. These sessions will be
-recorded but will not be available remotely while they are ongoing. Since these
-may be mostly student discussion, these are mostly an archive of any live demos
-that come up rather than a presentation of core content.
+in the normally-scheduled rooms, led by the instructor. These sessions will be
+recorded by podcasting but will not be available remotely while they are ongoing. 
+You can find the recordings in the Canvas Media Gallery 
+or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
 
-**Remote sessions** include all of the normally scheduled discussion sections
-for the course, which are on the same days as in-person lectures, and at a
-variety of times. They will not be recorded.
+**Remote sessions** will be led during the normally-scheduled lecture times
+on Zoom, led by the instructor. These sessions will be recorded and uploaded
+several hours after the lecture. You can find the recordings in the Canvas Media Gallery 
+
+Since these lectures may be mostly student discussion, these are mostly an archive of any live demos
+that come up rather than a presentation of core content.
 
 ### Book Exercises/Quizzes and Course Engagement
 
@@ -103,28 +84,22 @@ session and so that you know the expected pace of the course.
 Most weeks there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
 
-On each assignment, you can earn one of the following scores:
-
-- **2** (Complete) – the assignment is totally complete with no significant
-flaws
-- **1** (In Progress) – we have identified at least one significant issue with your
-assignment that needs to be fixed
-- **0** (Incomplete) – the assignment is not submitted or not complete enough to
-give feedback
-
 There are numerous opportunities to get feedback on your work and improve:
 
-- **Before** the deadline for each assignment, you can come to a feedback
-meeting with a staff member to have your work graded and get feedback on what,
-if anything, you need to fix.
-- **Right after the deadline** for each assignment we will grade your work, if
-it wasn't already checked off as complete in the feedback meeting or you made
-improvements.
-- **After you receive your grade** you can have one more meeting with a staff
-member to improve your grade by showing your improvements based on feedback.
+- **Shortly after the deadline** the deadline for each assignment, a staff member 
+grade your work and get feedback on what, if anything, you need to fix.
 
-The **After the deadline** process applies if your submission is late. You can
-come to a one-time meeting with a staff member to have your work graded.
+- **After you receive your grade** you can continue to improve your assignment
+based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
+submission and request to have your work regraded up to three more times (for each PA). 
+A staff member will grade your resubmission and let you know when it has been graded.
+
+The **Late/Resubmit** process applies if your submission is late. You should strive
+to complete each PA before it's posted deadline as the PAs are practice for the exams.
+You will also receive earlier feedback and an extra grading attempt.
+
+We will take the highest score between your original submission and your resubmissions.
+
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
@@ -138,8 +113,7 @@ hours) time frame without any help from other people, including the course
 staff. The final exam is cumulative, with three sections that each correspond to
 the material from one of the in-quarter exams. Your score on the assessment for
 a “third” of the course is the **maximum** of your score on that in-quarter exam
-and that part on the final. The scores on assessments are **0**, **1**, and
-**2**, with the same meanings as for programming assignments.
+and that part on the final. 
 
 For example:
 
@@ -151,6 +125,9 @@ your scores are 0, 0, 0. Your assessment scores are 2, 2, 2, sufficient for an
 A.
 - On the three in-quarter exams you score 1, 1, and 1. On the final you score 2,
 2, 2. Your assessment scores are 2, 2, 2, sufficient for an A.
+
+
+
 
 This grading policy also forms the missed exam policy – if you miss an
 in-quarter exam, you can make up that credit on the final. If you miss the
