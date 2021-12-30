@@ -36,12 +36,12 @@ There are a few components to your grade in the course:
 
 Your final letter grade will be calculated as follows:
 
-|               | Percentage of total grade | Earn an A | Earn a B	| Earn a C- |
-| :---          |    :----:                 |  :----:   |  :----:   |  :----:   |
-| Stepik        | 20%                       | 100%      | 90%       | 75%       |
-| PAs           | 20%                       | 90%       | 80%       | 65%       |
-| Exam          | 60%                       | 90%       | 80%       | 65%       |
-| Overall Grade | 100%                      | 93%       | 83%       | 70%       |
+|               | Percentage of Total Grade   | Earn an A   | Earn a B	  | Earn a C-   |
+| :---          |    :----:                   |  :----:     |  :----:     |  :----:     |
+| Stepik        | 20%                         | 100%        | 90%         | 75%         |
+| PAs           | 20%                         | 90%         | 80%         | 65%         |
+| Exam          | 60%                         | 90%         | 80%         | 65%         |
+| Overall Grade | 100%                        | 93%         | 83%         | 70%         |
 
 
 
