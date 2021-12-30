@@ -123,7 +123,7 @@ to complete each PA before it's posted deadline as the PAs are practice for the 
 You will also receive earlier feedback and an extra grading attempt if you submit
 before the original deadline.
 
-The **Hard deadline* for all resubmissions is Friday of Week 10 at 10pm. We will not accept
+The **Hard deadline** for all late/resubmissions is Friday of Week 10 at 10pm. We will not accept
 any submissions after that time, for any reason.
 
 
