@@ -18,14 +18,14 @@ Quick links:
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Combined remote/in-person**: Monday, Wednesday 10-11:00am
-    - Office: CSE 4204
-    - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+  - **In-person only office hours**: Monday 10:15am-11:15am, CSE 4204
+  - **Remote only office hours**: Thursday 9-10am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+Note: due to the current campus rules, in-person hours will be remote (at the same time) until Week 4.
 
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[piazza.com/ucsd/fall2021/cse11_fa21/home](piazza.com/ucsd/fall2021/cse11_fa21/home)
+[https://piazza.com/ucsd/winter2022/cse11_wi22/home](https://piazza.com/ucsd/winter2022/cse11_wi22/home)
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
