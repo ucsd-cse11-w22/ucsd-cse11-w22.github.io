@@ -117,17 +117,14 @@ and that part on the final.
 
 For example:
 
-- On the three in-quarter exams you score 1, 0, and 2 (you miss the second). On
-the final exam you score 2, 1, and 0 on the three parts. Your assessment scores
-are 2, 1, 2, sufficient for a B, but not an A.
-- On the three in-quarter exams you score 2, 2, and 2. You skip the final so
-your scores are 0, 0, 0. Your assessment scores are 2, 2, 2, sufficient for an
+- On the three in-quarter exams you score 75, 0, and 95 (you miss the second). On
+the final exam you score 80, 75, and 0 on the three parts. Your assessment scores
+are 95, 75, 80, sufficient for a B, but not an A.
+- On the three in-quarter exams you score 95, 93, and 90. You skip the final so
+your scores are 0, 0, 0. Your assessment scores are 95, 93, 90, sufficient for an
 A.
-- On the three in-quarter exams you score 1, 1, and 1. On the final you score 2,
-2, 2. Your assessment scores are 2, 2, 2, sufficient for an A.
-
-
-
+- On the three in-quarter exams you score 75, 55, and 60. On the final you score 95,
+90, 94. Your assessment scores are 95, 90, 94, sufficient for an A.
 
 This grading policy also forms the missed exam policy – if you miss an
 in-quarter exam, you can make up that credit on the final. If you miss the
