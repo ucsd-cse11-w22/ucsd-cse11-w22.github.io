@@ -2,7 +2,7 @@
 layout: with-sidebar
 title: "UCSD CSE11 – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 11 Fall 2021
+# UCSD CSE 11 Winter 2022
 
 ## Meeting with Staff
 
