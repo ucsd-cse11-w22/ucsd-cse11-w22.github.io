@@ -38,6 +38,10 @@ Your final letter grade will be calculated as follows:
 
 ![Grades](grades.png)
 
+Your overall score is the main factor in determing your grades using a standard
+grading scale. The cutoffs for each category must be met or your grade will be
+lowered appropriately regardless of your overall score.
+
 We may adjust the above scale to be more lenient (depending on a number of
 factors that we will not publicize), but we guarantee that we will not adjust
 the scale to make it harder to get a better grade. We will not adjust the scale

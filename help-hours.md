@@ -6,58 +6,34 @@ title: "UCSD CSE11 – Accelerated Introduction to Programming"
 
 ## Meeting with Staff
 
-There are two main reasons to come see the staff in CSE11.
+The main reasons to come see the staff in CSE11 is:
 
-1. You need help on an assignment, reviewing past work, or understanding
-something from the course material.
-2. An assignment requires or allows you to see a staff member to review your
-work after you make a submission (i.e: for early or late checkoffs).
+1. You need help on an assignment, 
+2. Reviewing past work
+3. Understanding something from the course material.
 
-There are two ways to get general help, remotely or in the labs. Checkoffs for
-assignments can be done through student help hours _either_ remotely over Zoom or in-person.
-Read more about the checkoff process near the bottom of this page.
+There are two ways to get general help, remotely or in the labs. Only remote help
+is available for the first two weeks due to current campus rules.
 
 ## Student Help Hours (with tutors)
 We should make a distinction that when we say "Student Help Hours", we are referring to times 
-that you may meet with tutors and TAs to receive help or assignment checkoffs. Office hours to 
-meet with your professor are a different option, and are explained later on this page. 
+that you may meet with tutors and TAs to receive help. Office hours to meet with the instructor
+are a different option, and are explained later on this page. 
 
 ### Remote Help
 
-The process for getting *remote* help consists of the following steps:
+The process for getting *remote* help consists of the following steps can be found
+in the [Tutoring Procedurs](https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing)
+document.
 
-1. If you are looking for a checkoff, please submit your assignment to gradescope *before* you
-complete the next steps. If you're not looking for a checkoff don't worry about this.
-
-2. Join this Zoom room:
-[https://ucsd.zoom.us/j/95758500952](https://ucsd.zoom.us/j/95758500952)
-
-2. Once in the waiting room, _also_ create a ticket here:
-[https://autograder.ucsd.edu](https://autograder.ucsd.edu) 
-Make sure that your ticket has "Hallway" as its location and is tagged with either the 
-“Remote Help” or “Remote Check-off” tag. (If you don't make the ticket, we'll still try to get 
-to you but it may take longer depending on how long the queue is. Your place in line is only 
-saved by your autograder ticket and isn't based on when you join the Zoom room.)
-
-Once you complete these steps, a staff member will admit you in the autograder queue order and join 
-you in a one-on-one breakout room. Please be patient for a staff member to accept your ticket!
-
-If you see “waiting for the host to start the meeting” it means that no one is
-on right now. Check the calendar below (also on the [calendar](/calendar.html)
-page) to make sure there are *remote* lab hours currently and message us on Piazza if
-someone is supposed to be there and no one is there.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_k16b90sssk3cshiprkhuki7tac%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_9ohtqv634gkd09qfuoba4hqnos%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
 The process for getting *in-person* help consists of the following steps:
 
-1. If you are looking for a checkoff, please submit your assignment to gradescope *before* you
-complete the next steps. If you're not looking for a checkoff don't worry about this.
-
-2. Come to our lab room B260, which is on the lowest level of the CSE building. If there are no seats
-in B260, feel free to use another lab on the bottom (basement) floor of the CSE building.
+Come to our lab room B250, which is on the lowest level of the CSE building. If there are no seats
+in B250, feel free to use another lab on the bottom (basement) floor of the CSE building.
 
 3. File a ticket on
 [https://autograder.ucsd.edu](https://autograder.ucsd.edu) from the labs in the CSE building. Make sure to 
@@ -70,7 +46,7 @@ updates in autograder about your ticket once you file it.
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_2477vkfs96nrh3u1ec4rttt34o%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_mltlcr7nb8mbdfdikm1ljakdhk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### More information on finding the in-person labs:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
