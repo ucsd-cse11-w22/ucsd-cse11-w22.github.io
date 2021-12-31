@@ -75,26 +75,20 @@ likely summarizes a lot of what they would tell you to get you started.
 
 **Will the course be in-person or remote? Is attendance required?**
 
-This policy is subject to change given the uncertainty of university, local,
-national, and global policy.
-
-There are several options for attending lectures and getting participation
-credit in this course. All of them require **synchronous** participation and
-discussion with your classmates. Both in-person and remote options are
-available. By **synchronous** we mean that you need to be available during the
-scheduled time.
-
 The content of the course is primarily delivered through an online textbook and
 through pre-recorded videos from the instructors. The synchronous sessions are
 for problem-solving with your classmates and Q&A with the instructional team.
 In each session, you will work in pairs or small groups on problems that we
 provide and we will go over them as a group.
 
-As an exception to the class being synchronous, the **final exam** will have an
-asynchronous format. Students will not be required to take the final exam
-during the scheduled block, and there will be some flexibility on when it is
-completed the day of the exam (but not necessarily flexibility to take it on
-other days).
+Atendance is not required, but is highly recommended. Studies (by UCSD faculty)
+have shown that attendance and participation in lecture leads to better
+student performance and higher grades.
+
+All of the exams, including the **final exam**, will have an asynchronous format. 
+Students will not be required to take the final exam during the scheduled block, 
+and there will be some flexibility on when it needs to be completed on the day of 
+the exam (but not necessarily flexibility to take it on other days). 
 
 **What's the course material like?**
 
@@ -131,5 +125,3 @@ No.
 **Where are the icons from?**
 
 Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
-
-
