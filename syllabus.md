@@ -73,7 +73,7 @@ an archive of any live demos that come up rather than a presentation of core con
 <h3>Discussion</h3>
 
 Teaching Assistants (TAs) will hold a weekly discussion section to
-cover the weekly programmoing assignment, review prior content, and answer
+cover the weekly programming assignment, review prior content, and answer
 student questions. Participation is not required at problem-solving
 sections, but it is highly encouraged.
 
