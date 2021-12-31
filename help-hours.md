@@ -20,28 +20,27 @@ We should make a distinction that when we say "Student Help Hours", we are refer
 that you may meet with tutors and TAs to receive help. Office hours to meet with the instructor
 are a different option, and are explained later on this page. 
 
+The process for getting help can be found in the
+[Tutoring Procedurs](https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing)
+document.
+
+Once you've submitted a ticket, a staff member will accept your ticket when available. You will get 
+updates in autograder about your ticket once you file it.
+
 ### Remote Help
 
-The process for getting *remote* help consists of the following steps can be found
-in the [Tutoring Procedurs](https://docs.google.com/document/d/10z82dU8NJHcArYMpM8HV6wYlDixHpUOS3p22LdAL0kw/edit?usp=sharing)
-document.
+You can get remote help from anywhere as long as you have a stable internet connection, including in the CSE building.
+
+Then follow the steps in the tutoring procedures document for submitting a ticket.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_9ohtqv634gkd09qfuoba4hqnos%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
-The process for getting *in-person* help consists of the following steps:
-
-Come to our lab room B250, which is on the lowest level of the CSE building. If there are no seats
+For in-person help, come to our lab room B250, which is on the lowest level of the CSE building. If there are no seats
 in B250, feel free to use another lab on the bottom (basement) floor of the CSE building.
 
-3. File a ticket on
-[https://autograder.ucsd.edu](https://autograder.ucsd.edu) from the labs in the CSE building. Make sure to 
-tag your ticket with the "In-person help" or "In-person check-off" tag depending on your needs. Also, put
-the location of your ticket as the lab room number and workstation that you're at. 
-
-Once you've completed these two steps, a staff member will accept your ticket when available. You will get 
-updates in autograder about your ticket once you file it.
+Then follow the steps in the tutoring procedures document for submitting a ticket.
 
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
@@ -67,49 +66,15 @@ come to instructor office hours with any kind of questions about the course, or
 even about the next course, or about catching up if you feel you've fallen
 behind, or something you wanted to know more about from lecture, and more. You
 can also ask us programming questions in office hours, just like you would in
-help hours with the tutors. In order to focus our time on student questions,
-instructors **won't** perform assignment checkoffs during instructor office 
-hours; you have to go to the tutor help hours described above for those.
+help hours with the tutors. 
 
 Instructors for this course:
-- Joe
-  - Email: `jpolitz@eng.ucsd.edu`
-  - **In-person only office hours**: Monday 11-12pm, CSE 3206
-  - **Remote only office hours**: Tuesday 2-3pm, [https://ucsd.zoom.us/j/3144231375](https://ucsd.zoom.us/j/3144231375)
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Combined remote/in-person office hours**: Monday, Wednesday 10-11:30am
-    - Office: CSE 4204
-    - Zoom: [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
-
-### What are checkoffs?
-For any assignment in this class, you have 3 opportunities to get full credit. A "checkoff"
-refers to when you get something graded by a tutor during Student Help Hours. You cannot
-get a checkoff from an instructor, only a tutor or TA.
-
-1. If you finish your assignment before the deadline to submit, you can get it graded early 
-at student help hours. Your tutor will walk through your submissions with you and assign you
-a grade. If you get full credit (a 2), you're done with the assignment and there is no need
-to submit again. But, if you get a 1, consider the next options below. This is your first
-chance to receive full credit.
-
-2. There is also the traditional option of simply submitting your code on Gradescope before 
-the deadline. *This is not a checkoff, so you do not come to help hours.* You just submit to 
-Gradescope and our graders will assign you a grade asynchronously. If you didn't get full credit
-at early checkoff or if you didn't go to any checkoff, you should submit like this. This is your 
-second chance to receive full credit.
-
-3. *After* the deadline has passed and all assignments have been asynchronously graded, you have 
-another chance to get full credit if you have not from the previous 2 chances. This is called a late 
-checkoff. There will be a Gradescope assignment for each PA labeled "Late/Resubmit". You should submit 
-your late assignment there and then come in to our tutor student help hours to be assigned a grade.
-
-So, you can only get a checkoff during steps 1 and 3 above. Step 2 is the typical way of submitting
-an assignment. If you get full credit during any of these 3 steps, you are done and should not resubmit
-for any following steps!
-
+  - **In-person only office hours**: Monday 10:15-11:15am, CSE 4204
+  - **Remote only office hours**: Thursday 9-10am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
 
 ### Our Staff
-The friendly faces of this course! We have 24 staff members(instructors, TAs, and tutors) here 
+The friendly faces of this course! We have 16 staff members(instructors, TAs, and tutors) here 
 to support you and help with your learning.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS87Z7F-snxZWbiMAaGuFpXGBXSDA4OaVWHeVuD7kCHaDa8WEVNYFtAAVkSqhdIr_h9fKcrCD4To_mj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="620px"></iframe>
