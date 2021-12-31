@@ -38,7 +38,7 @@ Your final letter grade will be calculated as follows:
 
 ![Grades](grades.png)
 
-Your overall score is the main factor in determing your grades using a standard
+Your overall score is the main factor in determing your final grade using a standard
 grading scale. The cutoffs for each category must be met or your grade will be
 lowered appropriately regardless of your overall score.
 
