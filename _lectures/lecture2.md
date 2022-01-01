@@ -2,24 +2,12 @@
 layout: with-sidebar
 index: 2
 name: Classes and Fields
-released-on: "2021-09-27"
+released-on: "2022-01-05"
 videos:
-  - title: Introduction to Running Programs
-    url: https://drive.google.com/file/d/1PK-B_xRonGca_x8fLDRl1OPZqSceHk5x
-  - title: Syntax Errors
-    url: https://drive.google.com/file/d/1DHJz-KEbARV4aUio7e2LDsDtjm7qB_YO
-  - title: Arithmetic
-    url: https://drive.google.com/file/d/1lB4Mf9FEtw49V8phNGN1OQJPafkTtkt0
-  - title: Field Access
-    url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
+
 
 worksheets:
-  - title: 10AM Lecture
-    url: https://drive.google.com/file/d/1TW2DnsVwkaa4lCi3ghl915BIYcVi-dxQ
-  - title: 2PM Lecture
-    url: https://drive.google.com/file/d/1l3yM4XuGR4L-WoKt1T5qKA_aI0ciwlBf
-  - title: 4PM Lecture
-    url: https://drive.google.com/file/d/1JfRxUVr2KdOeMrkt9iwZC0aNiY35nmBD
+
 ---
 ## Problem Session 2 – Classes and Fields
 
@@ -48,6 +36,7 @@ Handout (used during the session), [direct link](https://drive.google.com/file/d
 
 <iframe src="https://drive.google.com/file/d/1sPG_aHG1VfSXR8utVomzmptWbsn8c7gB/preview" width="640" height="800" allow="autoplay"></iframe>
 
+<iframe src="https://drive.google.com/file/d/1c24cFNcp6_uGf5bbRRSPkaY_DKmEs6zh/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
