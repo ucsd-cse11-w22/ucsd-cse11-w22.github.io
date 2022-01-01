@@ -118,7 +118,7 @@ Let's explore this program a little. We see that the code is encased inside `cla
 
 `Fields` are named variables that belong to a class and are written outside of `Methods`. The class `FirstExample` contains a single field of type `int` named `theNumberFive` with an assigned value of `5`. Notice the line `int theNumberFive = 5;` and how it takes the form of `[Type] [Variable Name] = [Assigned Value];`. Additionally notice that it belongs to the class `FirstExample` and not to any method.
 
-By using the `run` command, we are able to confirm several aspects of our program. We are able to identify our class via the line `new FirstExample:1( ... )`. The FirstExample class contains 1 field named `theNumberFive` and its value is `5`. We can use the `run` command to check that your program is working as you expect it to.
+By using the `run` command, we are able to confirm several aspects of our program. We are able to identify our class via the line `new FirstExample:1( ... )`. The FirstExample class contains 1 field named `theNumberFive` and its value is `5`. We can use the `run` command to check that our program is working as you expect it to.
 
 ## Part 2 - Writing Methods
 
