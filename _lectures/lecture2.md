@@ -23,8 +23,7 @@ _{{ page.released-on }}_
 Session plan:
 - 2-3 min: Welcome, logistics questions
 - 20 min: First page of handout + discussion + demo
-- 5 min: (hydration) break
-- 20 min: Second page of handout + discussion + demo
+- 25 min: Second page of handout + discussion + demo
 
 Readings (to be completed by 9am on January 5, **before** problem session). You will
 need to make an account on Stepik to have your work saved.
