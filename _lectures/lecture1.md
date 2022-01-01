@@ -43,13 +43,6 @@ on Google Drive to download it.
 
 <iframe src="https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## From Class
-
-{% for video in page.podcasts %}
-[{{ video.title }}]({{ video.direct_url }}){:target="_blank"}
-{% endfor %}
-
-
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}

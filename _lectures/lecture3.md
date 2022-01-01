@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 3
 name: Methods
-released-on: "2021-09-29"
+released-on: "2022-01-07"
 videos:
 
 
