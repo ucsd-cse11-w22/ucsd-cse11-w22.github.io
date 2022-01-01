@@ -205,15 +205,12 @@ Your submission will include the following:
 A more detailed list of requirements can be found [here](#submission-checklist)
 
 ## Grading
+There are multiple oppurtunities to get feedback for PA1. By submitting before the deadline, you will receive feedback after it is graded shortly after the dealine. You may also submit to the Late/Resubmit for PA1 up to 3 times after the deadline to earn additional feedback by going to [help hours](https://ucsd-cse11-w22.github.io/staff-and-help.html).
 
-To get your work graded, come to any [remote help hours
-session](https://ucsd-cse11-w22.github.io/staff-and-help.html) after submitting
-both Gradescope assignments. A tutor will grade and give you feedback on your
+A staff member will grade and give you feedback on your
 work during the session, and tell you anything you need to fix to get full
 credit. (If you just submit to Gradescope and don't come to a remote help
 session to get your work checked off, we will still grade your work, but you'll
 miss out on the opportunity for feedback).
 
-You can read about [the process we use for this
-grading](https://docs.google.com/document/d/1yNlYqsZsi5CMO9PDQfxUPHpIhBDLurxbD2qFLLpUZjU/edit?usp=sharing).
-
+For more information about the grading policy, visit the [course syllabus](https://ucsd-cse11-w22.github.io/syllabus.html).
