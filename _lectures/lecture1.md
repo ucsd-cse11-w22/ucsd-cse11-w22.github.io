@@ -3,12 +3,6 @@ layout: with-sidebar
 index: 1
 name: Introduction
 released-on: "2022-01-03"
-podcasts:
-  - title: Warren 2005 2pm
-    direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_a00/1/dual
-worksheets:
-  - title: 10AM Lecture
-    url: https://drive.google.com/file/d/1yzitel-Z6AZg_ZH6nUXQ178UiNDRTisB
 ---
 ## Problem Session 1 – Introduction
 
