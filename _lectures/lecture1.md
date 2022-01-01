@@ -38,7 +38,7 @@ yourself with the [syllabus](../syllabus.html).
 
 The handout for the first day has a few questions for us to use as icebreakers
 and to start talking about programming. You can access [the PDF
-directly](https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview)
+directly](https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview){:target="_blank"}
 on Google Drive to download it.
 
 <iframe src="https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview" width="640" height="480" allow="autoplay"></iframe>

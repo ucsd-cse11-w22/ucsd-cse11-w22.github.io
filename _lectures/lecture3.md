@@ -34,7 +34,7 @@ Videos (to watch **before** your problem session on January 7):
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
-Handout (used during the session), [direct link](https://drive.google.com/file/d/1c2Jf_Mtvo2onnhF3TEpLZeYyzeH1DxoP/preview)
+Handout (used during the session), [direct link](https://drive.google.com/file/d/1c2Jf_Mtvo2onnhF3TEpLZeYyzeH1DxoP/preview){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1c2Jf_Mtvo2onnhF3TEpLZeYyzeH1DxoP/preview" width="640" height="480" allow="autoplay"></iframe>
 
