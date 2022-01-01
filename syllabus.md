@@ -111,7 +111,7 @@ programming will make up the majority of your work in the course.
 
 There are numerous opportunities to get feedback on your work and improve:
 
-- **Shortly after the deadline** the deadline for each assignment, a staff member 
+- **Shortly after the deadline** for each assignment, a staff member 
 will grade your work and get feedback on what, if anything, you need to fix.
 
 - **After you receive your grade** you can continue to improve your assignment
