@@ -41,8 +41,6 @@ and to start talking about programming. You can access [the PDF
 directly](https://drive.google.com/file/d/19JrgyrjWEqPoFX7tgIdk02Y6kngAH6D7/preview)
 on Google Drive to download it.
 
-<iframe src="https://drive.google.com/file/d/19JrgyrjWEqPoFX7tgIdk02Y6kngAH6D7/preview" width="640" height="480" allow="autoplay"></iframe>
-
 <iframe src="https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## From Class
