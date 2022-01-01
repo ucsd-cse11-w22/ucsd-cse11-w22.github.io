@@ -65,7 +65,7 @@ Here is a list of items to check for before submitting PA1.
   - [ ] Combiner method output using the `run` command with at least 2 tests
 
 
-## Part 1- Setting Up
+## Part 1 - Setting Up
 
 - **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/ucsd-cse11-w22/cse11-pa1-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
 - **In the CSE Labs**: Watch and follow the instructions from this video: [this video](https://drive.google.com/file/d/1LGvWU4jaMXDam9sGPO6oHXDMpZumOOhC/view). In text form, the instructions are:
@@ -200,7 +200,7 @@ Call your method on at least 2 different examples. Can you call your method with
 
 Your submission will include the following:
 
-1. A code submission of your program with the methods you wrote for part two, at [PA1 code gradescope assignment](https://www.gradescope.com/courses/310514/assignments/1511659). You should select and upload the files `DesignRecipeExamples.java` and `transcript.txt`
+1. A code submission of your program with the methods you wrote for part two, at [PA1 gradescope assignment](https://www.gradescope.com/courses/344561/assignments/1738304). You should select and upload the files `DesignRecipeExamples.java` and `transcript.txt`
 
 A more detailed list of requirements can be found [here](#submission-checklist)
 
