@@ -2,17 +2,7 @@
 layout: with-sidebar
 index: 1
 name: Introduction
-released-on: "2021-09-24"
-podcasts:
-  - title: Warren 2005 2pm
-    direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_a00/1/dual
-  - title: Center 115 10am
-    direct_url: https://podcast.ucsd.edu/watch/fa21/cse11_b00/1
-worksheets:
-  - title: 10AM Lecture
-    url: https://drive.google.com/file/d/1yzitel-Z6AZg_ZH6nUXQ178UiNDRTisB
-  - title: 4PM Lecture
-    url: https://drive.google.com/file/d/1XKFIHD1zGartZNu1EOa4cSClr6Kfym0O
+released-on: "2022-01-03"
 ---
 ## Problem Session 1 – Introduction
 
@@ -28,7 +18,6 @@ Session plan:
 - 2-3 min: Introduce instructors/staff
 - 2-3 min: Say hi to the people around you
 - 15 min: Handout + discussion
-- 5 min: (hydration) break
 - 20 min: syllabus
     - Problem Solving Sessions, videos
     - Stepik
@@ -37,6 +26,7 @@ Session plan:
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
+- 5 min: q/a
 
 Before the first lecture, there are no videos to watch. You should familiarize
 yourself with the [syllabus](../syllabus.html).
