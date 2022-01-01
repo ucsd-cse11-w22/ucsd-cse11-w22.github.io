@@ -67,7 +67,7 @@ Here is a list of items to check for before submitting PA1.
 
 ## Part 1- Setting Up
 
-- **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/ucsd-cse11-f21/cse11-pa1-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
+- **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/ucsd-cse11-w22/cse11-pa1-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
 - **In the CSE Labs**: Watch and follow the instructions from this video: [this video](https://drive.google.com/file/d/1LGvWU4jaMXDam9sGPO6oHXDMpZumOOhC/view). In text form, the instructions are:
   - If the lab computer is showing a Windows deskto or login, restart it and
     choose CentOS (first option) on the screen you get when it starts up.
@@ -87,7 +87,7 @@ If you get stuck at any point, do any one of the following:
 
 Download the starter code for this assignment by downloading this repository
 using the “Download ZIP” button:
-[https://github.com/ucsd-cse11-f21/cse11-pa1-starter](https://github.com/ucsd-cse11-f21/cse11-pa1-starter)
+[https://github.com/ucsd-cse11-w22/cse11-pa1-starter](https://github.com/ucsd-cse11-w22/cse11-pa1-starter)
 
 ![PA1 download](./pa1-download.png){:width="100%"}
 
