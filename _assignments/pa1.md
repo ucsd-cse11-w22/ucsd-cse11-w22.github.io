@@ -2,12 +2,12 @@
 layout: with-sidebar
 index: 1
 name: PA1
-released-on: "2021-09-24"
+released-on: "2022-01-05"
 ---
 
 # CSE 11 Programming Assignment 1
 
-### Due Dates: Tuesday, October 5, 10:00PM Pacific Time
+### Due Dates: Tuesday, January 11, 10:00PM Pacific Time
 
 ## Learning Goals
 - Set up and test your Java development environment
@@ -45,6 +45,24 @@ with this assignment by noting their name and how you used their ideas or work.
 Note that using someone's work without giving credit to them is a violation of
 academic integrity.
 
+## Submission Checklist
+Here is a list of items to check for before submitting PA1.
+
+- [ ] FirstExample.java
+- [ ] DesignRecipleExamples.java
+  - [ ] Perimeter Method 
+    - [ ] 2 tests, each with different parameters and a comment (2 total) with the expected value of the test 
+  - [ ] BorderArea Method 
+    - [ ] 2 tests, each with different parameters and a comment (2 total) with the expected value of the test 
+  - [ ] Converter Method 
+    - [ ] 2 tests, each with different parameters and a comment (2 total) with the expected value of the test
+    - [ ] 1 comment describing what the converter does, what parameters it takes, and any relevant outside sources
+  - [ ] Combiner Method 
+    - [ ] 2 tests, each with different parameters and a comment (2 total) with the expected value of the test 
+    - [ ] At least 1 test with parameters that produce an incorrect output and a comment explaining why the output is incorrect **OR** 1 comment describing why all parameters will produce the correct output
+    - [ ] 1 comment describing what the combiner does, what parameters it takes, and any relevant sources.
+
+
 ## Part 1- Setting Up
 
 - **On your own computer**: General instructions for setting up your environment can be found in [this document](https://github.com/ucsd-cse11-f21/cse11-pa1-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf). There are specific video tutorials for [Windows](https://drive.google.com/file/d/1FxIAaGj7JAAN5QNpqcx1JBdv36yzX6TX/view?usp=sharing)  and [Mac](https://drive.google.com/file/d/1EsF6t_ZA7TIdQ0iIu9X_dh1T5YGmzxNG/view?usp=sharing).
@@ -53,7 +71,7 @@ academic integrity.
     choose CentOS (first option) on the screen you get when it starts up.
   - Locate your CSE11 account, which you can find using the ACMS account lookup tool:
     [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
-    The username starts with "cs11fa21”. You will need to do an initial password
+    The username starts with "cs11wi22”. You will need to do an initial password
     reset, which you only need to do once. It may take up to 20 minutes for the new
     password to be effective.
   - Once you are logged in, you can follow the instructions for using Visual
@@ -61,7 +79,7 @@ academic integrity.
 
 If you get stuck at any point, do any one of the following:
   - Take a screenshot and ask on Piazza! (Not sure how to take a screenshot? Try Googling it for your particular platform, like “screenshot microsoft windows” or “screenshot chromebook” or “screenshot os x”, or ask how on Piazza and we can help.)
-  - [Ask for help!](https://ucsd-cse11-f21.github.io/staff-and-help.html)
+  - [Ask for help!](https://ucsd-cse11-w22.github.io/staff-and-help.html)
 
 ## Running Code
 
@@ -73,8 +91,15 @@ using the “Download ZIP” button:
 
 Unzip the directory you downloaded, and open it in Visual Studio Code.
 
-Create a new file named `FirstExample.java`, and put the following code into
-that file (you can copy-paste):
+You will be creating a simple program from scratch by following the following steps.
+
+1. Create a new file named `FirstExample.java`.
+
+2. Create a new class named `FirstExample`
+
+3. Create a new field of type `int` named `theNumberFive` and assign it the value of `5`
+
+After completing these steps, you should have something similar to the following piece of code.
 
 ```
 class FirstExample {
@@ -90,6 +115,9 @@ Then, make a copy of the [writeup
 template](https://docs.google.com/document/d/1wGIw0DH433jikfImoTUZZGMU9kTOzIf3/edit?usp=sharing&ouid=101937787285726759641&rtpof=true&sd=true),
 answer the questions (including your screenshot).
 
+Let's explore this program a little. We see that the code is encased inside `class FirstExample { ... }`. This means that we have created a new class using the `class` keyword and named it `FirstExample`. The `{` and `}` denote the beginning and end of the FirstExample class. Code we write will be contined inside classes. Classes in Java can contain many different types of information, two of which we will be focusing on in Part 2. They are `Fields` and `Methods`. The program we just wrote contains just one field.
+
+`Fields` are named variables that belong to a class and are written outside of `Methods`. The class `FirstExample` contains a single field of type `int` named `theNumberFive` with an assigned value of `5`. Notice the line `int theNumberFive = 5;` and how it takes the form of `[Type] [Variable Name] = [Assigned Value];`. Additionally notice that it belongs to the class `FirstExample` and not to any method.
 
 ## Part 2 - Writing Methods
 
@@ -104,6 +132,10 @@ answer the questions (including your screenshot).
     4. Write the method body
     
     Using this recipe for problems 1 and 2 is optional, but highly encouraged.
+
+- For problems 1 - 4, you will also write tests to ensure the correctness of your code.** 
+
+  To write a test, you will call the written method and assign it to a field that you create. When running your program using the ```run``` command, check to see if the actual output matches what you expect from the console.
 
 *(Several of these examples are borrowed from [How to Design Programs](http://www.htdp.org/2003-09-26/Book/curriculum-Z-H-6.html#node_sec_3.3), and its [Supplemental Material](http://www.htdp.org/2003-09-26/Problems/2.html))*
 
@@ -182,9 +214,3 @@ miss out on the opportunity for feedback).
 You can read about [the process we use for this
 grading](https://docs.google.com/document/d/1yNlYqsZsi5CMO9PDQfxUPHpIhBDLurxbD2qFLLpUZjU/edit?usp=sharing).
 
-To earn a **2**:
-- Demonstrate via screenshots in your PDF a working setup of Java either in labs or on your own computer
-- Answer all questions in the PDF submission
-- Complete all checklist items for all methods
-
-To earn a **1**, submit something but miss any of the requirements listed above for earning a **2**.
