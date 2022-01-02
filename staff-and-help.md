@@ -102,7 +102,7 @@ There is no required textbook for you to purchase for the course. The course use
 
 We endorse the [CSE course placement
 advice](https://cse.ucsd.edu/index.php/undergraduate/courses/cse-course-placement-advice).
-Also feel free to message jpolitz@eng.ucsd.edu if you're not sure.
+Also feel free to message g2miranda@eng.ucsd.edu if you're not sure.
 
 **Can I audit the course?**
 
