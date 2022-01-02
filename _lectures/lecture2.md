@@ -30,6 +30,9 @@ need to make an account on Stepik to have your work saved.
 - [Stepik 1.1-1.3](https://stepik.org/lesson/559661/step/1?unit=553721){:target="_blank"}
 - [Stepik 2.1-2.3](https://stepik.org/lesson/571216/step/1?unit=565754){:target="_blank"}
 
+To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/4MqJwT7R2YiM2nLE9)
+by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
+
 Videos (to watch **before** your problem session on January 5):
 
 {% for video in page.videos %}
