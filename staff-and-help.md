@@ -81,7 +81,7 @@ for problem-solving with your classmates and Q&A with the instructional team.
 In each session, you will work in pairs or small groups on problems that we
 provide and we will go over them as a group.
 
-Atendance is not required, but is highly recommended. Studies (by UCSD faculty)
+Attendance is not required, but is highly recommended. Studies (by UCSD faculty)
 have shown that attendance and participation in lecture leads to better
 student performance and higher grades.
 
