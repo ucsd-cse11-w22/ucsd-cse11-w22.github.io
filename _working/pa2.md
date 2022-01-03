@@ -7,7 +7,7 @@ released-on: "2021-01-12"
 
 # CSE 11 Programming Assignment 2
 
-**Due Date: Tuesday, January 18, 10:00PM Pacific Time**
+### Due Date: Tuesday, January 18, 10:00PM Pacific Time
 
 ## Learning Goals
 

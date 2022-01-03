@@ -7,7 +7,7 @@ released-on: "2022-01-05"
 
 # CSE 11 Programming Assignment 1
 
-### Due Dates: Tuesday, January 11, 10:00PM Pacific Time
+### Due Date: Tuesday, January 11, 10:00PM Pacific Time
 
 ## Learning Goals
 - Set up and test your Java development environment
