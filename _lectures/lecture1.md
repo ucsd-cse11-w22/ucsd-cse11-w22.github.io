@@ -55,8 +55,7 @@ on Google Drive to download it.
 {% endfor %}
 
 ## Zoom Recording
-https://ucsd.zoom.us/rec/share/y3qwYRWS7LrCZ9jLBElsixbUdNkFX0O81z1FLX8TVe50i0OHhD5HzvibBS3yO0O8.CULYzfY90RHXHjbY 
-Passcode: TkD&4mmx
+
 [Lecture 1 - Recording](https://drive.google.com/file/d/1c-HRMcQDD1DWpsN4gIxLWZTMWUm1s6i2){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1c-HRMcQDD1DWpsN4gIxLWZTMWUm1s6i2/preview" width="640" height="480" allow="autoplay"></iframe>
