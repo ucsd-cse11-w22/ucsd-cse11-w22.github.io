@@ -26,7 +26,7 @@ violation of academic integrity.
 
 You can download the starter code for this assignment here:
 
-[https://github.com/ucsd-cse11-f21/cse11-pa2-starter](https://github.com/ucsd-cse11-f21/cse11-pa2-starter)
+[https://github.com/ucsd-cse11-w22/cse11-pa2-starter](https://github.com/ucsd-cse11-w22/cse11-pa2-starter)
 
 You will write all your code and comments in `ExampleTweets.java`.
 
