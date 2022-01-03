@@ -7,7 +7,8 @@ videos:
 
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1byjV8zJnO4xoPEaMsFb8DIalQaItREit
 ---
 ## Problem Session 1 – Introduction
 
