@@ -23,8 +23,7 @@ worksheets:
 
 _{{ page.released-on }}_
 
-Readings (to be completed by 9am on January 10, **before** problem session). You will
-need to make an account on Stepik to have your work saved.
+Readings (to be completed by 9am on January 10, **before** problem session). 
 - No Stepik readings for this lecture
 
 Videos (to watch **before** your problem session on January 10):

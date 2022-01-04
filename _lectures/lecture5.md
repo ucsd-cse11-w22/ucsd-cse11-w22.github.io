@@ -26,7 +26,8 @@ Readings to be completed **before** problem session.
 
 - Stepik Chapter 4 [https://stepik.org/lesson/568133/step/1?unit=562510](https://stepik.org/lesson/568133/step/1?unit=562510)
 
-Videos (to watch **before** your problem session on January 12):
+Videos (to watch **before** your problem session on January 12) You will
+need to make an account on Stepik to have your work saved.:
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
