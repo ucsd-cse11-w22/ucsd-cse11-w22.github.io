@@ -27,6 +27,8 @@ Readings (to be completed by 9am on January 10, **before** problem session).
 - Complete this [survey on Impact of Diverse TAs in Computing](https://docs.google.com/forms/d/e/1FAIpQLSfg0AkTJ8kluewWZiRso1ClhJpfxTOu9J3TwiRBltEgLJ8ndQ/viewform)
 - No Stepik readings for this lecture
 
+Note: surveys are graded in the same cateogry as Stepik exercises
+
 Videos (to watch **before** your problem session on January 10):
 
 {% for video in page.videos %}
