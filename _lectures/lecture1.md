@@ -7,7 +7,8 @@ videos:
 
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1byjV8zJnO4xoPEaMsFb8DIalQaItREit
 ---
 ## Problem Session 1 – Introduction
 
@@ -43,6 +44,12 @@ on Google Drive to download it.
 
 <iframe src="https://drive.google.com/file/d/1bysF6y1E9cZ4Q8xlUpTl3j50TvJ3Xajy/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Zoom Recording
+
+[Lecture 1 - Recording](https://drive.google.com/file/d/1c-HRMcQDD1DWpsN4gIxLWZTMWUm1s6i2){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1c-HRMcQDD1DWpsN4gIxLWZTMWUm1s6i2/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
@@ -52,3 +59,4 @@ on Google Drive to download it.
 <iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
 </div>
 {% endfor %}
+

@@ -17,4 +17,4 @@ doodle: "/doodle.png"
 
 ### In-Person Help
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_mltlcr7nb8mbdfdikm1ljakdhk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_foaeia2ssgan402fr75ji56p4s%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

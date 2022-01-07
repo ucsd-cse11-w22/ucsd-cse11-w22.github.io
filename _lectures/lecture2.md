@@ -14,7 +14,8 @@ videos:
     url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1cffnRZ9IUbrMt7mh_Peq7QYrKsarby_H
 ---
 ## Problem Session 2 – Classes and Fields
 
@@ -44,6 +45,12 @@ Videos (to watch **before** your problem session on January 5):
 Handout (used during the session), [direct link](https://drive.google.com/file/d/1c24cFNcp6_uGf5bbRRSPkaY_DKmEs6zh/preview){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1c24cFNcp6_uGf5bbRRSPkaY_DKmEs6zh/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Zoom Recording
+
+[Lecture 2 - Recording](https://drive.google.com/file/d/1dFl6Kx7E9ZKaCOCdCPiF30DhwTreUw3l){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1dFl6Kx7E9ZKaCOCdCPiF30DhwTreUw3l/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
