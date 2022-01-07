@@ -106,7 +106,7 @@ The class `Tweet` represents a single tweet.
 
 - **Data**: A `Tweet` should contain the text content of the Tweet, a reference
 to the `User` who authored the tweet, the count of likes the tweet has, and a
-unique id for the Tweet.
+unique id for the Tweet represented as a String.
 - **Constructor**: A standard constructor that takes a value for each field and
 initializes it
 - **Methods**:
