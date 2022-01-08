@@ -56,7 +56,7 @@ on Google Drive to download it.
 <div class="worksheetBox">
 {{ worksheet.title }}
 <br>
-<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 {% endfor %}
 
