@@ -16,7 +16,8 @@ videos:
     url: https://drive.google.com/file/d/1m_72isftSttgHZ9Rj9PR1I4hPbzzAFyH
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1daqKzkG2ecgKkJJbhuX9S6nG2rU1x1aS   
 ---
 
 ## Problem Session 3 – Vocabulary and Methods
@@ -37,6 +38,12 @@ Videos (to watch **before** your problem session on January 7):
 Handout (used during the session), [direct link](https://drive.google.com/file/d/1c2Jf_Mtvo2onnhF3TEpLZeYyzeH1DxoP/preview){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1c2Jf_Mtvo2onnhF3TEpLZeYyzeH1DxoP/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Zoom Recording
+
+[Lecture 3 - Recording](https://drive.google.com/file/d/1iU1LT78nGacwrUJ2sl6g0qxUCKX8V66t){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1iU1LT78nGacwrUJ2sl6g0qxUCKX8V66t/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
