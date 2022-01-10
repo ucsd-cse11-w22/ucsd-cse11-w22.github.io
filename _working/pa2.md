@@ -60,7 +60,7 @@ You will write all your code and comments in `ExampleTweets.java`.
 - [ ] Video
     - [ ] Face + ID (part of the video, not just a photo)
     - [ ] Your voice
-    - [ ] Console output of `run` command
+    - [ ] Runs code in terminal using the `run` command
 
 You will submit two files to the PA2 assignment:
 
