@@ -9,7 +9,7 @@ released-on: "2021-01-21"
 ### Release: 10am Friday January 21, 2021
 ### Due: 11:59pm Saturday January 22, 2021
 
-**Note that this is released after class Friday, and is due the next day in the evening. We will not accept late submissions**
+**Note that this is released after class Friday, and is due the next day in the evening. We will not accept late submissions.**
 
 This page details a take-home exam that you will complete over the next 
 day. You can’t communicate with anyone about the content of the assignment
@@ -95,6 +95,8 @@ Additionally, you will add 2 methods to `Course`.
     You may assume both courses occur on the same day.
 
 - A new method called `timeBetween` take takes 1 `Course` parameter and returns an `int` representing the amount of time, in minutes, between `this` course and the course given as an argument. If the courses overlap, return `0`, else return the time between the earlier course and the later course.
+
+    You may assume both courses occur on the same day.
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
 
