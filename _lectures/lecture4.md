@@ -41,6 +41,12 @@ Handout
 
 <iframe src="https://drive.google.com/file/d/1hRvp-vspBMLX9GFSKYZkF0iSvvdsMLjZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Zoom Recording
+
+[Lecture 4 - Recording](https://drive.google.com/file/d/1jV0WJGSSuNh973VT14WJQMTJLFrEiKdr){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1jV0WJGSSuNh973VT14WJQMTJLFrEiKdr/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
