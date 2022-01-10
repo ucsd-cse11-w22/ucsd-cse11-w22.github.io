@@ -61,7 +61,7 @@ Yes, we will grade the last submission you make before the deadline.
 
 ## Tasks
 
-You can find the starter code in this repository [https://github.com/ucsd-cse11-f21/cse11-exam1-starter](https://github.com/ucsd-cse11-f21/cse11-exam1-starter).
+You can find the starter code in this repository [https://github.com/ucsd-cse11-w22/cse11-exam1-starter](https://github.com/ucsd-cse11-w22/cse11-exam1-starter).
 
 For all tasks, do not make any assumptions besides the ones explicitly mentioned.
 
@@ -78,6 +78,8 @@ In the `ExampleMethods` class, you will use the design recipe to write two metho
 - `flipString`, which takes two `String` parameters and returns a `String`. The first is the actual string, `str`, that will be flipped and the second is string containing a delimeter, `delim`. If `str` contains `delim`, then you will flip the string around the first occurrence of `delim`. If `str` does not contain `delim`, then you will return `str`.
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
+
+You can add tests in the provided `ExampleMethods` class.
 
 ### Task 2
 
@@ -100,6 +102,7 @@ Additionally, you will add 2 methods to `Course`.
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
 
+You may add tests in the provide `ExampleCourses` class.
 
 ### Task 3 – Video
 You will record a short video of no more than 5 minutes. Include:
