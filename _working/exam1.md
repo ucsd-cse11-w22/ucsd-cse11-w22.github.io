@@ -123,7 +123,7 @@ Additionally, you will add 2 methods to `Course`.
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
 
-You may add tests in the provide `ExampleCourses` class.
+You may add tests in the provided `ExampleCourses` class.
 
 ### Task 3 – Video
 You will record a short video of no more than 5 minutes. Include:
