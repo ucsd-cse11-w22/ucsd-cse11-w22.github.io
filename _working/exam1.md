@@ -94,11 +94,11 @@ Additionally, you will add 2 methods to `Course`.
 
 - A new method called `overlap` that takes 1 `Course` parameter and returns a boolean. You will return `true` if there is any overlap between `this` course and course given as an argument, otherwise `false`.
 
-    You may assume both courses occur on the same day.
+    You may assume both courses occur on the same day and a course starts and ends on the same day.
 
 - A new method called `timeBetween` take takes 1 `Course` parameter and returns an `int` representing the amount of time, in minutes, between `this` course and the course given as an argument. If the courses overlap, return `0`, else return the time between the earlier course and the later course.
 
-    You may assume both courses occur on the same day.
+    You may assume both courses occur on the same day and a course starts and ends on the same day.
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
 
