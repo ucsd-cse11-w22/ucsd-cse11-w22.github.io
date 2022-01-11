@@ -73,9 +73,19 @@ In the `ExampleMethods` class, you will use the design recipe to write two metho
 
     You will use 24-hour time (Military time) to denote times. Refer to this for more information: https://en.wikipedia.org/wiki/24-hour_clock
 
-    You may assume only valid start times.
+    You may assume only valid start times. Be aware of the types of time rollover.
+
+    ```
+    Example:
+    Start: 9:15 | Wait: 15 | Result: "09:30"
+    ```
 
 - `flipString`, which takes two `String` parameters and returns a `String`. The first is the actual string, `str`, that will be flipped and the second is string containing a delimeter, `delim`. If `str` contains `delim`, then you will flip the string around the first occurrence of `delim`. If `str` does not contain `delim`, then you will return `str`.
+
+    ```
+    Example:
+    Str: "cse 11" | Delim: " " | Result: "11 cse"
+    ```
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
 
@@ -96,9 +106,20 @@ Additionally, you will add 2 methods to `Course`.
 
     You may assume both courses occur on the same day and a course starts and ends on the same day.
 
+   
+
 - A new method called `timeBetween` take takes 1 `Course` parameter and returns an `int` representing the amount of time, in minutes, between `this` course and the course given as an argument. If the courses overlap, return `0`, else return the time between the earlier course and the later course.
 
     You may assume both courses occur on the same day and a course starts and ends on the same day.
+
+ ```
+    Example:
+    Course 1: 9:00 - 9:50
+    Course 2: 10:00 - 11:20
+
+    Overlap: False
+    TimeBetween: 10
+```
 
 You are welcome to add _any number_ of additional methods to help with your implementation.
 
@@ -127,4 +148,4 @@ Here are some notes on how to improve your videos:
 - Video must have sound! While highlighting your code, also make sure to explain the code. We must hear you explain it!
 - Once you enable screen share, make sure to leave it on the entire time while explaining your code.
 - Do not explain every test case! Only explain what you are explicitly told in the tasks above.
-- Keep your videos under 5 minutes; videos even a second over 5 minutes will get a `0`, this is to ensure we can grade them promptly. To ensure you stay under 5 minutes, make sure to only explain what is described above, and do a few practices or make a script before you start recording.
+- Keep your videos under 5 minutes; videos even a second over 5 minutes will get a `0` for the video portion of `Exam 1`, this is to ensure we can grade them promptly. To ensure you stay under 5 minutes, make sure to only explain what is described above, and do a few practices or make a script before you start recording.
