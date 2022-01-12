@@ -14,8 +14,8 @@ videos:
     url: https://drive.google.com/file/d/1Akg2I_XKXuyOImRrVD6phPk-x-YBfcL8
 
 worksheets:
-
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1kX90h51o9rfxSFMe-3_5nF_T2Y9Dzdwh
 ---
 
 ## Problem Session 5 – Booleans and If
@@ -38,6 +38,12 @@ need to make an account on Stepik to have your work saved.:
 Handout
 
 <iframe src="https://drive.google.com/file/d/1hV3M2zQloU020laQb6xJY23SQR6URNlJ/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Zoom Recording
+
+[Lecture 5 - Recording](https://drive.google.com/file/d/1ljNI6BBASADG-x2jxpisr2W3-w7Dq138){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1ljNI6BBASADG-x2jxpisr2W3-w7Dq138/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
