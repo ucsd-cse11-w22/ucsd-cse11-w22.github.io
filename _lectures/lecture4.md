@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 4
 name: String Methods
-released-on: "2021-1-10"
+released-on: "2022-1-10"
 videos:
   - title: Strings
     url: https://drive.google.com/file/d/1VFHfgw_tP8snhfDoEhns5ORbJz6UFeDw

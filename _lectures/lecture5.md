@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 5
 name: Booleans and If
-released-on: "2021-1-12"
+released-on: "2022-1-12"
 videos:
   - title: More on String Methods
     url: https://drive.google.com/file/d/1rYWNaFbrW5W-ITueTlzaPzW8k-CkTuWX

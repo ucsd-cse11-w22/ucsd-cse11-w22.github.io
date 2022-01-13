@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 6
 name: Classes and Objects
-released-on: "2021-1-14"
+released-on: "2022-1-14"
 videos:
   - title: Creating Objects and Classes (through 22:00)
     url: https://drive.google.com/file/d/1Kn6rVGCTQf2OkZ5-maVpA-MXFd0LHxZ2
