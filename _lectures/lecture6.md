@@ -14,8 +14,8 @@ videos:
     url: https://drive.google.com/file/d/1-5P1JWdzCCfGpwh1aW7jLYApipzJgmKc
 
 worksheets:
-
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1ljq1omn0KIosayvY3iERCYo04W37_3FE
 ---
 
 ## Problem Session 6 – Classes and Constructors
