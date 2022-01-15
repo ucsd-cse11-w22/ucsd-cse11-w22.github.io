@@ -38,6 +38,12 @@ Handout:
 
 <iframe src="https://drive.google.com/file/d/1hY2zSmahlGeYhdXlmlN2nhDez5rwYsYx/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Zoom Recording
+
+[Lecture 6 - Recording](https://drive.google.com/file/d/1mOJW_yUXp2EX-3sLZZAt-CTCMvyFWCbN){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1mOJW_yUXp2EX-3sLZZAt-CTCMvyFWCbN/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
