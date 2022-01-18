@@ -102,7 +102,7 @@ Submit the `ExamplesR.java` file for this task.
 
 ## Task 3
 
-In [Lecture 9](https://ucsd-cse11-f21.github.io/lectures/lecture9.html) we
+In [Lecture 9](https://ucsd-cse11-w22.github.io/lectures/lecture9.html) we
 discussed drawing traces and memory diagrams for the `RectRegion` class. Draw a
 trace of the method call to `contains` in the following example:
 
