@@ -76,7 +76,7 @@ Then, create a _memory diagram_ of the objects you created. Focus on the objects
 as they appear in the output and as created at the end of the program (there are
 no meaningful stack frames to draw). Submit the memory diagram in
 `task1-diagram.png` (or another similar image file type). Submit the code in
-`Task1.java1`.
+`Task1.java`.
 
 Your memory diagram should include:
 
