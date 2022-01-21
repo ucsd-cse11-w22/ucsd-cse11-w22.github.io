@@ -161,8 +161,8 @@ You may add tests in the provided `ExampleCourses` class.
 
     1. Course 1 ends after Course 2 starts. 
         
-        Ex: 9am - 10am and 9:30am - 10am
-    2. Course 1 starts and ends after Course 2 starts and ends
+        Ex: 9am - 10am and 9:30am - 10:30am
+    2. Course 1 starts before Course 2 starts and ends after Course 2 ends
 
         Ex: 9am - 10am and 9:15am - 9:45am
     3. Course 1 starts after Course 2 starts and ends before Course 2 ends
