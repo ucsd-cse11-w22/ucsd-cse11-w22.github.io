@@ -73,7 +73,7 @@ For all tasks, do not make any assumptions besides the ones explicitly mentioned
 
 In the `ExampleMethods` class, you will use the design recipe to write two methods:
 
-- `timeAfterWait`, which takes two non-negative `int` parameters, one `int` parameter and returns a `String`. The first two parameters will represent the hour and minutes, respectively, of the start time. The third parameter will represent the amount of time, in minutes, that have passed. The result may be before, the same, or after the start time. You will return the time after waiting the specified amount of time as a string in the form of `hh:mm`. Be aware of the different times of time rollover. 
+- `timeAfterWait`, which takes two non-negative `int` parameters, one `int` parameter and returns a `String`. The first two parameters will represent the hour and minutes, respectively, of the start time. The third parameter will represent the amount of time, in minutes, that have passed. The result may be before, the same, or after the start time. You will return the time after waiting the specified amount of time as a string in the form of `hh:mm`. Be aware of the different types of time rollover. 
 
     You will use 24-hour time (Military time) to denote times. Refer to this for more information: https://en.wikipedia.org/wiki/24-hour_clock
 
