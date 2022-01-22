@@ -181,7 +181,7 @@ You may add tests in the provided `ExampleCourses` class.
 
     Be aware that a course may start and end on different days. This may apply to 0, 1, or 2 courses when calling both `shiftToRemoveOverlap` and `timeBetween`.
 
-    Ex: 11pm - 2am is a valid course time.
+    Ex: 23:00 - 2:00 is a valid course time.
 
 
 ### Task 3 – Video
