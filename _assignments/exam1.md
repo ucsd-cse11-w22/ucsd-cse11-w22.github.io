@@ -108,7 +108,7 @@ You will add 2 classes:
 
 Additionally, you will add 2 methods to `Course`.
 
-- A new method called `shiftToRemoveOverlap` that takes 1 `Course` parameter and returns a `int` representing the least amount of time needed to shift a single course forward in time such that there is no overlap between the two. You will return `0` if there is not any overlap between `this` course and course given as an argument, otherwise return the amount of time, in minutes, needed to shift.
+- A new method called `shiftToRemoveOverlap` that takes 1 `Course` parameter and returns a `int` representing the least amount of time needed to shift a single course such that there is no overlap between the two. You will return `0` if there is not any overlap between `this` course and course given as an argument, otherwise return the amount of time, in minutes, needed to shift.
 
     ```
     Example:
