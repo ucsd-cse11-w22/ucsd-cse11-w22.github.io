@@ -4,6 +4,8 @@ index: 9
 name: Nested Data
 released-on: "2022-1-24"
 worksheets:
+  - title: Lecture
+    url: https://drive.google.com/file/d/1oyCqo-zFgz6VqUOuoneyqcsvb5SYdtMy
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -23,6 +25,12 @@ discuss interfaces until the next class:
 Handout:
 
 <iframe src="https://drive.google.com/file/d/1n7L9htMXqHneP0HFahuxucobzNIgR-kd/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Zoom Recording
+
+[Lecture 9 - Recording](https://drive.google.com/file/d/1oXd7SkEuVPBdWZR7tg9hoCu3TmJoYPhJ){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1oXd7SkEuVPBdWZR7tg9hoCu3TmJoYPhJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
