@@ -16,7 +16,8 @@ videos:
     url: https://drive.google.com/file/d/1REq_xRZs37g6-MhL8x1Di4G0VvXnBa8y
   
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1o9omUgYH97dw18KL7KThmiary7XHb3b9
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -35,6 +36,12 @@ Stepik reading (to complete before class):
 Handout:
 
 <iframe src="https://drive.google.com/file/d/1lrRVn_B-A8tZmveqmcqBGn6YMfQcl3qQ/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Zoom Recording
+
+[Lecture 8 - Recording](https://drive.google.com/file/d/1r1TORE_EWIJEjblTUQ-_Dx972cwBCb8L){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1r1TORE_EWIJEjblTUQ-_Dx972cwBCb8L/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
