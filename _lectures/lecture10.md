@@ -7,6 +7,8 @@ videos:
   - title: Interfaces (watch through 30:00)
     url: https://drive.google.com/file/d/1FsiNPr6N5yiFymHtwCdDHYHt03mWNw_Q
 worksheets:
+  - title: Lecture
+    url: https://drive.google.com/file/d/1tPAc-BYiN94S-ma_6O3Mfrlyo4q5GV5-
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
