@@ -72,8 +72,8 @@ Then, write three classes:
 
 - `TextTweet`, implements `Tweet` and has three fields:
   - `contents`, a `String`
-  - `likes`, an int
   - `author`, a `User`
+  - `likes`, an int
 
   This class should implement the methods as follows:
   - `isReplyTo` should return `false` no matter what Tweet it receives
@@ -85,8 +85,8 @@ Then, write three classes:
 
 - `ReplyTweet`, which should implement `Tweet` and has four fields:
   - `contents`, a `String`
-  - `likes`, an int
   - `author`, a `User`
+  - `likes`, an int
   - `replyTo`, a `Tweet`
 
   This class should implement the methods as follows:
