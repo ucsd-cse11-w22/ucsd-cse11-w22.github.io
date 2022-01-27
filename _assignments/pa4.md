@@ -57,7 +57,7 @@ with replies from other accounts, as well. This is a common pattern on many
 social-media sites, where some mechanism for replies and follow-up posts are
 allowed.</div>
 
-In a file `Tweets.java`, write an `interface` called `Tweet` with four
+In a file `Tweets.java`, write an `interface` called `Tweet` with five
 methods:
 
 - `public boolean isReplyTo(Tweet other);`
