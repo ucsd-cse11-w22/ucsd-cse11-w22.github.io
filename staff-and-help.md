@@ -20,7 +20,6 @@ Quick links:
   - Email: `g2miranda@eng.ucsd.edu`
   - **In-person only office hours**: Monday 10:15am-11:15am, CSE 4204
   - **Remote only office hours**: Thursday 9-10am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
-Note: due to the current campus rules, in-person hours will be remote (at the same time) until Week 4.
 
 ## Message Board Questions
 
