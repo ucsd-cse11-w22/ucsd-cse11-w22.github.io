@@ -39,7 +39,7 @@ Stepik reading:
 
 ## Recording
 
-[Podcast Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00){:target="_blank"}
+[Lecture 12 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/12){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
