@@ -13,6 +13,8 @@ videos:
   - title: Arrays, Memory
     url: https://drive.google.com/file/d/14QiAfHlccvCZTVsU3MuBvLoFkSU-_UAo
 worksheets:
+  - title: Lecture
+    url: https://drive.google.com/file/d/1uUg5sfoZ8ziSjth0lUtkT9MMcuacRcxX
 ---
 
 
@@ -34,6 +36,10 @@ Stepik reading:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1tZWPqxH7Ct7Nb9jyL-sV2ID5JzP30K9L/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Podcast Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
