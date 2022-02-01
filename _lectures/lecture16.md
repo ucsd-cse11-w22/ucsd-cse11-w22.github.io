@@ -31,8 +31,9 @@ No new Stepik reading.
 <iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
+## Handout
 
-<iframe src="https://drive.google.com/file/d/13c0nuXCaJgXYGfhdiPNqbf2Iq1vkRR8q/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1vpoDLspl4rsQGHkEinrRD1NJQ8K1np_j/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 

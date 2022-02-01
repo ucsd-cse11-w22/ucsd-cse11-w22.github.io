@@ -29,7 +29,7 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 
 Same as Friday (the `main` part)
 
-<iframe src="https://drive.google.com/file/d/13c0nuXCaJgXYGfhdiPNqbf2Iq1vkRR8q/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1vpoDLspl4rsQGHkEinrRD1NJQ8K1np_j/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
