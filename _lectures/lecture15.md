@@ -34,7 +34,7 @@ Stepik reading (same as last lecture):
 
 ## Handout
 
-<iframe src="https://drive.google.com/file/d/1zG19vwtCVmdTLJNzRc3YzwFh6-LPfPgg/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1uMjr6SZghif7743myj-0JL_TX7algKCn/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
