@@ -46,8 +46,10 @@ Code from videos:
 
 Handout:
 
+Part1:
 <iframe src="https://drive.google.com/file/d/1wQmk5a1U8bDqJ8jkWIR-QY2D0vvDnPqR/preview" width="640" height="480" allow="autoplay"></iframe>
 
+Part2:
 <iframe src="https://drive.google.com/file/d/1wBkmYhT0M9pDrUAXX-cGrBp1mdnxJIzU/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
