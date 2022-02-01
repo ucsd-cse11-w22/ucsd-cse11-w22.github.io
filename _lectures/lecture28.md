@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 28
 name: A Big Example
-released-on: "2021-11-29"
+released-on: "2022-3-11"
 videos:
     - title: "Choosing a Representation 1"
       url: https://drive.google.com/file/d/1HBrEnxvSnJKey4CVp1V68Bp2HjGUNZnE
@@ -25,7 +25,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Please submit your CAPEs for the course at https://cape.ucsd.edu/, including evaluations for your TAs!
+Please submit your CAPEs for the course at [https://cape.ucsd.edu/](https://cape.ucsd.edu/), including evaluations for your TAs!
 
 ## Pre-class Tasks
 
