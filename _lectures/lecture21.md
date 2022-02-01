@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 21
 name: Debugging
-released-on: "2022-2-21"
+released-on: "2022-2-23"
 videos:
 worksheets:
    
