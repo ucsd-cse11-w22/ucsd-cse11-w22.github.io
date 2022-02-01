@@ -1,13 +1,13 @@
 ---
 layout: with-sidebar
-index: 13
-name: public static void main
-released-on: "2022-2-2"
+index: 17
+name: Nested Loops
+released-on: "2022-2-11"
 videos:
-  - title: main
-    url: https://drive.google.com/file/d/18RKvuJa1oYTdiloR7zH7AGBI9ucYCBQp
-  - title: args
-    url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
+  - title: Nested Loops
+    url: https://drive.google.com/file/d/1tV46H_TBDBQkS04_kfQHGJbhRA70n8Gs
+  - title: Region Loop
+    url: https://drive.google.com/file/d/157v75MQE_k0h-z9S3_tCVvaHIP-nvWFs
 worksheets:
 ---
 
@@ -15,10 +15,9 @@ worksheets:
 
 _{{ page.released-on }}_
 
-## Pre-Reading and Videos
+## Pre-class Tasks
 
-Stepik reading (same as previous reading, so no new reading):
-- [Stepik 9](https://stepik.org/lesson/579631/step/1?unit=574281)
+Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik.org/lesson/609849/step/1?unit=605131)
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
@@ -28,7 +27,9 @@ Stepik reading (same as previous reading, so no new reading):
 
 ## Handout
 
-<iframe src="https://drive.google.com/file/d/1tdDJxnfvhltW0KTTR3dsERNRkESTA5Le/preview" width="640" height="480" allow="autoplay"></iframe>
+Same as Friday (the `main` part)
+
+<iframe src="https://drive.google.com/file/d/13c0nuXCaJgXYGfhdiPNqbf2Iq1vkRR8q/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 

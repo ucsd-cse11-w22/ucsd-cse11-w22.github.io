@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 14
 name: Variables and Loops
-released-on: "2021-10-25"
+released-on: "2022-2-4"
 videos:
   - title: Variable Update
     url: https://drive.google.com/file/d/1BXvDBZyKMf-L3ET3cBFcmB-V7b4Et7yf
