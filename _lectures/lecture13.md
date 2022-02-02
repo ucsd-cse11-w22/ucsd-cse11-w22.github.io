@@ -9,6 +9,8 @@ videos:
   - title: args
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
 worksheets:
+title: Lecture
+    url: https://drive.google.com/file/d/1wdsfXgk6Yr9u_AEntsOvgxXwmDgIJTIj
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -29,6 +31,10 @@ Stepik reading (same as previous reading, so no new reading):
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1tdDJxnfvhltW0KTTR3dsERNRkESTA5Le/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 13 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/13){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
