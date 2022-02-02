@@ -9,7 +9,7 @@ videos:
   - title: args
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
 worksheets:
-title: Lecture
+  - title: Lecture
     url: https://drive.google.com/file/d/1wdsfXgk6Yr9u_AEntsOvgxXwmDgIJTIj
 ---
 
