@@ -13,7 +13,8 @@ videos:
   - title: Loops Examples
     url: https://drive.google.com/file/d/1BwyC-9QP85-SX3VlSPkbNfWxjrmTd4dT
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1xYfgoZCd2QKeVEnUMCrlob6R71sk6A4F
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -34,6 +35,10 @@ Stepik reading:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1teCdQVzzKBV9syE9p0rQj53UcTAyRjOm/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 14 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/14){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
