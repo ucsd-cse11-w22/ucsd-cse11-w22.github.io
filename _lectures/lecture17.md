@@ -27,7 +27,7 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 
 ## Handout
 
-Same as Friday (the `main` part)
+Same as last lecture (the `main` part)
 
 <iframe src="https://drive.google.com/file/d/1vpoDLspl4rsQGHkEinrRD1NJQ8K1np_j/preview" width="640" height="480" allow="autoplay"></iframe>
 
