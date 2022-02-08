@@ -38,6 +38,15 @@ Stepik reading (same as last lecture):
 
 <iframe src="https://drive.google.com/file/d/1uMjr6SZghif7743myj-0JL_TX7algKCn/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Zoom Recording
+
+Podcast failed due to technical issue in the lecture hall.
+This video was started after the first task was already assigned (first page).
+
+[Lecture 15 - Recording](https://drive.google.com/file/d/1ymxyfYcQfp2dWF_0y3GAAzQeYD1N_aB4){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1ymxyfYcQfp2dWF_0y3GAAzQeYD1N_aB4/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
