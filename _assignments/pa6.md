@@ -26,7 +26,7 @@ The starter code is available at:
 
 ## Submission
 
-Submit the following files to Gradescope in the PA5 assignment:
+Submit the following files to Gradescope in the PA6 assignment:
 
 - [ ] `ArrayExamples.java`
 - [ ] `CmdTool.java`
