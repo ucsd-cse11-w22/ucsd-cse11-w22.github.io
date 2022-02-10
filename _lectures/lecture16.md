@@ -38,7 +38,7 @@ No new Stepik reading.
 
 ## Zoom Recording
 
-Podcast failed due to record, luckily we have the zoom recording.
+Podcast failed to record, luckily we have the zoom recording.
 
 [Lecture 16 - Recording](https://drive.google.com/file/d/1zTmjCHnXLGDznXYBVr02Fp1BwGhMmMYc){:target="_blank"}
 
