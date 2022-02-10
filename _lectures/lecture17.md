@@ -17,6 +17,8 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
+Complete this [survey on Thinking Aloud/Documentation](https://forms.gle/M6xyT1m8pJv8HRoe7)
+
 Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik.org/lesson/609849/step/1?unit=605131)
 
 {% for video in page.videos %}
