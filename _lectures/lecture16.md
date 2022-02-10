@@ -36,6 +36,14 @@ No new Stepik reading.
 
 <iframe src="https://drive.google.com/file/d/1vpoDLspl4rsQGHkEinrRD1NJQ8K1np_j/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Zoom Recording
+
+Podcast failed due to record, luckily we have the zoom recording.
+
+[Lecture 16 - Recording](https://drive.google.com/file/d/1zTmjCHnXLGDznXYBVr02Fp1BwGhMmMYc){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1zTmjCHnXLGDznXYBVr02Fp1BwGhMmMYc/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
