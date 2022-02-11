@@ -9,6 +9,8 @@ videos:
   - title: Region Loop
     url: https://drive.google.com/file/d/157v75MQE_k0h-z9S3_tCVvaHIP-nvWFs
 worksheets:
+  - title: Lecture
+    url: https://drive.google.com/file/d/13C1QRNyza8GS-FdpeJreI6F0cKNiDoA-
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -32,6 +34,10 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 Same as last lecture (the `main` part)
 
 <iframe src="https://drive.google.com/file/d/1vpoDLspl4rsQGHkEinrRD1NJQ8K1np_j/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 17 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/17){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
