@@ -35,6 +35,10 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 
 <iframe src="https://drive.google.com/file/d/1vqGZv0lfre5yOBDbsjskqr-1SGvn0kij/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Recording
+
+[Lecture 18 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/18){:target="_blank"}
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
