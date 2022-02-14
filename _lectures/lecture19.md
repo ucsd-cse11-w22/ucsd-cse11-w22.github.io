@@ -11,6 +11,8 @@ worksheets:
 
 _{{ page.released-on }}_
 
+- Complete this [survey on  Thinking Aloud/Documentation](https://forms.gle/M6xyT1m8pJv8HRoe7){:target="_blank"}
+
 No new content for pre-class; we'll work through the Connect 4 example more
 today.
 
