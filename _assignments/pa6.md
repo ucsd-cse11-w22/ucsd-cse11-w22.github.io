@@ -178,7 +178,7 @@ You will be responsible for implementing the following 12 command options:
   - `class Greater { ... }` which corresponds to the `greater` command option. You will use the String representation of `#` for the constructor.
   - `class Lesser { ... }` which corresponds to the `lesser` command option. You will use the String representation of `#` for the constructor.
   - `class Equal { ... }` which corresponds to the `equal` command option. You will use the String representation of `#` for the constructor.
-  - `class CmdList { ... }` which corresponds to the `-l` and `-list` command options
+  - `class CmdList { ... }` which corresponds to the `-l` and `-list` command options. You will use a `Command[]` for the constructor
   
 
   Here is a list of recommended progress milestones that may help you while implementing `CmdTool`. It is not required that you follow these milestones. Be aware that as you progress through the different milestones, you should not be losing any functionality. 
