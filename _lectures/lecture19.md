@@ -22,6 +22,12 @@ today.
 
 <iframe src="https://drive.google.com/file/d/1vyAaXbHgsHagaOgrKHeFKOVarL3FMM-M/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Zoom Recording
+
+Podcast failed to record, luckily we have the zoom recording.
+
+[Lecture 19 - Recording](https://drive.google.com/file/d/169CVo2bZAgOkwlHonqKd_OUvlYu1zFUs){:target="_blank"}
+
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
