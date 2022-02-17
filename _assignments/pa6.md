@@ -183,7 +183,7 @@ You will be responsible for implementing the following 12 command options:
 
   Here is a list of recommended progress milestones that may help you while implementing `CmdTool`. It is not required that you follow these milestones. Be aware that as you progress through the different milestones, you should not be losing any functionality. 
 
-  ### Milestone 1
+  **Milestone 1**
   Your program should take in one command option between `sum`, `product`, `mean`, `max`, `min`, `positive`, `negative`, and `count` and a list of integers on the command line and print out the result.
 
   ```
@@ -214,7 +214,7 @@ You will be responsible for implementing the following 12 command options:
   3
   ```
 
-  ### Milestone 2
+ **Milestone 2**
   Your program should take in one command option between `greater`, `lesser`, and `equal` and a list of integers on the command line and print out the result
 
   ```
@@ -230,7 +230,7 @@ You will be responsible for implementing the following 12 command options:
   3 3
   ```
 
-  ### Milestone 3
+**Milestone 3**
   Your program should take in the `-l` or `-list` option and one of any command option and a list of integers on the command line and print out the result.
 
   ```
@@ -248,7 +248,7 @@ You will be responsible for implementing the following 12 command options:
   2.5
   ```
 
-  ### Milestone 4
+  **Milestone 4**
   Your program should take in the `-l` or `-list` option and any number of any of the command options in any order and a list of integers on the command line and print out the result.
 
   ```
