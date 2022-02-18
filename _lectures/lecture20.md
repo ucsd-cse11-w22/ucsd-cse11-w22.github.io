@@ -13,7 +13,8 @@ videos:
   - title: Constructor Exceptions
     url: https://drive.google.com/file/d/18cK8aOJ5u2shclhOltpPwUoELer3vHgI
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1B-mFAivLtTaNHpeGusZPQ2HYLNpKF4H3
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -34,6 +35,10 @@ Videos:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1vyJOGg24wvuDLADLoamxSEZ_64cAqia2/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 20 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/20){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
