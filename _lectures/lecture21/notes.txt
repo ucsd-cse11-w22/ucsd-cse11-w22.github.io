@@ -1,10 +1,3 @@
-Sorry for being so late with this, but I'm actually excited about this
-worksheet. I embraced the feedback from the meeting yesterday to do stuff
-related to PA7, and this is super-related.
-
-I've also put the code here (with line numbers exactly matching what's on the
-sheet): ...
-
 The errors that cause the exceptions on the back are:
 - Looking up parts[1] instead of parts[0] when looking for rectangle
 - The extra space in regions2.txt between 5 and 6
