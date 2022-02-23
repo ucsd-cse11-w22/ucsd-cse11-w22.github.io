@@ -6,7 +6,7 @@ released-on: "2022-2-23"
 videos:
 worksheets:
   - title: Lecture
-    url: https://drive.google.com/file/d/1C96r00Kb6mBETckARK6l7FJl4bTdlfP7
+    url: https://drive.google.com/file/d/1CCKc2JcHGm7nIvvdlLInqYVDvahPBUUh
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
