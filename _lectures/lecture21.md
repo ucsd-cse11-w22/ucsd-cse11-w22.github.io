@@ -5,7 +5,8 @@ name: Debugging
 released-on: "2022-2-23"
 videos:
 worksheets:
-   
+  - title: Lecture
+    url: https://drive.google.com/file/d/1C96r00Kb6mBETckARK6l7FJl4bTdlfP7
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -26,6 +27,10 @@ Code from class:
 Full example with file contents: [https://github.com/ucsd-cse11-w22/ucsd-cse11-w22.github.io/tree/main/_lectures/lecture21](https://github.com/ucsd-cse11-w22/ucsd-cse11-w22.github.io/tree/main/_lectures/lecture21)
 
 <iframe src="https://drive.google.com/file/d/1vxoukWPH4FTkbn2jOWl_FoDcwSDPRCr5/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 21 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/21){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
