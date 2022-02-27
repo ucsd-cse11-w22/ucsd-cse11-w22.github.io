@@ -17,6 +17,9 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
+Complete this [second survey on Impact of Diverse TAs in Computing](https://forms.gle/ww13qAyu1xZBmDFR8){:target="_blank"}
+- Surveys will be graded in the same category as Stepik exercises.
+
 No new reading.
 
 Videos:
