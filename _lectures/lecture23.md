@@ -9,7 +9,8 @@ videos:
     - title: "Wrapper Classes (Integer/Double/Boolean)"
       url: https://drive.google.com/file/d/1fxNkBh_BBr9uLfRtpU8X2B2FT9dq9Lne
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1H75c-seRiSAqZwcSAY1sm86MFxcWPTHI
 ---
 ## Problem Session {{ page.index }} – {{ page.name }}
 
@@ -33,8 +34,11 @@ Videos:
 
 <iframe src="https://drive.google.com/file/d/1w6ZlF5DxuQxfVwqj6SMU75zIGr_T0vCw/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Completed Worksheets from Dicussion and Lecture
+## Recording
 
+[Lecture 23 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/23){:target="_blank"}
+
+## Completed Worksheets from Dicussion and Lecture
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
 {{ worksheet.title }}
