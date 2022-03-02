@@ -39,6 +39,7 @@ Videos:
 [Lecture 23 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/23){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
+
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
 {{ worksheet.title }}
