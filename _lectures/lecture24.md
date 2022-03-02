@@ -11,7 +11,8 @@ videos:
     - title: "ArrayLists – Overloading"
       url: https://drive.google.com/file/d/1hOvnt1rBitXqE91kS7xSrTrSZVNaX9dZ
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1HIIgihUDw6BZDayHXcuYpv104cOmF2FQ
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -35,6 +36,10 @@ Videos:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1w8ywD3kj6WmAPCC7yvPYoBWiMlKOhBss/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 24 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/24){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
