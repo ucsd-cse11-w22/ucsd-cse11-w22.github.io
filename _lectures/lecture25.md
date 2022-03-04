@@ -11,7 +11,8 @@ videos:
     - title: "Abstract Classes 2 (First 2:00 - 20:00)"
       url: https://drive.google.com/file/d/1Xp7owWbOOTB4ubOQgiwyI-En6ubOiDzN
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1M6y5EO7Xc1ba20DI6DQCWw2vYxFWmFbl
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -35,6 +36,10 @@ Videos:
 ## Handout
 
 <iframe src="https://drive.google.com/file/d/1wI8nLx79JLqorJFjHy79IGDm_KbprdHp/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 25 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/25){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
