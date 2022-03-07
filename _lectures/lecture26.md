@@ -13,7 +13,8 @@ videos:
     - title: "toString()"
       url: https://drive.google.com/file/d/1yeM6VHMe6mLeIV_dpjx0yWG6XZ7QjlPo
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1NOjofDinxD_V7173wxW7fHhB6ZSW0i54
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -39,6 +40,10 @@ Code from lecture:
 Handout: 
 
 <iframe src="https://drive.google.com/file/d/1wKkMb2TyI1brv_Sw31Yg4KNPV910Jdt6/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 26 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/26){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
