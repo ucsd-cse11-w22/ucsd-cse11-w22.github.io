@@ -23,11 +23,6 @@ worksheets:
     url: https://drive.google.com/file/d/1SDVq3zfMM-2fOYoj_-6S-_Ci8yhE3YYa         
 ---
 
-## Recording
-
-[Lecture 28 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/28){:target="_blank"}
-
-
 ## Problem Session {{ page.index }} – {{ page.name }}
 
 _{{ page.released-on }}_
@@ -58,6 +53,10 @@ Part1:
 
 Part2:
 <iframe src="https://drive.google.com/file/d/1wBkmYhT0M9pDrUAXX-cGrBp1mdnxJIzU/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 28 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/28){:target="_blank"}
 
 ## Completed Worksheets from Dicussion and Lecture
 
