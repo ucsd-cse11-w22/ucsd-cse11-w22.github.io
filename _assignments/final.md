@@ -7,7 +7,7 @@ released-on: "2022-3-15"
 # Final Exam
 
 ### Release: 8am Tuesday March 15, 2022
-### Due: 8am Friday March 5, 2022
+### Due: 8am Friday March 18, 2022
 
 
 This page details a take-home exam that you will complete over the next few
